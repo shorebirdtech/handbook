@@ -83,10 +83,45 @@ Shorebird is here to change that.
 
 ## Team
 
-* Eric Seidel (@eseidel), Founder & CEO -- Founded Flutter before Shorebird.
-  Was previously Director of Flutter and Dart at Google.  Eric has been working
-  on helping the world stop writing everything twice 20 years, including major
+* Eric Seidel (@eseidel), Founder & CEO -- Founded Flutter before Shorebird. Was
+  previously Director of Flutter and Dart at Google.  Eric has been working on
+  helping the world stop writing everything twice 20 years, including major
   contributions to WebKit, Safari, Blink and Chrome.
+
+
+## User pain
+I've spoken with many Flutter customers.  They love Flutter, but still find pain
+using or adopting it within their businesses.  Some of the top pains I've heard
+from existing Flutter enterprise teams are:
+* Mobile releasing is hard.  Mobile releasing is harder than web.  Maintaining
+  lots of versions of apps (and associated backends) is hard.  "Code Push" is
+  one solution, but Google's Flutter team  has chosen not to invest in it.  We
+  should.
+* Keeping product and other stakeholders abreast of latest changes is hard.
+  Some would like something akin to Vercel's "Deploy Previews" for Flutter apps.
+* Teams share mobile code, would like to share backend code.  Most shops write
+  in Flutter for mobile and then a variety of languages for backends.  Many have
+  backends they would not fully re-write, so would need to plug in with existing
+  other services.
+* Teams share mobile code, would like to share web code.  Most shops write in
+  Flutter for mobile and then React for the web.
+* Dart/Flutter builds are too long.  Most often this doesn't seem to be Dart or
+Flutter itself, but rather the mobile build systems, particularly when plugins
+are involved.
+* Hard to manage many apps.  Coordinating updates (e.g. a logo) across multiple
+apps and multiple releases is hard, even with Flutter.
+* Crash reporting and analytics are "meh".  Existing solutions are not great for
+  Flutter. Some complaints that Sentry doesn't play nicely with lots of versions
+  in the wild (assumes a model of servers or web with one or few live versions).
+  Other complaints that existing analytics solutions don't fully understand
+  Flutter views (where the user has scrolled to, etc.).
+* Knowing what to use in the Flutter ecosystem is hard.  Quality of the Flutter
+  ecosystem is inconsistent.  Platform availability within the Flutter ecosystem
+  is inconsistent.
+* Testing Flutter apps (and mobile apps in general) is hard.  Some have asked
+  for something like [Mobile.dev](https://mobile.dev/) for Flutter apps.
+  Particular trouble around testing "invasive" apps, such as ones which use
+  system accessibility events.
 
 # Notes
 As this doc gets bigger, feel empowered to split it out into multiple files.
