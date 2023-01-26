@@ -36,7 +36,7 @@ value in the Web, we also see it's limits.  The Web was never designed to build
 applications or run on tiny devices and has not been capable of delivering
 sufficiently great experiences in many places, including mobile.  We built
 Flutter to solve this, but existing Flutter teams, funded primarily out of
-Google, are limited in what they are incentives to solve.
+Google, are limited in what they are incentivized to solve.
 
 Shorebird was started to solve problems others can't or wont solve with Flutter
 and bring the benefits of multi-platform development to the many millions of
