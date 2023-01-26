@@ -11,8 +11,8 @@ progress, and we welcome your feedback and contributions.
 
 ## About Shorebird
 
-Shorebird (legally Code Town, Inc) is a Deleware C Corp, founded to foster
-adoptoin of multiplatform development globally.  We were founded by some of the
+Shorebird (legally Code Town, Inc) is a Delaware C Corp, founded to foster
+adoption of multi-platform development globally.  We were founded by some of the
 same team who built Flutter and Dart and use those as our vehicle.
 
 Shorebird is likely a placeholder name until we find a better one.  Suggestions welcome.
@@ -29,24 +29,24 @@ Shorebird exists because we're frustrated that the world wastes years of human
 life, writing the same thing multiple times.
 
 Existing incentive structures, particularly around mobile, force developers to
-choose and ecosystem and thus choose a toolset.  This is unlike how the web
+choose and ecosystem and thus choose a tool-set.  This is unlike how the web
 functions, where because everything runs with the same environment everywhere
 developers write once and things (mostly) run everywhere.  While we see great
 value in the Web, we also see it's limits.  The Web was never designed to build
 applications or run on tiny devices and has not been capable of delivering
-sufficiently great experiances in many places, including mobile.  We built
-Flutter to solve this, but existing Flutter teams, funded primiarily out of
-Google, are limited in what they are incentized to solve.
+sufficiently great experiences in many places, including mobile.  We built
+Flutter to solve this, but existing Flutter teams, funded primarily out of
+Google, are limited in what they are incentives to solve.
 
 Shorebird was started to solve problems others can't or wont solve with Flutter
-and bring the benefits of multiplatform development to the many millions of
+and bring the benefits of multi-platform development to the many millions of
 developers who are still stuck on single-platform toolchains.  Every interactive
-pain of glass should deliver great user experiances, and to do that, Flutter is
+pain of glass should deliver great user experiences, and to do that, Flutter is
 likely the best tool.  Shorebird is here to help.
 
 It's important that Shorebird is a company.  We're exploiting capitalism to
-align incentives behind the world adopting multiplatform.  Flutter and other
-multiplatform solutions have suffered from a lack of economic incentives.
+align incentives behind the world adopting multi-platform.  Flutter and other
+multi-platform solutions have suffered from a lack of economic incentives.
 Shorebird is here to change that.
 
 
@@ -59,7 +59,7 @@ Shorebird is here to change that.
   Shorebird (and Flutter) serve a global audience.  We can't always be in the
   room and so the best way to "set others up to succeed" is to write things down
   in the open.  Open Source is what made Flutter successful (and web browsers
-  before it) and will be what makes Shorebird successful.  Releating to this the
+  before it) and will be what makes Shorebird successful.  Relating to this the
   idea of writing things down.  We're all getting better at this.  Responding
   with something written publicly is almost always better than a one-off
   response.
