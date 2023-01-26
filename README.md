@@ -15,7 +15,8 @@ Shorebird (legally Code Town, Inc) is a Delaware C Corp, founded to foster
 adoption of multi-platform development globally.  We were founded by some of the
 same team who built Flutter and Dart and use those as our vehicle.
 
-Shorebird is likely a placeholder name until we find a better one.  Suggestions welcome.
+Shorebird is likely a placeholder name until we find a better one.  Suggestions
+welcome.
 
 Shorebird is the name of the street on which Flutter was created.
 
@@ -42,7 +43,7 @@ Shorebird was started to solve problems others can't or wont solve with Flutter
 and bring the benefits of multi-platform development to the many millions of
 developers who are still stuck on single-platform toolchains.  Every interactive
 pain of glass should deliver great user experiences, and to do that, Flutter is
-likely the best tool.  Shorebird is here to help.
+the best tool we have so far.  Shorebird is here to help.
 
 It's important that Shorebird is a company.  We're exploiting capitalism to
 align incentives behind the world adopting multi-platform.  Flutter and other
@@ -82,8 +83,10 @@ Shorebird is here to change that.
 
 ## Team
 
-* Eric Seidel (@eseidel), Founder & CEO -- Founded Flutter before Shorebird.  Was previously Director of Flutter and Dart at Google.  Eric has been
-  working on helping the world stop writing everything twice 20 years, including major contributions to WebKit, Safari, Blink and Chrome.
+* Eric Seidel (@eseidel), Founder & CEO -- Founded Flutter before Shorebird.
+  Was previously Director of Flutter and Dart at Google.  Eric has been working
+  on helping the world stop writing everything twice 20 years, including major
+  contributions to WebKit, Safari, Blink and Chrome.
 
 # Notes
 As this doc gets bigger, feel empowered to split it out into multiple files.
