@@ -30,7 +30,7 @@ Shorebird exists because we're frustrated that the world wastes years of human
 life, writing the same thing multiple times.
 
 Existing incentive structures, particularly around mobile, force developers to
-choose and ecosystem and thus choose a tool-set.  This is unlike how the web
+choose an ecosystem and thus choose a tool-set.  This is unlike how the web
 functions, where because everything runs with the same environment everywhere
 developers write once and things (mostly) run everywhere.  While we see great
 value in the Web, we also see it's limits.  The Web was never designed to build
@@ -89,6 +89,55 @@ Shorebird is here to change that.
   contributions to WebKit, Safari, Blink and Chrome.
 
 
+## Engineering Practices
+
+### Code Review
+Shorebird is too early for code review to be useful as an approval tool.  We
+hire great people and we trust them. Code review is still encouraged as it's
+great for knowledge sharing and architecture validation, but also shouldn't be a
+bottleneck.  Just TBR another person (too be reviewed) and submit.  We'd rather
+move fast than wait for a review, especially as a global team.
+
+### Style
+We follow common style guides for the languages we use and use autoformatters.
+For Dart, we follow the [Effective
+Dart](https://dart.dev/guides/language/effective-dart) guide and use dart-format
+to enforce it, even for Flutter code.
+
+### Testing
+We write tests.  They're not required (yet), since we're still finding the
+product and tests are best at making sure we don't have to fix the same bug
+twice.  However fixing the same bug twice is a "problem of success" (something
+that can only occur when you have built something worth breaking twice).  So go
+make something people want, we'll worry about keeping it working once we know
+it's something people want.
+
+Eventually I expect we'll require testing.  The first test is always the
+hardest.  Senior team members/founders have a responsibility to write these
+first tests and unlock the rest of the team to write tests for new areas.
+
+## Management
+
+We don't currently have managers, or plan to anytime soon. Everyone just reports
+to Eric. This will eventually break down at scale.  While leading Flutter,
+Eric had 20+ direct reports before we added more managers. Managers are very
+useful for supporting people (checking in regularly, helping with onboarding,
+career development, etc), but can get in the way of constant direct
+coordination needed in small teams.
+
+## Communication
+
+Right now we all just use Discord.  We have email, but mostly Eric we use that
+for communicating to the outside world or things which need a more permanent
+record.  Everything else happens on Discord, and 90%+ in public channels.
+
+Flutter started with daily stand-ups (capped to 5 minutes total) and kept those
+all the way until 30-40 people.  It was a chance to promote daily coordination
+between members of the team and as we got larger (10+) help make sure
+individuals had resources to be unblocked and didn't accidentally work on the
+same issues.  I imagine we'll find something similar for Shorebird (synchronous
+or not) and may even do them publicly.  We'll see.
+
 ## User pain
 I've spoken with many Flutter customers.  They love Flutter, but still find pain
 using or adopting it within their businesses.  Some of the top pains I've heard
@@ -97,8 +146,8 @@ from existing Flutter enterprise teams are:
   lots of versions of apps (and associated backends) is hard.  "Code Push" is
   one solution, but Google's Flutter team  has chosen not to invest in it.  We
   should.
-* Keeping product and other stakeholders abreast of latest changes is hard.
-  Some would like something akin to Vercel's "Deploy Previews" for Flutter apps.
+* Keeping product and other stakeholders abreast of latest changes is hard. Some
+  would like something akin to Vercel's "Deploy Previews" for Flutter apps.
 * Teams share mobile code, would like to share backend code.  Most shops write
   in Flutter for mobile and then a variety of languages for backends.  Many have
   backends they would not fully re-write, so would need to plug in with existing
@@ -125,3 +174,6 @@ apps and multiple releases is hard, even with Flutter.
 
 # Notes
 As this doc gets bigger, feel empowered to split it out into multiple files.
+
+If you're reading this and think Shorebird sounds like a fun place to work, come
+check us out on Discord.  We're hiring or will be again soon.
