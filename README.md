@@ -30,7 +30,7 @@ Shorebird exists because we're frustrated that the world wastes years of human
 life, writing the same thing multiple times.
 
 Existing incentive structures, particularly around mobile, force developers to
-choose and ecosystem and thus choose a tool-set.  This is unlike how the web
+choose an ecosystem and thus choose a tool-set.  This is unlike how the web
 functions, where because everything runs with the same environment everywhere
 developers write once and things (mostly) run everywhere.  While we see great
 value in the Web, we also see it's limits.  The Web was never designed to build
