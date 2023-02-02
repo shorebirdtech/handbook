@@ -95,7 +95,7 @@ Shorebird is here to change that.
 Shorebird is too early for code review to be useful as an approval tool.  We
 hire great people and we trust them. Code review is still encouraged as it's
 great for knowledge sharing and architecture validation, but also shouldn't be a
-bottleneck.  Just TBR another person (too be reviewed) and submit.  We'd rather
+bottleneck.  Just TBR another person (to be reviewed) and submit.  We'd rather
 move fast than wait for a review, especially as a global team.
 
 ### Style
@@ -146,7 +146,7 @@ coordination needed in small teams.
 
 ## Communication
 
-Right now we all just use Discord.  We have email, but mostly Eric we use that
+Right now we all just use Discord.  We have email, but mostly we use that
 for communicating to the outside world or things which need a more permanent
 record.  Everything else happens on Discord, and 90%+ in public channels.
 
