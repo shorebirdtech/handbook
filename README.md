@@ -116,6 +116,25 @@ Eventually I expect we'll require testing.  The first test is always the
 hardest.  Senior team members/founders have a responsibility to write these
 first tests and unlock the rest of the team to write tests for new areas.
 
+### Time management & Focus
+
+One of the lessons I've had to learn is focus, particularly when getting
+something off the ground. There is always more to do than any of us can
+accomplish.  It's critical for us to be regularly reevaluating what we as a team
+view as the most important things to do and focus on those.  I've generally
+found it to be more important to work on the most important thing than to finish
+what I've started at least in the early stages of a project.  Techniques I've
+seen work well for this have involved 1) making a list every day together of the
+top N things to work on and distributing those, or b) setting a KPI for the week
+and only working on we see as moving that.
+
+Ian Hickson's approach (Flutter co-founder) was to have a whiteboard with his
+todo list on it, publicly visible next to his desk and would happily accept your
+argument as to why something else should be higher on the list.  Adam Barth
+(another Flutter co-founder) and I (Eric) would regularly (often daily) write a
+list of what we saw was the most important things for the project and pick
+things off the list and do them.
+
 ## Management
 
 We don't currently have managers, or plan to anytime soon. Everyone just reports
