@@ -135,20 +135,45 @@ argument as to why something else should be higher on the list.  Adam Barth
 list of what we saw was the most important things for the project and pick
 things off the list and do them.
 
+### Licensing Philosophy
+
+All Shorebird code is licensed under the Apache 2.0 license OR the MIT license
+at the users discretion.  This is done in service of our users.
+
+We wish for our software to be as widely consumable as possible, while also
+protecting our users from patent risk.  Apache 2.0 provides patent protections
+for users but is not as widely consumable as MIT.  Specifically Apache 2.0 is
+[incompatible with
+GPL2](https://www.apache.org/licenses/GPL-compatibility.html), which is a
+license used by many Linux distributions.
+
+Furthermore we are intentionally using existing common, standard licenses,
+rather than something bespoke. This furthers the goal that our software should
+be maximally consumable by our users as they do not have to have complicated
+discussions with their legal teams about the license as Apache 2.0 is a well
+understood license throughout the industry.
+
+[Rust](https://github.com/rust-lang/rust/blob/master/COPYRIGHT) is an example of
+sharing this philosophy.  Although I was unable to find Rust documentation of
+this philosophy, I did find
+[commentary](https://internals.rust-lang.org/t/rationale-of-apache-dual-licensing/8952/3)
+from the core team. 
+
+
 ## Management
 
 We don't currently have managers, or plan to anytime soon. Everyone just reports
-to Eric. This will eventually break down at scale.  While leading Flutter,
-Eric had 20+ direct reports before we added more managers. Managers are very
-useful for supporting people (checking in regularly, helping with onboarding,
-career development, etc), but can get in the way of constant direct
-coordination needed in small teams.
+to Eric. This will eventually break down at scale.  While leading Flutter, Eric
+had 20+ direct reports before we added more managers. Managers are very useful
+for supporting people (checking in regularly, helping with onboarding, career
+development, etc), but can get in the way of constant direct coordination needed
+in small teams.
 
 ## Communication
 
-Right now we all just use Discord.  We have email, but mostly we use that
-for communicating to the outside world or things which need a more permanent
-record.  Everything else happens on Discord, and 90%+ in public channels.
+Right now we all just use Discord.  We have email, but mostly we use that for
+communicating to the outside world or things which need a more permanent record.
+Everything else happens on Discord, and 90%+ in public channels.
 
 Flutter started with daily stand-ups (capped to 5 minutes total) and kept those
 all the way until 30-40 people.  It was a chance to promote daily coordination
