@@ -135,6 +135,10 @@ argument as to why something else should be higher on the list.  Adam Barth
 list of what we saw was the most important things for the project and pick
 things off the list and do them.
 
+### Open Source
+Following our "be open" value, we default all our source code to being open and
+licensed as permissively as possible.
+
 ### Licensing Philosophy
 
 All Shorebird code is licensed under the Apache 2.0 license OR the MIT license
@@ -159,6 +163,8 @@ this philosophy, I did find
 [commentary](https://internals.rust-lang.org/t/rationale-of-apache-dual-licensing/8952/3)
 from the core team. 
 
+[Shorebird Template](https://github.com/shorebirdtech/template) contains the
+necessary license files. Forking it is the easiest way to start a new repo.
 
 ## Management
 
