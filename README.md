@@ -158,8 +158,8 @@ discussions with their legal teams about the license as Apache 2.0 is a well
 understood license throughout the industry.
 
 [Rust](https://github.com/rust-lang/rust/blob/master/COPYRIGHT) is an example of
-sharing this philosophy.  Although I was unable to find Rust documentation of
-this philosophy, I did find
+sharing this philosophy.  Although I was unable to find official Rust
+documentation of this philosophy, I did find
 [commentary](https://internals.rust-lang.org/t/rationale-of-apache-dual-licensing/8952/3)
 from the core team. 
 
