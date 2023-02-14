@@ -81,6 +81,26 @@ Shorebird is here to change that.
   things in customers hands, yesterday.
 
 
+### A note on remote-only
+
+Eric worked mostly on web browsers before starting Flutter -- something used
+globally by billions of people and built open source by persons from every
+corner of the globe.  It taught him that there are truly brilliant and motivated
+people everywhere.  Leading Flutter and Dart (including through pandemic
+lockdowns and the resulting work-from-home diaspora) showed him that
+remote-first can work and that people can do their best work when you don't care
+where they live but rather what they get done.  So that's what we're doing at
+Shorebird. Hiring the best people, wherever they are.
+
+Remote also has its downsides, clearly.  Culture is much harder.  How do you
+build social experiences at work for those who want it?  How do you build a
+unified understanding of what the company is (as things inevitably change)
+without being in the same room regularly?  GitLab and others have written
+extensively on these
+[challenges](https://about.gitlab.com/company/culture/all-remote/guide/).  So we
+don't know, but we sure as heck are gonna try.  The world is simply too big and
+too filled with talented people to limit our hiring to one location.
+
 ## Team
 
 * Eric Seidel (@eseidel), Founder & CEO -- Founded Flutter before Shorebird. Was
