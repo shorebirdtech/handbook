@@ -6,8 +6,8 @@ handbook](https://about.gitlab.com/handbook/).
 ## Introduction
 
 The Shorebird handbook is the central repository of how we run the company.  It
-is a living document that is updated as we learn and grow.  It is a work in
-progress, and we welcome your feedback and contributions.
+is a living document that is updated as we learn and grow.  We welcome your
+feedback and contributions.
 
 ## About Shorebird
 
@@ -15,10 +15,9 @@ Shorebird (legally Code Town, Inc) is a Delaware C Corp, founded to foster
 adoption of multi-platform development globally.  We were founded by some of the
 same team who built Flutter and Dart and use those as our vehicle.
 
-Shorebird is likely a placeholder name until we find a better one.  Suggestions
-welcome.
+Shorebird is the name of the street on which Flutter was created and is likely a
+placeholder name until we find a better one.  Suggestions welcome.
 
-Shorebird is the name of the street on which Flutter was created.
 
 ## Mission
 
@@ -154,6 +153,22 @@ argument as to why something else should be higher on the list.  Adam Barth
 (another Flutter co-founder) and I (Eric) would regularly (often daily) write a
 list of what we saw was the most important things for the project and pick
 things off the list and do them.
+
+### Languages
+Where possible we use Dart.  "Dart as a single language everywhere" is part of
+the dream we sell our customers and we should eat that dogfood.  That will cause
+us to use a bunch of unfinished parts of the Dart ecosystem and find ourselves
+building out parts where we need, but that's OK.
+
+We're also practical and when Dart isn't the best choice (e.g. for parts of the
+engine) we'll use languages we need to get the job done.  We will prefer to use
+languages built in the last decade (e.g. rust, zig, etc) rather than older
+less-safe/harder-to-use languages (e.g. c, c++), but we're not dogmatic about
+this.
+
+Rarely, we will write in the single-system languages (e.g. Kotlin, Swift, Java,
+etc.) that don't port to other places.  We do that to save time for our
+customers.
 
 ### Open Source
 Following our "be open" value, we default all our source code to being open and
