@@ -1,14 +1,16 @@
-This document is a stub.  We've not had anyone join yet, so I'm sure it's
-incomplete so far.
+Note: We've not had anyone join yet, so I'm sure it's incomplete so far.
 
 Welcome to Shorebird!  We're *extremely* glad you're here.
 
 This guide is here to walk you through your first (days).
 
-# Equipment
+If you have any problems, please email Eric!
 
-* A laptop should have been delivered to your home address already.  If not,
-  please email Eric right away.
+# Days before
+* You should get an email from Rippling after signing your offer letter.  This
+will include instructions on how to set up your Rippling account and thus begin
+the digital parts of the onboarding process.
+* A laptop should have been delivered to your home address already.
 * A corporate credit card will be delivered later this week if you need any
   other equipment.
 
@@ -17,10 +19,13 @@ should have access to a Windows device, even if it's not your primary device.
 Best if it's your primary device, but it's most important that you feel
 productive on whatever you're using.
 
-# Accounts
+# Day you join
+* There will be some tax paperwork to sign and identity verification to do before
+you're legally allowed to start working.  Eric and Rippling will walk you through that.
 
-* Your GSuite account should have been created already.  If not, please email
-  Eric right away.
+## Accounts
+
+* Your GSuite account should have been created as part of the Rippling onboarding process.
 * You will use your existing GitHub account, but you will be added to the
   Shorebird organization.
 * You will use your existing Discord account, but you will be added to the
@@ -41,8 +46,7 @@ productive on whatever you're using.
 
 # Forms
 * There are a few tax forms required to fill out on your first day.  In the US
-  that's W-4 and W-9.  Eric should have emailed them to you (or linked them
-  here).  Please fill them out and return them to Eric.
+  that's W-4 and W-9.  Rippling will help you take care of this.
 * If you have an iPhone you can use the "Notes" app to scan the signed documents
   as pdfs.  Android likely has something similar.
 
