@@ -163,4 +163,4 @@ apps and multiple releases is hard, even with Flutter.
 # A note on hiring
 
 If you're reading this and think Shorebird sounds like a fun place to work, come
-check us out on Discord.  We're hiring or will be again soon.
+check us out on Discord. We're hiring or will be again soon.
