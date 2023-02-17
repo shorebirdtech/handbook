@@ -4,16 +4,32 @@
 
 ### Code Review
 Shorebird is too early for code review to be useful as an approval tool.  We
-hire great people and we trust them. Code review is still encouraged as it's
-great for knowledge sharing and architecture validation, but also shouldn't be a
-bottleneck.  Just TBR another person (to be reviewed) and submit.  We'd rather
-move fast than wait for a review, especially as a global team.
+hire great people and we trust them. Code review is still encouraged as it can
+be great for knowledge sharing and architecture validation, but also shouldn't
+be a bottleneck.  Just TBR another person (to be reviewed) and submit.  We'd
+rather move fast than wait for a review, especially as a global team.
+
+### Monorepo
+
+We currently use a monorepo for most of our code.  Part of the theory here is
+to use a codebase like what we believe best practices for enterprises should be.
+Dart/Flutter do not have great monorepo support (at least outside Google) and
+this will force us to develop that.
+
 
 ### Style
 We follow common style guides for the languages we use and use autoformatters.
 For Dart, we follow the [Effective
 Dart](https://dart.dev/guides/language/effective-dart) guide and use dart-format
 to enforce it, even for Flutter code.
+
+### Documentation
+
+We're a developer company.  Documentation is what we use to do our jobs, and by
+writing good docs we help our customers do theirs.
+
+We use [dartdoc](https://dart.dev/tools/dartdoc) for all Dart documentation and
+[rustdoc](https://doc.rust-lang.org/rustdoc/) for Rust documentation.
 
 ### Testing
 We write tests.  They're not required (yet), since we're still finding the
