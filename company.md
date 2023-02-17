@@ -72,7 +72,7 @@ Shorebird is here to change that.
 ### A note on remote-only
 
 Eric worked mostly on web browsers before starting Flutter -- something used
-globally by billions of people and built open source by persons from every
+globally by billions of people and built open source by people from every
 corner of the globe.  It taught him that there are truly brilliant and motivated
 people everywhere.  Leading Flutter and Dart (including through pandemic
 lockdowns and the resulting work-from-home diaspora) showed him that
