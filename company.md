@@ -159,6 +159,9 @@ apps and multiple releases is hard, even with Flutter.
   for something like [Mobile.dev](https://mobile.dev/) for Flutter apps.
   Particular trouble around testing "invasive" apps, such as ones which use
   system accessibility events.
+* We aim to improve performance and user experience on Apple's devices by
+  delivering high-quality and responsive user interfaces, without sacrificing
+  cross-platform compatibility.
 
 # A note on hiring
 
