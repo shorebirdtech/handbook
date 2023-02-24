@@ -30,7 +30,7 @@ Google, are limited in what they are incentivized to solve.
 Shorebird was started to solve problems others can't or wont solve with Flutter
 and bring the benefits of multi-platform development to the many millions of
 developers who are still stuck on single-platform toolchains.  Every interactive
-pain of glass should deliver great user experiences, and to do that, Flutter is
+pane of glass should deliver great user experiences, and to do that, Flutter is
 the best tool we have so far.  Shorebird is here to help.
 
 It's important that Shorebird is a company.  We're exploiting capitalism to
