@@ -4,7 +4,7 @@ The page is about Eric, CEO of Shorebird.  The page is intended to be helpful.
 If it sounds pretentious or overbearing, please let me know so I can fix it.
 Thanks.
 
-# CEO Bio
+# CEO bio
 
 Eric Seidel is the founder, Chief Executive Officer and Board Chair of Code
 Town, Inc (doing business as Shorebird).  Shorebird is here to make high-quality
@@ -36,14 +36,14 @@ want similar.
 * I’ve been told “you can’t always be in the room” so you have to get people to
   make the right decisions without you there.  I’ve come to believe “you’re
   never in the room”, so the only thing you can control is incentives. Crafting
-  incentives is I beleive the primary job of the CEO.
+  incentives is I believe the primary job of the CEO.
 
 ## Managing me
 * I work out of my inbox, so short emails are best (rather than chats or doc
   comments) if you need something from me.  Chat is fine if it’s urgent.
 * My calendly is widely shared and open for others to use to get on my schedule.
 
-## On Meetings
+## On meetings
 * We're a small company, so we shouldn't have many/any internal meetings yet.
 * Meetings should have an agenda.
 * I prepare for my 1:1s.  I keep 1:1 docs with anyone who has a regular 1:1.  I
