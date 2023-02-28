@@ -21,7 +21,7 @@ Existing incentive structures, particularly around mobile, force developers to
 choose an ecosystem and thus choose a tool-set.  This is unlike how the web
 functions, where because everything runs with the same environment everywhere
 developers write once and things (mostly) run everywhere.  While we see great
-value in the Web, we also see it's limits.  The Web was never designed to build
+value in the Web, we also see its limits.  The Web was never designed to build
 applications or run on tiny devices and has not been capable of delivering
 sufficiently great experiences in many places, including mobile.  We built
 Flutter to solve this, but existing Flutter teams, funded primarily out of
