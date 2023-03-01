@@ -21,7 +21,7 @@ Existing incentive structures, particularly around mobile, force developers to
 choose an ecosystem and thus choose a tool-set.  This is unlike how the web
 functions, where because everything runs with the same environment everywhere
 developers write once and things (mostly) run everywhere.  While we see great
-value in the Web, we also see it's limits.  The Web was never designed to build
+value in the Web, we also see its limits.  The Web was never designed to build
 applications or run on tiny devices and has not been capable of delivering
 sufficiently great experiences in many places, including mobile.  We built
 Flutter to solve this, but existing Flutter teams, funded primarily out of
@@ -30,7 +30,7 @@ Google, are limited in what they are incentivized to solve.
 Shorebird was started to solve problems others can't or wont solve with Flutter
 and bring the benefits of multi-platform development to the many millions of
 developers who are still stuck on single-platform toolchains.  Every interactive
-pain of glass should deliver great user experiences, and to do that, Flutter is
+pane of glass should deliver great user experiences, and to do that, Flutter is
 the best tool we have so far.  Shorebird is here to help.
 
 It's important that Shorebird is a company.  We're exploiting capitalism to
@@ -163,4 +163,4 @@ apps and multiple releases is hard, even with Flutter.
 # A note on hiring
 
 If you're reading this and think Shorebird sounds like a fun place to work, come
-check us out on Discord.  We're hiring or will be again soon.
+check us out on [Discord](https://discord.gg/9hKJcWGcaB).  We're hiring or will be again soon.
