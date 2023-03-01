@@ -11,8 +11,6 @@ If you have any problems, please email Eric!
 will include instructions on how to set up your Rippling account and thus begin
 the digital parts of the onboarding process.
 * A laptop should have been delivered to your home address already.
-* A corporate credit card will be delivered later this week if you need any
-  other equipment.
 
 Our customers are primarily on Windows and targeting Android devices.  You
 should have access to a Windows device, even if it's not your primary device.
@@ -22,6 +20,12 @@ productive on whatever you're using.
 # Day you join
 * There will be some tax paperwork to sign and identity verification to do before
 you're legally allowed to start working.  Eric and Rippling will walk you through that.
+* Eric will need to add you to the GitHub org as a Member or Owner if needed.
+
+
+# Days after you join
+* A corporate credit card will be delivered later this week if you need any
+  other equipment.
 
 ## Accounts
 
@@ -34,7 +38,7 @@ you're legally allowed to start working.  Eric and Rippling will walk you throug
 # Communication
 
 * You should have been added to the Shorebird Discord server.  Please join and
-  introduce yourself.  You will be added to the "Code Town" role and you will
+  introduce yourself.  You will be added to the "Birder" role and you will
   have admin powers on the Discord.
 * You should consider muting Discord, except for @mentions.  If Discord ends up
   too noisy, we'll find something quieter for internal communication.
