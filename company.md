@@ -96,6 +96,11 @@ too filled with talented people to limit our hiring to one location.
   helping the world stop writing everything twice 20 years, including major
   contributions to WebKit, Safari, Blink and Chrome.
 
+* Felix Angelov (@felangel), Founding Engineer -- Was previously
+  Head of Open Source Software at Very Good Ventures. Felix is a dedicated
+  open source maintainer with a passion for building software that
+  enables developers to build wonderful applications.
+
 ## Management
 
 We don't currently have managers, or plan to anytime soon. Everyone just reports
