@@ -9,7 +9,7 @@ Thanks.
 Eric Seidel is the founder, Chief Executive Officer and Board Chair of Code
 Town, Inc (doing business as Shorebird).  Shorebird is here to make high-quality
 multi-platform the default way to develop software. Before Shorebird, Eric
-co-founded the Fluter project at Google.  Eric lead the Flutter and Dart teams
+co-founded the Flutter project at Google.  Eric lead the Flutter and Dart teams
 at Google before leaving to found Shorebird.  Eric is a graduate of Lawrence
 University, where he studied Mathematics.
 
