@@ -164,6 +164,11 @@ apps and multiple releases is hard, even with Flutter.
   for something like [Mobile.dev](https://mobile.dev/) for Flutter apps.
   Particular trouble around testing "invasive" apps, such as ones which use
   system accessibility events.
+* Keeping models in sync are hard (client, api, server, persistence). Some use many
+  different solutions for migration and versioning. Some companies realease the
+  server before client releases. Some even have the client update data stores to
+  avoid migration issues. Code push with an end-to-end framework that solves
+  this would be nice.
 
 # A note on hiring
 
