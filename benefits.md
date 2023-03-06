@@ -9,7 +9,7 @@ manners as we learn to employ persons there.
 ## Spending Company Money
 Shorebird will pay for the items you need to get your job done.  We will provide
 you equipment when you start and you will also be provided a company card
-through which to order things needed to advanced the company.  In general the
+through which to order things needed to advance the company.  In general the
 largest expense we have is YOU.  For a sense of scale: engineers in the US cost
 ~1k per workday, so if you're spending <1k to advance the company more than a
 day forward, that's probably a win.
