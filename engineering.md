@@ -11,8 +11,8 @@ rather move fast than wait for a review, especially as a global team.
 
 ### Monorepo
 
-We currently use a monorepo for most of our code.  Part of the theory here is
-to use a codebase like what we believe best practices for enterprises should be.
+We currently use a monorepo for most of our code.  Part of the theory here is to
+use a codebase like what we believe best practices for enterprises should be.
 Dart/Flutter do not have great monorepo support (at least outside Google) and
 this will force us to develop that.
 
@@ -81,6 +81,18 @@ customers.
 ### Open Source
 Following our "be open" value, we default all our source code to being open and
 licensed as permissively as possible.
+
+Note that that although we *default* to open (both for source and communication)
+being open is itself not the point.  We will have closed sourced code (and
+communication) when appropriate, but by default we operate in the open.
+
+Examples of when it might be appropriate to be closed:
+* When it's safer for users for us to be closed (e.g. we're working on a
+  security feature and don't want to give attackers a heads up).
+* When it's less distracting for us or customers to be closed (e.g. working on
+  experimental features that might be disruptive if adopted too early).
+* Communications are closed in regards to customers, suppliers, customer data,
+  employee data, financial data, (e.g. when it's not our story to tell).
 
 ### Licensing Philosophy
 

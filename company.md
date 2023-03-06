@@ -89,6 +89,9 @@ extensively on these
 don't know, but we sure as heck are gonna try.  The world is simply too big and
 too filled with talented people to limit our hiring to one location.
 
+So far our (very early) learnings have reinforced our believe in remote-only,
+but made us question if async-only remote will work.  We're still learning.
+
 ## Team
 
 * Eric Seidel (@eseidel), Founder & CEO -- Founded Flutter before Shorebird. Was
