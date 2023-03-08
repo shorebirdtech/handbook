@@ -53,7 +53,7 @@ found it to be more important to work on the most important thing than to finish
 what I've started at least in the early stages of a project.  Techniques I've
 seen work well for this have involved 1) making a list every day together of the
 top N things to work on and distributing those, or b) setting a KPI for the week
-and only working on we see as moving that.
+and only working on what we see achieving that.
 
 Ian Hickson's approach (Flutter co-founder) was to have a whiteboard with his
 todo list on it, publicly visible next to his desk and would happily accept your
