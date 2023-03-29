@@ -18,28 +18,27 @@ Best if it's your primary device, but it's most important that you feel
 productive on whatever you're using.
 
 # Day you join
-* There will be some tax paperwork to sign and identity verification to do before
-you're legally allowed to start working.  Eric and Rippling will walk you through that.
-* Eric will need to add you to the GitHub org as a Member or Owner if needed.
-
-
-# Days after you join
-* A corporate credit card will be delivered later this week if you need any
-  other equipment.
 
 ## Accounts
 
-* Your GSuite account should have been created as part of the Rippling onboarding process.
+* Rippling should have offered you a chance to pick your GSuite username as part
+  of your offer paperwork.  That account should be enabled before you start on
+  your first day, you should get an email to your personal account.
 * You will use your existing GitHub account, but you will be added to the
-  Shorebird organization.
+  Shorebird organization.  This is currently manual (we've not set up Rippling to do it):
+  https://github.com/orgs/shorebirdtech/people
 * You will use your existing Discord account, but you will be added to the
-  Shorebird server.
+  "Birder" role on our [Discord server](https://discord.com/invite/9hKJcWGcaB). 
+  We could automate this with a Discord [Linked Role](https://support.discord.com/hc/en-us/articles/10388356626711)
+  but haven't yet.
+  `Server Settings > Roles > Birder > Add Member`
+  
 
 # Communication
 
-* You should have been added to the Shorebird Discord server.  Please join and
-  introduce yourself.  You will be added to the "Birder" role and you will
-  have admin powers on the Discord.
+* As per above, you will be added to the "Birder" role and you will
+  have admin powers on the Discord.  As a Birder, you'll see our (few) private
+  company channels and customer channels as well as the public ones.
 * You should consider muting Discord, except for @mentions.  If Discord ends up
   too noisy, we'll find something quieter for internal communication.
 * You have an email address, but don't expect to use it a ton.  We're too little
@@ -55,13 +54,14 @@ you're legally allowed to start working.  Eric and Rippling will walk you throug
   as pdfs.  Android likely has something similar.
 
 # Finances
-* Paychecks are delivered every 2 weeks.  You should have received a direct
-  deposit form.  Please fill it out and return it to Eric.
+* Paychecks are delivered every 2 weeks.  Rippling should have offered you direct
+  deposits.  Let Eric know if you have any trouble getting set up.
 
 # Code
 
 * Once you've been added to the Shorebird organization on GitHub, you should
-  clone both the internal and public repositories and play around.
+  clone the internal `_shorebird` repo.  It will automatically clone the
+  public repo `shorebird` for you as a submodule.
 
 # Product
 * Please try the product (if you haven't already).  We are here to build
