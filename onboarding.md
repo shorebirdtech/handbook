@@ -1,5 +1,3 @@
-Note: We've not had anyone join yet, so I'm sure it's incomplete so far.
-
 Welcome to Shorebird!  We're *extremely* glad you're here.
 
 This guide is here to walk you through your first (days).
