@@ -80,8 +80,14 @@ If you have any problems, please email Eric!
 
 * Once you've been added to the Shorebird organization on GitHub, you should
   clone the internal `_shorebird` repo.  It will automatically clone the
-  public repo `shorebird` for you as a submodule (you will need to run 
-  `git submodule init` and `git submodule update` after cloning).
+  public repo `shorebird` for you as a submodule.
+  
+  ```bash
+  git clone git@github.com:shorebirdtech/_shorebird.git
+  cd _shorebird
+  git submodule init
+  git submodule update
+  ```
 
 ## Product
 * Please try the product (if you haven't already).  We are here to build
