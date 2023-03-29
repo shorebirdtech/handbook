@@ -61,6 +61,11 @@ If you have any problems, please email Eric!
   with the outside world, but the rest of the company shouldn't need to meet
   much yet.  Eric's calendar is public to the company should you ever need it.
 
+## Planning
+* So far we've been working out of GitHub projects for our planning.
+  https://github.com/orgs/shorebirdtech/projects
+  With some other ad-hoc documents for longer term discussions.
+
 ## Forms
 * There are a few tax forms required to fill out on your first day.  In the US
   that's W-4 and W-9.  Rippling will help you take care of this.
