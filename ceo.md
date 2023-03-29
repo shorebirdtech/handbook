@@ -40,8 +40,12 @@ want similar.
 
 ## Managing me
 * I work out of my inbox, so short emails are best (rather than chats or doc
-  comments) if you need something from me.  Chat is fine if it’s urgent.
+  comments) if you need something from me that will take more than a few minutes
+  (e.g. Eric can you please sign a contract for this service, etc.).  Chat is
+  great if it's short or immediate.  @ me on chat if it’s urgent.
 * My calendly is widely shared and open for others to use to get on my schedule.
+  Those at Shorebird have direct access (and currently full visibility of) my
+  calendar.
 
 ## On meetings
 * We're a small company, so we shouldn't have many/any internal meetings yet.
@@ -57,3 +61,5 @@ want similar.
   evil.”
 * Problems of success -- e.g. some classes of problems only happen when you
   succeed, so let's deal with them after we’re on a path to succeed.
+
+Questions?  Send me an email or ask me on Discord.  I'll happily add things here.
