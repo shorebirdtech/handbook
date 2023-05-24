@@ -16,8 +16,9 @@ day forward, that's probably a win.
 
 ### Spending Guidelines
 
-1. Spend company money like it is your own money. No, really.
-2. You don't have to ask permission before making purchases in the interest of
+1. Spend company money like it is your own money. No, really. We hired you 
+   because we believe you make good decisions. That includes with money.
+3. You don't have to ask permission before making purchases in the interest of
    the company. When in doubt, do inform your manager prior to the purchase, or
    as soon as possible after the purchase.
 3. It is generally easiest and fastest for you to make any purchases for office
@@ -32,11 +33,6 @@ day forward, that's probably a win.
 
 Any non-company expenses should not be paid with a company credit card.
 
-## Life Insurance
-
-We're in the process of establishing a life insurance policy for all employees.
-We'll update this section when we have more information.
-
 ## Paid Time Off
 
 Shorebird has a flexible PTO policy up to 10 contiguous days without asking and
@@ -45,9 +41,10 @@ on the company and our users, not your time at keyboard; stepping away from the
 keyboard at times is an important part of ensuring our time working can be
 productive.
 
-Our time away is also balanced by the fact that we are a startup and we only
-have so many more months of runway left.  We all are here to move the company
-forward as quickly as possible when we ourselves are healthy and able to do so.
+Our time away is also balanced by the fact that we are a startup and always have
+too many things to do with too few people (and only a finite amount of runway).
+We all are here to move the company forward as quickly as possible when we
+ourselves are healthy and able to do so.
 
 ## All Remote
 
@@ -58,15 +55,15 @@ right place).
 
 ## Health Insurance
 
-Shorebird will provide health insurance for all US employees.  This will include
-Dental and Vision.  We're in the process of setting up our health insurance
-plan.  We'll update this section when we have more information.
+Shorebird offers competitive healthcare plans for all US employees and
+dependents, including dental and vision. For 2023, we are covering 95% of 
+premiums for employees and 50% of premiums for dependents. Our current
+provider is Blue Cross Blue Shield, brokered through Rippling.com.
 
 ## 401k
 
-Shorebird will provide a 401k plan for all US employees.  We're in the process
-of setting up our 401k plan.  We'll update this section when we have more
-information.
+Shorebird provides a 401k plan for all US employees with 4% employer match.
+Our current provider is Guideline, brokered through Rippling.com.
 
 ## Parental Leave
 
@@ -79,11 +76,16 @@ Shorebird provides 16 weeks of paid parental leave for any active team member
 working at Shorebird.  The entire 16 week balance must be used within 12 months
 of the birth or adoption.
 
-As we've not yet had a team member take parental leave, we're still working out
-the details.  We'll update this section when we have more information.
+As we've not yet had a team member take parental leave, so I'm sure there are
+more details to cover when we get there.
+
+## Life Insurance
+
+We provide automatic 50k life insurance for all employees, with suplemental
+insurance available through our provider, Beam.
 
 ## Short-term / Long-term Disability
 
 We are unable to offer short or long term disability insurance at this time.
-I've been told we must exist as a company for 2 years before we can offer this.
-We'll update this section when we have more information.
+We've been told we must exist as a company for 2 years before we can offer
+disability insurance. We'll update this section when we have more information.
