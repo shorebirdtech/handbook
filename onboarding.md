@@ -8,8 +8,8 @@ If you have any problems, please email Eric!
 
 # Days before
 * You should get an email from Rippling after signing your offer letter.  This
-will include instructions on how to set up your Rippling account and thus begin
-the digital parts of the onboarding process.
+  will include instructions on how to set up your Rippling account and thus
+  begin the digital parts of the onboarding process.
 * A laptop should have been delivered to your home address already.
 
 Our customers are primarily on Windows and targeting Android devices.  You
@@ -18,27 +18,29 @@ Best if it's your primary device, but it's most important that you feel
 productive on whatever you're using.
 
 # Day you join
-* There will be some tax paperwork to sign and identity verification to do before
-you're legally allowed to start working.  Eric and Rippling will walk you through that.
+* There will be some tax paperwork to sign and identity verification to do
+  before you're legally allowed to start working.  Eric and Rippling will walk you
+  through that.
 * Eric will need to add you to the GitHub org as a Member or Owner if needed.
 
 
 # Days after you join
-* A corporate credit card will be delivered later this week if you need any
-  other equipment.
+* A corporate credit card from Ramp will be delivered later this week if you 
+  need any other equipment.
 
 ## Accounts
 
-* Your GSuite account should have been created as part of the Rippling onboarding process.
+* Your GSuite account should have been created as part of the Rippling
+  onboarding process.
 * You will use your existing GitHub account, but you will be added to the
   Shorebird organization.
 * You will use your existing Discord account, but you will be added to the
-  Shorebird server.
+  Birder role on the Shorebird server.
 
 # Communication
 
-* You should have been added to the Shorebird Discord server.  Please join and
-  introduce yourself.  You will be added to the "Birder" role and you will
+* Please join the [Shorebird Discord](https://discord.gg/shorebird) if you
+  haven't already.  You will be added to the "Birder" role and you will
   have admin powers on the Discord.
 * You should consider muting Discord, except for @mentions.  If Discord ends up
   too noisy, we'll find something quieter for internal communication.
@@ -55,8 +57,11 @@ you're legally allowed to start working.  Eric and Rippling will walk you throug
   as pdfs.  Android likely has something similar.
 
 # Finances
-* Paychecks are delivered every 2 weeks.  You should have received a direct
-  deposit form.  Please fill it out and return it to Eric.
+* Paychecks are delivered every 2 weeks.  Rippling will help you set up direct
+  deposit if you so wish.
+* Depending on when you joined, withdrawals for 401k and health insurance may
+  not start on your first paycheck.  Rippling will help you set up your 401k
+  and health insurance.
 
 # Code
 
@@ -68,6 +73,11 @@ you're legally allowed to start working.  Eric and Rippling will walk you throug
   something people want.  What have you seen customers need in trying to use
   Flutter/Dart?  We should build that.  We keep a list of customer pain in the
   Handbook, please feel free to add to it.
+* While your eyes are still fresh, you are encouraged to write down any 
+  frictions you encounter in the product.  Anything you see, likely was seen
+  by 100s of customers and ignored, but we should fix it.  You'll find a
+  folder in Google Drive where others have written friction logs if you wish
+  to feel inspired.
 
 # Please edit the handbook
 * I'm sure there is a ton missing from this onboarding guide and the handbook
