@@ -94,6 +94,11 @@ If you have any problems, please email Eric!
   something people want.  What have you seen customers need in trying to use
   Flutter/Dart?  We should build that.  We keep a list of customer pain in the
   Handbook, please feel free to add to it.
+* While your eyes are still fresh, you are encouraged to write down any 
+  frictions you encounter in the product.  Anything you see, likely was seen
+  by 100s of customers and ignored, but we should fix it.  You'll find a
+  folder in Google Drive where others have written friction logs if you wish
+  to feel inspired.
 
 ## Please edit the handbook
 * I'm sure there is a ton missing from this onboarding guide and the handbook
