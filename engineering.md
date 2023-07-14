@@ -3,19 +3,19 @@
 ## Best Practices
 
 ### Code Review
-Shorebird is too early for code review to be useful as an approval tool.  We
-hire great people and we trust them. Code review is still encouraged as it can
-be great for knowledge sharing and architecture validation, but also shouldn't
-be a bottleneck.  Just TBR another person (to be reviewed) and submit.  We'd
-rather move fast than wait for a review, especially as a global team.
+We code review most things, but it's not required. We'd rather move fast than
+wait for a review, especially as a global team.
 
 ### Monorepo
 
-We currently use a monorepo for most of our code.  Part of the theory here is to
+We currently use a monorepo for most of our code `shorebird`.  Unfortunately
+it's not possible to keep all of Flutter's code in a monorepo so we have
+separate `engine`, `flutter`, `buildroot`, etc. forked repos for Flutter.
+
+Part of the theory in having a monorepo ourselves is to
 use a codebase like what we believe best practices for enterprises should be.
 Dart/Flutter do not have great monorepo support (at least outside Google) and
 this will force us to develop that.
-
 
 ### Style
 We follow common style guides for the languages we use and use autoformatters.
@@ -39,9 +39,20 @@ that can only occur when you have built something worth breaking twice).  So go
 make something people want, we'll worry about keeping it working once we know
 it's something people want.
 
-Eventually I expect we'll require testing.  The first test is always the
+For code which has found its purpose (i.e. we expect to have it still in use
+in a few months), we do expect testing. The first test is always the
 hardest.  Senior team members/founders have a responsibility to write these
 first tests and unlock the rest of the team to write tests for new areas.
+
+### Coverage
+We aspire to 100% coverage for code which has already found its purpose.  If
+you're writing something experimental or exploratory, we don't expect coverage.
+We have a CodeCov license and it's very easy to set up on new code when it's
+ready for coverage.
+
+Almost all of our Dart code is at 100% line coverage.  There are likely many
+branches that are not covered, but we've not tried to turn on branch coverage
+yet.
 
 ### Time management & Focus
 
@@ -62,6 +73,10 @@ argument as to why something else should be higher on the list.  Adam Barth
 list of what we saw was the most important things for the project and pick
 things off the list and do them.
 
+For now we've been planning via Github project boards and syncing every few
+days or so on what we think is most important.
+https://github.com/orgs/shorebirdtech/projects
+
 ### Languages
 Where possible we use Dart.  "Dart as a single language everywhere" is part of
 the dream we sell our customers and we should eat that dogfood.  That will cause
@@ -69,10 +84,10 @@ us to use a bunch of unfinished parts of the Dart ecosystem and find ourselves
 building out parts where we need, but that's OK.
 
 We're also practical and when Dart isn't the best choice (e.g. for parts of the
-engine) we'll use languages we need to get the job done.  We will prefer to use
-languages built in the last decade (e.g. rust, zig, etc) rather than older
-less-safe/harder-to-use languages (e.g. c, c++), but we're not dogmatic about
-this.
+engine, or our website) we'll use languages we need to get the job done.  We
+will prefer to use languages built in the last decade (e.g. rust, zig, etc)
+rather than older less-safe/harder-to-use languages (e.g. c, c++), but we're not
+dogmatic about this.
 
 Rarely, we will write in the single-system languages (e.g. Kotlin, Swift, Java,
 etc.) that don't port to other places.  We do that to save time for our
@@ -82,7 +97,7 @@ customers.
 Following our "be open" value, we default all our source code to being open and
 licensed as permissively as possible.
 
-Note that that although we *default* to open (both for source and communication)
+Note that although we *default* to open (both for source and communication)
 being open is itself not the point.  We will have closed sourced code (and
 communication) when appropriate, but by default we operate in the open.
 
