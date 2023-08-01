@@ -108,6 +108,11 @@ but made us question if async-only remote will work.  We're still learning.
   on Google's internal Flutter team and has extensive experience with
   enterprise usage of Flutter.
 
+* Kevin Millikin (@kmillikin), Founding Engineer -- Worked on the V8 and Dart
+  teams at Google, and was tech lead for the Dart compiler front end.  Worked
+  at DeepMind building Python developer tools.  Kevin is a compiler expert who
+  wants to create a great developer experience.
+
 ## Management
 
 We don't currently have managers, or plan to anytime soon. Everyone just reports
