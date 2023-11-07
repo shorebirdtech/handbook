@@ -135,3 +135,21 @@ from the core team.
 
 [Shorebird Template](https://github.com/shorebirdtech/template) contains the
 necessary license files. Forking it is the easiest way to start a new repo.
+
+
+### Tips and tricks
+
+#### Git Rebase
+
+You will want to set up your local Git to merge with rebase by default.
+
+`git config --global pull.rebase true`
+
+#### Spotlight Config (mac)
+
+If you're on a mac, you will want to tell spotlight not to index your source files (or at least build directories), otherwise mds_store will go crazy when you build:
+
+e.g. https://www.howtogeek.com/718731/how-to-exclude-folders-and-files-from-mac-spotlight-search/
+
+It's under "Spotlight & Siri", scroll down and click the "Privacy..." button and add your source folder.
+
