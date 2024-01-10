@@ -9,56 +9,65 @@ manners as we learn to employ persons there.
 ## Spending Company Money
 Shorebird will pay for the items you need to get your job done.  We will provide
 you equipment when you start and you will also be provided a company card
-through which to order things needed to advance the company.  In general the
-largest expense we have is YOU.  For a sense of scale: engineers in the US cost
-~1k per workday, so if you're spending <1k to advance the company more than a
-day forward, that's probably a win.
+through which to order things needed to advance the company.
+
+In most cases, your time is by far the companies largest expense.  For a sense
+of scale: engineers in the US cost ~1k per workday, so if you're spending <1k to
+advance the company more than a day forward, that's likely the right call.
 
 ### Spending Guidelines
 
 1. Spend company money like it is your own money. No, really. We hired you 
    because we believe you make good decisions. That includes with money.
 3. You don't have to ask permission before making purchases in the interest of
-   the company. When in doubt, do inform your manager prior to the purchase, or
-   as soon as possible after the purchase.
+   the company. If you're in doubt, just ping Eric.
 3. It is generally easiest and fastest for you to make any purchases for office
-   supplies yourself and expense them. If you are unable to pay for any supplies
-   yourself, please ask Eric to help.
-4. You may privately use Shorebird property, a MacBook for example, to check
+   supplies yourself and expense them.
+4. You may privately use Shorebird property, a laptop for example, to check
    your private e-mails or watch a movie as long as it does not violate the law,
    harm Shorebird, or interfere with Intellectual Property.
 5. If you make a purchase that will cost Shorebird $1000 USD per item (or over),
    this is classified as company property, you will be required to return the
    item(s) if you leave the company.
 
-Any non-company expenses should not be paid with a company credit card.
+Any non-company expenses should not be paid with a company credit card, but
+sometimes mistakes happen.  We use Ramp and it has tools to help you reimburse
+the company for accidental personal expenses.
 
 ## Paid Time Off
 
 Shorebird has a flexible PTO policy up to 10 contiguous days without asking and
-an expected minimum time-off of 10 days per calendar year.  We care about impact
-on the company and our users, not your time at keyboard; stepping away from the
-keyboard at times is an important part of ensuring our time working can be
-productive.
+we encourage everyone to step away from the keyboard for at least 10 days per
+calendar year.  We care about impact on the company and our users, not your time
+at keyboard; taking time for ourselves is an important part of ensuring our time
+working can be productive.
 
-Our time away is also balanced by the fact that we are a startup and always have
-too many things to do with too few people (and only a finite amount of runway).
-We all are here to move the company forward as quickly as possible when we
-ourselves are healthy and able to do so.
+We currently observe 11 public holidays.  The official list is kept in Rippling.
+
+So far we've had very few times where we've needed to work late nights, weekends
+or holidays, but it there will be inevitable fires and disruptions as product
+usage grows.  It's important to rest and recharge when we can.  This is a many
+year journey we're on together.
 
 ## All Remote
 
 Shorebird is an all-remote company.  We do not have an office.  We endeavor to
-hire all over the globe (currently all employees are based in the US).  You're
-welcome to work wherever you like (do let us know so we can send taxes to the
-right place).
+eventually hire all over the globe.  Currently all employees are based in the US
+and within GMT-5 to GMT-8.  You're welcome to work wherever you like (do let us
+know so we can send taxes to the right place).
+
+## Travel
+
+We try to gather for a week, 2-4 times a year as a whole company.  For such
+gatherings, of course, Shorebird covers all travel expenses.  So far we've
+traveled to Chicago and San Francisco.
 
 ## Health Insurance
 
 Shorebird offers competitive healthcare plans for all US employees and
-dependents, including dental and vision. For 2023, we are covering 95% of 
-premiums for employees and 50% of premiums for dependents. Our current
-provider is Blue Cross Blue Shield, brokered through Rippling.com.
+dependents, including dental and vision. For 2023, we are covering 95% of
+premiums for employees and 50% of premiums for dependents. Our current provider
+is Blue Cross Blue Shield, brokered through Rippling.com.
 
 ## 401k
 
@@ -81,7 +90,7 @@ more details to cover when we get there.
 
 ## Life Insurance
 
-We provide automatic 50k life insurance for all employees, with suplemental
+We provide automatic 50k life insurance for all employees, with supplemental
 insurance available through our provider, Beam.
 
 ## Short-term / Long-term Disability
