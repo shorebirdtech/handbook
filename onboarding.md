@@ -73,15 +73,18 @@ If you have any problems, please email Eric!
   as pdfs.  Android likely has something similar.
 
 ## Finances
-* Paychecks are delivered every 2 weeks.  Rippling should have offered you direct
-  deposits.  Let Eric know if you have any trouble getting set up.
+* For US employees, paychecks are delivered every 2 weeks.  Rippling should have offered
+  you direct deposits.  Let Eric know if you have any trouble getting set up.
+* For EOR employees, paychecks vary according to the country you are in. Check
+  [Deel's FAQ](https://help.letsdeel.com/hc/en-gb/articles/4413976907025-When-Do-I-Get-Paid)
+  to check the specific payment schedule for your country.
 
 ## Code
 
 * Once you've been added to the Shorebird organization on GitHub, you should
   clone the internal `_shorebird` repo.  It will automatically clone the
   public repo `shorebird` for you as a submodule.
-  
+
   ```bash
   git clone git@github.com:shorebirdtech/_shorebird.git
   cd _shorebird
