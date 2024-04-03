@@ -2,24 +2,26 @@ These guidelines will evolve over time. As written they are heavily influenced
 by [GitLab's handbook](https://about.gitlab.com/handbook/).
 
 # Introduction
+
 Benefits are currently written US-centric as all Shorebird employees currently
-reside in the US.  We may adapt offered benefits in country/region specific
+reside in the US. We may adapt offered benefits in country/region specific
 manners as we learn to employ persons there.
 
 ## Spending Company Money
-Shorebird will pay for the items you need to get your job done.  We will provide
+
+Shorebird will pay for the items you need to get your job done. We will provide
 you equipment when you start and you will also be provided a company card
 through which to order things needed to advance the company.
 
-In most cases, your time is by far the companies largest expense.  For a sense
+In most cases, your time is by far the companies largest expense. For a sense
 of scale: engineers in the US cost ~1k per workday, so if you're spending <1k to
 advance the company more than a day forward, that's likely the right call.
 
 ### Spending Guidelines
 
-1. Spend company money like it is your own money. No, really. We hired you 
+1. Spend company money like it is your own money. No, really. We hired you
    because we believe you make good decisions. That includes with money.
-3. You don't have to ask permission before making purchases in the interest of
+2. You don't have to ask permission before making purchases in the interest of
    the company. If you're in doubt, just ping Eric.
 3. It is generally easiest and fastest for you to make any purchases for office
    supplies yourself and expense them.
@@ -31,35 +33,50 @@ advance the company more than a day forward, that's likely the right call.
    item(s) if you leave the company.
 
 Any non-company expenses should not be paid with a company credit card, but
-sometimes mistakes happen.  We use Ramp and it has tools to help you reimburse
+sometimes mistakes happen. We use Ramp and it has tools to help you reimburse
 the company for accidental personal expenses.
+
+## Compensation and Equity
+
+Shorebird has so far only hired for "Founding" roles where we recognize that
+you're taking on a significant set of risk and responsibility. Our compensation
+for Founding roles have targeted >90th percentile equity and 70th percentile
+cash compensation.  We have used a variety of benchmarking services (pave.com,
+levels.fyi) to help us match market rates. We expect this balance will
+necessarily shift as we grow as a company.
+
+In alignment with our remote-only approach, we have thus far chosen to adjust
+pay based only on country rather than city level location.  The belief being
+that different countries have different "social contracts" for who pays for
+what, but that the work we are doing is the same regardless of where one might
+chose to live within a country.
 
 ## Paid Time Off
 
 Shorebird has a flexible PTO policy up to 10 contiguous days without asking and
 we encourage everyone to step away from the keyboard for at least 10 days per
-calendar year.  We care about impact on the company and our users, not your time
+calendar year. We care about impact on the company and our users, not your time
 at keyboard; taking time for ourselves is an important part of ensuring our time
 working can be productive.
 
-We currently observe 11 public holidays.  The official list is kept in Rippling.
+We currently observe 11 public holidays. The official list is kept in Rippling.
 
 So far we've had very few times where we've needed to work late nights, weekends
 or holidays, but it there will be inevitable fires and disruptions as product
-usage grows.  It's important to rest and recharge when we can.  This is a many
+usage grows. It's important to rest and recharge when we can. This is a many
 year journey we're on together.
 
 ## All Remote
 
-Shorebird is an all-remote company.  We do not have an office.  We endeavor to
-eventually hire all over the globe.  Currently all employees are based in the US
-and within GMT-5 to GMT-8.  You're welcome to work wherever you like (do let us
+Shorebird is an all-remote company. We do not have an office. We endeavor to
+eventually hire all over the globe. Currently all employees are based in the US
+and within GMT-5 to GMT-8. You're welcome to work wherever you like (do let us
 know so we can send taxes to the right place).
 
 ## Travel
 
-We try to gather for a week, 2-4 times a year as a whole company.  For such
-gatherings, of course, Shorebird covers all travel expenses.  So far we've
+We try to gather for a week, 2-4 times a year as a whole company. For such
+gatherings, of course, Shorebird covers all travel expenses. So far we've
 traveled to Chicago and San Francisco.
 
 ## Health Insurance
@@ -77,12 +94,12 @@ Our current provider is Guideline, brokered through Rippling.com.
 ## Parental Leave
 
 Shorebird provisions for Parental Leave which may apply to team members but this
-may vary depending on local country laws.  Currently this section is written
+may vary depending on local country laws. Currently this section is written
 US-centric as all Shorebird employees currently reside in the US.
 
 Shorebird provides 16 weeks of paid parental leave for any active team member
 (regardless of gender) who becomes a parent through childbirth or adoption while
-working at Shorebird.  The entire 16 week balance must be used within 12 months
+working at Shorebird. The entire 16 week balance must be used within 12 months
 of the birth or adoption.
 
 As we've not yet had a team member take parental leave, so I'm sure there are
