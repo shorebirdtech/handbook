@@ -2,11 +2,8 @@
 
 Shorebird company handbook.
 
-The Shorebird handbook is the central repository of how we run the company.  It
-is a living document that is updated as we learn and grow.  We welcome your
-feedback and contributions.
-
-The doc got big, so I split it into sections:
+The Shorebird handbook is living document describing how we run the company.  We
+welcome your feedback and contributions.
 
 # Sections
 * [Company](company.md)
@@ -14,10 +11,9 @@ The doc got big, so I split it into sections:
 * [Onboarding](onboarding.md)
 * [CEO](ceo.md)
 
-
 # Contributing
 
-There are many things missing from this handbook; contributions are welcome.  If
+There are many things missing; contributions are welcome.  If
 you're looking for inspiration, there is good prior art:
 * https://about.gitlab.com/handbook
 * https://posthog.com/handbook
