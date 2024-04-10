@@ -41,12 +41,12 @@ the company for accidental personal expenses.
 Shorebird has so far only hired for "Founding" roles where we recognize that
 you're taking on a significant set of risk and responsibility. Our compensation
 for Founding roles have targeted >90th percentile equity and 70th percentile
-cash compensation.  We have used a variety of benchmarking services (pave.com,
+cash compensation. We have used a variety of benchmarking services (pave.com,
 levels.fyi) to help us match market rates. We expect this balance will
 necessarily shift as we grow as a company.
 
 In alignment with our remote-only approach, we have thus far chosen to adjust
-pay based only on country rather than city level location.  The belief being
+pay based only on country rather than city level location. The belief being
 that different countries have different "social contracts" for who pays for
 what, but that the work we are doing is the same regardless of where one might
 chose to live within a country.
@@ -78,6 +78,22 @@ know so we can send taxes to the right place).
 We try to gather for a week, 2-4 times a year as a whole company. For such
 gatherings, of course, Shorebird covers all travel expenses. So far we've
 traveled to Chicago and San Francisco.
+
+### Tips for booking travel
+
+- Use your company card for all travel expenses when possible.
+- Rental cars are rarely worth it. Uber/Lyft is usually cheaper/better (even
+  for 1+ hour rides).
+- Book hotels and flights _directly_ with the hotel/airline. It's usually
+  cheaper and you get better service. The various booking sites are sometimes
+  cheaper but non-refundable. (Most are effectively SEO/marketing companies that
+  take a majority cut of the booking and result in the hotel/airline not being
+  able to adjust your reservation or refund you since they themselves only got
+  a small cut of the booking.)
+- Book refundable flights. It's usually only $100 more for US travel and allows
+  us to adjust plans without losing the entire ticket cost.
+- Airbnb can often get a nice place for cheaper than individual hotel rooms if
+  you're interested in sharing a house with others.
 
 ## Health Insurance
 
