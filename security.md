@@ -5,7 +5,7 @@ This is our public security policy, which is a subset of our security practices.
 This document exists both for education of our employees as well as for
 reference by our customers.  Changes are welcome and should be reviewed by Eric.
 
-Shorebird is an software application.  Most of our code is open source and
+Shorebird is a software application.  Most of our code is open source and
 publicly reviewable on GitHub.  We use Google Cloud for the bulk of our
 infrastructure.
 
