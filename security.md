@@ -160,12 +160,15 @@ not (e.g. Canva).
 
 ### Production Access
 
-Production access is logged. We use [Google Cloud
-IAM](https://cloud.google.com/iam) for access control and [Google Cloud
-Logging](https://cloud.google.com/logging) for logging.
+We use [Google Cloud IAM](https://cloud.google.com/iam) for access control and
+[Google Cloud Logging](https://cloud.google.com/logging) for logging.
 
-We have an additional (read-only) admin layer on top of production to obviate
-need for direct access to production.
+A small number of engineers have access to production systems, for which
+we have a dedicated machine for access.  Production changes are all done via
+CI/CD pipelines, as detailed in the Change Management section.
+
+We have an additional (read-only) admin layer to a subset of our production
+systems for monitoring and support purposes.
 
 ### Personal Devices
 
