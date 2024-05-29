@@ -3,15 +3,39 @@
 This is our public security policy, which is a subset of our security practices.
 
 This document exists both for education of our employees as well as for
-reference by our customers.  Changes are welcome and should be reviewed by Eric.
+reference by our customers.  Changes are welcome and should be reviewed the CEO.
+
+Authorship and change history for this policy are visible in the git history of
+this document.
+
+Management reviews this document annually.
+
+Exceptions to these policies are reviewed by the CEO.
+
+## About Shorebird
 
 Shorebird is a software application.  Most of our code is open source and
 publicly reviewable on GitHub.  We use Google Cloud for the bulk of our
 infrastructure.
 
-Shorebird only offers a hosted service at this time.  We do not offer [on-prem
-or cloud-prem at this
-time](https://github.com/shorebirdtech/shorebird/issues/485).
+Shorebird only offers a hosted service at this time.  We do not currently offer
+[on-prem or cloud-prem](https://github.com/shorebirdtech/shorebird/issues/485).
+
+## Organization
+
+Shorebird is a small company.  We are 4 as of May 2024.
+
+Eric (CEO) is end-responsible for all things Shorebird, including informational
+security.  We do not have a dedicated security team, but security is part of
+our engineering culture.
+
+## Bug Bounty
+
+We do not currently offer a bug bounty program.  We are open to receiving
+reports of security vulnerabilities.
+
+contact@shorebird.dev is the best way to reach us.  We will respond to reports
+in a timely manner.
 
 ## Terms
 
@@ -25,6 +49,83 @@ All employees are required to sign a confidentiality agreement.  Employees
 receive security training as part of their onboarding process, including reading
 this document.
 
+Shorebird does not use contractors at this time.  If we do in the future, they
+will be covered by the same security policies as employees and sign the same
+confidentiality agreement.
+
+## Infrastructure
+
+Shorebird is hosted on Google Cloud.  We use Google Cloud's security features to
+secure our infrastructure.  We have a dedicated VPC for our infrastructure.
+
+Currently Shorebird only uses Google Cloud's Iowa region.  We have plans to
+expand to other regions in the future for our international customers.
+
+Shorebird uses Google Cloud's managed services where possible.  We do not manage
+custom versions of software or operating systems, but instead rely on Google
+Cloud to manage and update these services on a daily basis.  For example, our
+application end points use Google Cloud Run which is a managed service that
+lives no longer than an hour, allowing Google to manage the underlying
+infrastructure including patching continuously.  Other parts of our
+infrastructure are similar.
+
+## Network Access
+
+Shorebird is a web application.  We use HTTPS for all communication between our
+application and our customers.  We use Google Cloud's managed SSL certificates
+for this.
+
+Use of Shorebird requires access to the following web addresses:
+- `api.shorebird.dev`
+- `console.shorebird.dev`
+- `storage.googleapis.com`
+
+Only the https port should be needed for access to Shorebird.
+
+See also https://docs.shorebird.dev/faq/#can-i-use-shorebird-in-my-country.
+
+## Confidentiality
+
+Shorebird Terms of Service and Privacy Policy are available at
+https://shorebird.dev/terms and https://shorebird.dev/privacy respectively
+which cover our obligations to you as our customer.
+
+### Customer Data
+
+In general we do not access customer data unless required as part of providing
+you support or monitoring the service for usage and security.
+
+We treat customer data as confidential. We have logging in place to detect
+unauthorized access to customer data. Customer data may be accessed by employees
+as part of providing support to you.
+
+We do not share customer data with
+third parties except as required by law.  We have a few third party services
+that we use to run our business, see our privacy policy for our list of vendors:
+https://shorebird.dev/privacy/
+
+Examples of customer data we store include:
+- Email address and Name
+- Stripe Customer ID (we do not store any payment information)
+- Built applications archives (e.g. .xcarchive, .aab for Releases and Patches)
+- Release Metadata (e.g. flutter version, xcode version, java version, etc.)
+
+Google Cloud encrypts all data at rest by default.
+
+### End User Data (Customer's Customers)
+
+Shorebird does not process, transmit or store personally identifiable
+information for our customers' end users.  We do not have access to end user
+data.
+
+Some regions consider IP addresses to be personally identifiable information,
+Google Cloud does record IP addresses in logs.  We do not access these IP
+addresses in logs for any purpose other than security and monitoring.
+
+Shorebird's product allows you, and only you, to update the code of your
+application on end user devices.  We do not collect or wish to collect any
+information from these users or devices.
+
 ## Access Control
 
 ### Passwords
@@ -37,6 +138,9 @@ We do not recommend ever typing a password.  Instead, we recommend using a
 password manager to generate and store passwords.  This ensures that passwords
 will never be input into a place they were not intended to be.
 
+Access to our SSO provider (Google) has required strong passwords (Google's
+guidelines) and two factor authentication (2FA).
+
 ### Accounts
 
 Accounts are bucketed into having handling customer data (e.g. Google Cloud) or
@@ -44,7 +148,7 @@ not (e.g. Canva).
 
 - All accounts and services we use are logged in our Accounts sheet.
 - All accounts should authenticate through Google OAuth (SSO).  Exceptions must
-  be approved by Eric.
+  be approved by the CEO.
 - Accounts that can never reach customer data (e.g. Twitter), may alternatively
   use a strong password stored in 1Password and two factor authentication if SSO
   is not available.
@@ -58,6 +162,29 @@ Logging](https://cloud.google.com/logging) for logging.
 We have an additional (read-only) admin layer on top of production to obviate
 need for direct access to production.
 
+### Personal Devices
+
+We do not permit access to Shorebird production systems from personal devices.
+
+We do not permit access to customer data from personal devices.
+
+The vast majority of Shorebird's code and operations are handled in the open,
+either via public code on GitHub, or public discussions on Discord, so while
+we do not permit access to internal systems from personal devices, employees
+generally do not need access to internal systems to do their work.
+
+### Physical Access
+
+Shorebird is an all-remote company.  We have no physical office or visitor
+policies.  We do not have physical servers.
+
+Employees are obligated to maintain physical security of their devices and the
+confidentiality of any customer data they may access as part of supporting a
+customer.
+
+Employees are issued devices by the company and are required to use full disk
+encryption on their devices.
+
 ## Change Management
 
 ### Code Reviews
@@ -67,6 +194,18 @@ We have branch policies in place on all of our repositories to ensure such. This
 is done in service of security, but also in service of code quality.  We believe
 that code reviews are the best way to ensure that code is secure, maintainable,
 and understandable.
+
+### Updates
+
+We keep all of our dependencies up to date.  All of our repositories are
+expected to use [Dependabot](https://dependabot.com/) to automatically open pull
+requests for updates to our dependencies.
+
+All of our production code has 100% test coverage.  We have automated tests in
+place to ensure that changes do not break our application.  Debugging or
+non-production code is not required to have 100% test coverage.
+
+See our engineering policies in our [engineering handbook](engineering.md).
 
 ### Deployment
 
@@ -108,6 +247,14 @@ We have a private playbook for incident response.  We have logging and alerting
 in place to detect and respond to incidents.  We have both dedicated private
 channels on Discord for response as well as back-up text communication pathways
 as well as phone numbers for all engineers.
+
+### Post Mortems
+
+We have a post mortem process in place for incidents.  We review incidents
+within 48 hours of their occurrence and write a post mortem document that is
+shared with the team.  We use these post mortems to improve our systems and
+processes.  We do not currently share our post mortems publicly, although we are
+considering doing so in the future.
 
 ## Data Privacy
 
