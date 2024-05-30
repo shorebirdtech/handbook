@@ -8,7 +8,7 @@ reference by our customers. Changes are welcome and should be reviewed the CEO.
 Authorship and change history for this policy are visible in the git history of
 this document.
 
-Management reviews this document annually.
+Management reviews this document annually. Last Reviewed: May 2024.
 
 Exceptions to these policies are reviewed by the CEO.
 
@@ -26,16 +26,16 @@ Shorebird only offers a hosted service at this time. We do not currently offer
 Shorebird is a small company. We are 4 as of May 2024.
 
 Eric (CEO) is end-responsible for all things Shorebird, including informational
-security. We do not have a dedicated security team, but security is part of
-our engineering culture.
+security. We do not have a dedicated security team, but security is part of our
+engineering culture and we have built a team with experience in security.
 
 ## Bug Bounty
 
-We do not currently offer a bug bounty program. We are open to receiving
-reports of security vulnerabilities.
+We do not currently offer a bug bounty program. We welcome reports of security
+vulnerabilities.
 
-contact@shorebird.dev is the best way to reach us. We will respond to reports
-in a timely manner.
+contact@shorebird.dev is the best way to reach us. We will respond to reports in
+a timely manner.
 
 ## Terms
 
@@ -89,8 +89,8 @@ See also https://docs.shorebird.dev/faq/#can-i-use-shorebird-in-my-country.
 ## Confidentiality
 
 Shorebird Terms of Service and Privacy Policy are available at
-https://shorebird.dev/terms and https://shorebird.dev/privacy respectively
-which cover our obligations to you as our customer.
+https://shorebird.dev/terms and https://shorebird.dev/privacy respectively which
+cover our obligations to you as our customer.
 
 ### Customer Data
 
@@ -101,10 +101,9 @@ We treat customer data as confidential. We have logging in place to detect
 unauthorized access to customer data. Customer data may be accessed by employees
 as part of providing support to you.
 
-We do not share customer data with
-third parties except as required by law. We have a few third party services
-that we use to run our business, see our privacy policy for our list of vendors:
-https://shorebird.dev/privacy/
+We do not share customer data with third parties except as required by law. We
+have a few third party services that we use to run our business, see our privacy
+policy for our list of vendors: https://shorebird.dev/privacy/
 
 Examples of customer data we store include:
 
@@ -135,8 +134,8 @@ information from these users or devices.
 
 All passwords are stored in a password manager. We use
 [1Password](https://1password.com/). We do not store passwords in code, in
-emails, or in any other insecure location. Passwords should never be passed to
-a command line program as an argument, as they will then be stored in the shell
+emails, or in any other insecure location. Passwords should never be passed to a
+command line program as an argument, as they will then be stored in the shell
 history file.
 
 We do not recommend ever typing a password. Instead, we recommend using a
@@ -163,9 +162,9 @@ not (e.g. Canva).
 We use [Google Cloud IAM](https://cloud.google.com/iam) for access control and
 [Google Cloud Logging](https://cloud.google.com/logging) for logging.
 
-A small number of engineers have access to production systems, for which
-we have a dedicated machine for access.  Production changes are all done via
-CI/CD pipelines, as detailed in the Change Management section.
+A small number of engineers have access to production systems, for which we have
+a dedicated machine for access. Production changes are all done via CI/CD
+pipelines, as detailed in the Change Management section.
 
 We have an additional (read-only) admin layer to a subset of our production
 systems for monitoring and support purposes.
@@ -177,8 +176,8 @@ We do not permit access to Shorebird production systems from personal devices.
 We do not permit access to customer data from personal devices.
 
 The vast majority of Shorebird's code and operations are handled in the open,
-either via public code on GitHub, or public discussions on Discord, so while
-we do not permit access to internal systems from personal devices, employees
+either via public code on GitHub, or public discussions on Discord, so while we
+do not permit access to internal systems from personal devices, employees
 generally do not need access to internal systems to do their work.
 
 ### Physical Access
@@ -205,9 +204,9 @@ and understandable.
 
 ### Updates
 
-We keep all of our dependencies up to date. All of our repositories are
-expected to use [Dependabot](https://dependabot.com/) to automatically open pull
-requests for updates to our dependencies.
+We keep all of our dependencies up to date. All of our repositories are expected
+to use [Dependabot](https://dependabot.com/) to automatically open pull requests
+for updates to our dependencies.
 
 All of our production code has 100% test coverage. We have automated tests in
 place to ensure that changes do not break our application. Debugging or
@@ -245,8 +244,8 @@ access to such is restricted to a small number of engineers and is logged.
 
 ## Supplier Relationships
 
-We use a number of third party services to run our business. We list those
-which may come in contact with customer data as part of our privacy policy:
+We use a number of third party services to run our business. We list those which
+may come in contact with customer data as part of our privacy policy:
 https://shorebird.dev/privacy
 
 ## Incident Response
@@ -258,11 +257,11 @@ as well as phone numbers for all engineers.
 
 ### Post Mortems
 
-We have a post mortem process in place for incidents. We review incidents
-within 48 hours of their occurrence and write a post mortem document that is
-shared with the team. We use these post mortems to improve our systems and
-processes. We do not currently share our post mortems publicly, although we are
-considering doing so in the future.
+We have a post mortem process in place for incidents. We review incidents within
+48 hours of their occurrence and write a post mortem document that is shared
+with the team. We use these post mortems to improve our systems and processes.
+We do not currently share our post mortems publicly, although we are considering
+doing so in the future.
 
 ## Data Privacy
 
@@ -274,8 +273,8 @@ law. Your data is stored in association with your account and deleted when you
 delete your account.
 
 Shorebird does not process, transmit or store personally identifiable
-information for our customers' end users. Additionally, we take care to store
-as little data from our customers (you) as possible.
+information for our customers' end users. Additionally, we take care to store as
+little data from our customers (you) as possible.
 
 ## Acceptable Use
 
