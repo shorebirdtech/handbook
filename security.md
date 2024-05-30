@@ -180,6 +180,8 @@ either via public code on GitHub, or public discussions on Discord, so while we
 do not permit access to internal systems from personal devices, employees
 generally do not need access to internal systems to do their work.
 
+All employees are provided with company devices for work.
+
 ### Physical Access
 
 Shorebird is an all-remote company. We have no physical office or visitor
