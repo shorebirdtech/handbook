@@ -134,7 +134,7 @@ all the way until 30-40 people.  It was a chance to promote daily coordination
 between members of the team and as we got larger (10+) help make sure
 individuals had resources to be unblocked and didn't accidentally work on the
 same issues.  I imagine we'll find something similar for Shorebird (synchronous
-or not) and may even do them publicly.  We'll see.  For now we use the #standup
+or not) and may even do them publicly.  We'll see.  For now we use the standup
 channel on Discord to post what we're working on each day.
 
 ## Spending company money

@@ -60,7 +60,7 @@ If you have any problems, please email Eric!
   attention and spam on Discord are violations of our policies, please do not
   hesitate to ask in private channels for assistance removing Discord visitors.
 * Current patterns have involved a most-days sync over VC and brief end-of-day
-  updates in #standup.  I expect these to evolve over time as we grow.
+  updates in standup.  I expect these to evolve over time as we grow.
 * You have an email address, but so far haven't needed them much.  #dev-chatter
   is where the constant back-and-forth is currently happening.
 * You have a calendar, but also don't plan to use it a ton.  Eric has meetings
