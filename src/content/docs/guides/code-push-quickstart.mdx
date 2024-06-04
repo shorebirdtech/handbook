@@ -1,0 +1,161 @@
+---
+title: Code Push Quickstart
+description: Try code push for yourself
+sidebar:
+  order: 1
+---
+
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+
+This guide shows you the fastest way to install Shorebird and try code push.
+
+This document is a (slightly) condensed version of our [code
+push](/code-push/initialize) docs, all on one page.
+
+## Sign up
+
+Before you can create a Shorebird app, you will need to sign up for Shorebird.
+
+### Create an account
+
+To create an account, head over to the [Shorebird
+Console](https://console.shorebird.dev) and authenticate with one of the available authentication methods.
+
+Once you have logged into the console, follow the instructions to install the
+Shorebird CLI on your machine.
+
+## Create the app
+
+Once you have registered and installed the CLI, you're ready to use code push!
+
+Start by creating a new Flutter app:
+
+```sh
+flutter create my_shorebird_app
+```
+
+As with any Flutter app, you can verify this created the standard Counter app by
+following the instructions printed by `flutter create`:
+
+```sh
+cd my_shorebird_app
+flutter run
+```
+
+### Initialize Shorebird
+
+To make this a Shorebird app, run:
+
+```sh
+shorebird init
+```
+
+This will create a `shorebird.yaml` file in the root of your project. This file
+contains your Shorebird `app_id`.
+
+This will also run `shorebird doctor` to ensure everything is set up correctly.
+
+:::info
+Shorebird expects to find the latest stable `flutter` installed on your
+machine. Shorebird can be configured to work with older versions of Flutter
+(back to 3.10.0). See [Flutter Version Management](/flutter-version) for more
+info.
+:::
+
+### Create a release
+
+We will create a release using the unmodified Counter app. Run:
+
+<Tabs>
+
+<TabItem value="android" label="Android">
+
+```sh
+shorebird release android
+```
+
+</TabItem>
+
+<TabItem value="ios" label="iOS">
+
+```sh
+shorebird release ios
+```
+
+</TabItem>
+</Tabs>
+
+When prompted, use the suggested version number (`1.0.0+1`), and enter `y` when
+asked if you would like to continue.
+
+### Preview the release
+
+To preview the release with Shorebird (that is, with [Shorebird's fork of the
+Flutter engine](/faq#how-does-shorebird-relate-to-flutter)), run:
+
+```sh
+shorebird preview
+```
+
+Now kill the app on your device or emulator.
+
+### Create a patch
+
+We will now make a small change to the Counter app. In `lib/main.dart`, change
+the app theme's `primarySwatch` from blue to green:
+
+```diff
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        // This is the theme of your application.
+        //
+        // Try running your application with "flutter run". You'll see the
+        // application has a blue toolbar. Then, without quitting the app, try
+        // changing the primarySwatch below to Colors.green and then invoke
+        // "hot reload" (press "r" in the console where you ran "flutter run",
+        // or simply save your changes to "hot reload" in a Flutter IDE).
+        // Notice that the counter didn't reset back to zero; the application
+        // is not restarted.
+-       primarySwatch: Colors.blue,
++       primarySwatch: Colors.green,
+      ),
+      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+    );
+  }
+}
+```
+
+After making this change, save the file and run:
+
+<Tabs>
+
+<TabItem value="android" label="Android">
+
+```sh
+shorebird patch android
+```
+
+</TabItem>
+
+<TabItem value="ios" label="iOS">
+
+```sh
+shorebird patch ios
+```
+
+</TabItem>
+
+</Tabs>
+
+### See the patch in action
+
+Launch the app from your device or emulator. The app will still have the
+original blue theme, but it will be downloading the patch we just created in the
+background. Kill and launch the app again, and the app will be green! 🎉

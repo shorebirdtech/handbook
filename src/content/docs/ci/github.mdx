@@ -1,0 +1,357 @@
+---
+title: GitHub Integration
+description: Integrate Shorebird into your GitHub workflow
+sidebar:
+  label: GitHub
+  order: 1
+---
+
+import Authentication from './_authentication.mdx';
+
+The [Setup Shorebird](https://github.com/shorebirdtech/setup-shorebird) GitHub Action allows you to integrate Shorebird into your existing GitHub Workflows.
+
+## Prerequisites
+
+✅ Shorebird CLI is installed on your machine
+
+✅ You are logged into a Shorebird account.
+
+:::info
+Refer to the [getting started](/) instructions for more information.
+:::
+
+## Quick Start
+
+To integrate Shorebird into your CI, use the `setup-shorebird` action. The `setup-shorebird` action downloads Shorebird and adds it to the system path.
+
+```yaml
+name: Shorebird Workflow Example
+
+on:
+  workflow_dispatch:
+
+jobs:
+  example:
+    defaults:
+      run:
+        shell: bash
+
+    runs-on: ubuntu-latest
+
+    steps:
+      # Use the setup-shorebird action to configure Shorebird
+      - name: 🐦 Setup Shorebird
+        uses: shorebirdtech/setup-shorebird@v1
+
+      # Now we're able to use Shorebird CLI in our workflow
+      - name: 🚀 Use Shorebird
+        run: shorebird --version
+```
+
+In the above workflow, we're using the `setup-shorebird` action to configure Shorebird in our CI and in subsequent steps we can execute any Shorebird commands.
+
+:::info
+Currently `setup-shorebird` only supports the latest stable version of shorebird.
+:::
+
+## Authentication
+
+<Authentication />
+
+Next, copy the generated `SHOREBIRD_TOKEN` and navigate to your GitHub repository secrets via:
+
+`"Settings" -> "Secrets and variables" -> "Actions"`.
+
+Then, click `"New repository secret"` and paste your `SHOREBIRD_TOKEN`:
+
+```
+name: SHOREBIRD_TOKEN
+secret: <THE GENERATED SHOREBIRD_TOKEN>
+```
+
+Now we can use the `SHOREBIRD_TOKEN` in our GitHub workflow to perform authenticated functions such as creating patches 🎉
+
+## Create Releases
+
+The simplest way to create a release is using the official Shorebird GitHub Actions:
+
+- [Setup Shorebird GitHub Action](https://github.com/marketplace/actions/setup-shorebird).
+- [Shorebird Release GitHub Action](https://github.com/marketplace/actions/shorebird-release).
+
+```yaml
+name: Shorebird Release
+
+on:
+  workflow_dispatch:
+
+env:
+  SHOREBIRD_TOKEN: ${{ secrets.SHOREBIRD_TOKEN }}
+
+jobs:
+  release:
+    defaults:
+      run:
+        shell: bash
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📚 Git Checkout
+        uses: actions/checkout@v3
+
+      - name: 🐦 Setup Shorebird
+        uses: shorebirdtech/setup-shorebird@v1
+
+      - name: 🚀 Shorebird Release
+        uses: shorebirdtech/shorebird-release@v0
+        with:
+          platform: android # or 'ios'
+```
+
+:::tip
+The `shorebird-release` action also outputs the release version:
+
+```yaml
+- name: 🚀 Shorebird Release
+  id: shorebird-release
+  uses: shorebirdtech/shorebird-release@v0
+  with:
+    platform: android # or 'ios'
+
+- name: 📝 Output Release Version
+  run: echo ${{ steps.shorebird-release.outputs.release-version }}
+```
+
+:::
+
+## Create Patches
+
+```yaml
+name: Shorebird Patch
+
+on:
+  workflow_dispatch:
+
+env:
+  SHOREBIRD_TOKEN: ${{ secrets.SHOREBIRD_TOKEN }}
+
+jobs:
+  patch:
+    defaults:
+      run:
+        shell: bash
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📚 Git Checkout
+        uses: actions/checkout@v3
+
+      - name: 🐦 Setup Shorebird
+        uses: shorebirdtech/setup-shorebird@v1
+
+      # Note: all signing information (key.properties, etc.) must be set up on
+      # this runner for `shorebird patch android` to work.
+      - name: 🚀 Shorebird Patch
+        uses: shorebirdtech/shorebird-patch@v0
+        with:
+          platform: android # or 'ios'
+```
+
+:::tip
+The `shorebird-patch` action also outputs the patch number:
+
+```yaml
+- name: 🚀 Shorebird Patch
+  id: shorebird-patch
+  uses: shorebirdtech/shorebird-patch@v0
+  with:
+    platform: android # or 'ios'
+
+- name: 📝 Output Patch Version
+  run: echo ${{ steps.shorebird-patch.outputs.patch-number }}
+```
+
+:::
+
+## Fully Automated Workflow Example
+
+A fully automated workflow between your project repository and the CI service can allow developers
+to trigger deploys of your application just by pushing to the project repository,
+streamlining the development workflow, which can reduce the chance of error due to
+repetitive, manual tasks.
+
+There are several ways of setting this up, and in many instances, how it is set up will depending
+on how the git workflow of your project is structured, or which CI service is used, among other
+factors.
+
+This guide is a simple proposal for setting up a Fully automated workflow using GitHub Actions. It
+is intentionally simple so that it can be easily adapted to different requirements and contexts.
+
+### Goal
+
+We will be implementing an automation in a project that have the following goals:
+
+- Any branches created off from `main` that starts with the prefix `release/` will trigger a
+  release at Shorebird.
+- Any additional commits on those branches will trigger patches.
+
+### Prerequisites
+
+Before anything, if you don't have a Shorebird account, be sure to create one at
+[shorebird.dev](https://shorebird.dev) (Don't worry, it is free to start have a generous quota
+that is way more than enough for this guide).
+
+You will also need a GitHub account and a project repository created. If you don't have an account
+yet, create one at [GitHub](https://github.com), and create a new repository, which for this guide
+we will call `shorebird_automated_workflow`.
+
+### Getting Started
+
+First thing, lets create a new Flutter project simply by running:
+
+```sh
+flutter create shorebird_automated_workflow
+```
+
+Be sure to initialize your project as a git repository:
+
+```sh
+cd shorebird_automated_workflow
+git init
+git remote add origin <THE_URL_OF_YOUR_REPOSITORY>
+```
+
+Next we need to initialize shorebird in it! Check out the [Code Push Getting Started](/code-push/initialize/) guide for more info.
+
+## Setting up GitHub Actions
+
+We provide a collection of official GitHub Actions to help you with the integration. For this guide
+we will be using `shorebird-setup`, `shorebird-release` and `shorebird-patch`, you can learn more
+about them at the beginning of this page.
+
+Create a new file at `.github/workflows/shorebird_android.yml` with the following content:
+
+```yaml
+name: Shorebird Android
+
+on:
+  push:
+    branches:
+      - releases/*
+
+env:
+  SHOREBIRD_TOKEN: ${{ secrets.SHOREBIRD_TOKEN }}
+
+jobs:
+  shorebird_android:
+    defaults:
+      run:
+        shell: bash
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📚 Git Checkout
+        uses: actions/checkout@v3
+
+      - name: 🐦 Setup Shorebird
+        uses: shorebirdtech/setup-shorebird@v1
+
+      - name: 🚀 Shorebird Release
+        if: ${{ github.event.created }}
+        uses: shorebirdtech/shorebird-release@v0
+        with:
+          platform: android
+
+      - name: 🚀 Shorebird Patch
+        if: ${{ !github.event.created }}
+        uses: shorebirdtech/shorebird-patch@v0
+        with:
+          platform: android
+```
+
+Let's take a closer look at the above workflow.
+The workflow will be triggered whenever a push is made to a branch that starts with `releases/`.
+
+It will then run the clone of the repository and setup the Shorebird CLI.
+
+Next the workflow is divided into two conditional steps. If the push is the one that created the
+branch, it will trigger a release. Otherwise it will trigger a patch.
+
+:::note
+The `SHOREBIRD_TOKEN` is used as an environment variable. This is a secret that
+should be stored in your repository settings. If you have not already configured the secrets, check out the
+[GitHub Integration Documentation](/ci/github) mentioned above.
+:::
+
+That's it! You should be able to push the changes to your repository and see the workflow
+running in the actions tab of your repository.
+
+Give it a try! Create a new branch called `releases/1.0.0` and push it to your repository:
+
+```sh
+git checkout -b releases/1.0.0
+git push origin releases/1.0.0
+```
+
+That will trigger the action! Once the workflow finishes, check the [Shorebird console](https://console.shorebird.dev)
+and you should see a new release for your app.
+
+Next lets make the following change in our app:
+
+```diff
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        // This is the theme of your application.
+        //
+        // Try running your application with "flutter run". You'll see the
+        // application has a blue toolbar. Then, without quitting the app, try
+        // changing the primarySwatch below to Colors.green and then invoke
+        // "hot reload" (press "r" in the console where you ran "flutter run",
+        // or simply save your changes to "hot reload" in a Flutter IDE).
+        // Notice that the counter didn't reset back to zero; the application
+        // is not restarted.
+-       primarySwatch: Colors.blue,
++       primarySwatch: Colors.green,
+      ),
+      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+    );
+  }
+}
+```
+
+And commit and push it!
+
+```sh
+git add .
+git commit -m "Change primarySwatch to green"
+git push origin releases/1.0.0
+```
+
+That will trigger the action again, but now a patch will be created 🎉.
+
+### Summary
+
+As mentioned, the workflow presented here is just one way of setting up a fully automated workflow.
+Feel free to adapt it based on your teams needs and existing processes.
+
+Some ways the workflow can be expanded are:
+
+- Instead of directly committing to the branch after the release was made. Developers would land their
+  changes and fixes on their main branch, and then `cherry-pick` it to the release branch!
+- Both `shorebird-release` and `shorebird-patch` returns the version/patch-number created. The workflow
+  could be expanded in order for tags to be created in the repository, using the version number returned
+  allowing snapshots of the code to be easily identified.
+
+See this workflow in action by checking out our [Time Shift App](https://github.com/shorebirdtech/time_shift).
+
+Thank you for reading this guide! If you have any questions or suggestions, feel free to reach out
+to us at our [Discord](https://discord.gg/shorebird).

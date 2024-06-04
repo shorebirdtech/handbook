@@ -1,0 +1,245 @@
+---
+title: Releasing to the Google Play Store
+description: Release a Code Push App to the Google Play Store
+sidebar:
+  label: Android
+  order: 1
+---
+
+This guide walks through releasing a code push app to the Google Play Store and applying a patch to that release.
+
+The app we will be releasing in this guide is [`Time Shift`](https://play.google.com/store/apps/details?id=dev.shorebird.u_shorebird_clock), our demo code push app. ([source](https://github.com/shorebirdtech/time_shift/))
+
+## Prerequisites
+
+This guide assumes that you have an existing Shorebird app. If you don't have one, you can create one by following the [code push quickstart](/guides/code-push-quickstart/) guide.
+
+## Creating a release
+
+### Determine next release version
+
+Navigate to your app on the [Shorebird console](https://console.shorebird.dev/)
+to see the current set of releases. For our app, we see that the latest release
+version is `1.0.2+5`, so the version of our next release will be `1.0.3+6`.
+
+### Make code changes
+
+Version `1.0.3+6` of Time Shift will change the default clock face from `particle` to `generative`.
+
+To make this change, edit `lib/main.dart`:
+
+```diff
+   final clock = ClockFace.values.firstWhere(
+     (clock) => clock.name == clockName,
+-    orElse: () => ClockFace.particle,
++    orElse: () => ClockFace.generative,
+   );
+```
+
+Verify that this change does what we expect by running the app with `shorebird run`.
+
+Once this change has been verified, commit this change and push it to GitHub:
+
+```sh
+git add lib/main.dart
+git commit -m "Change default clock face to generative"
+git push
+```
+
+[On GitHub](https://github.com/shorebirdtech/time_shift/commit/d1fe9451aa18a775163bce95dd9dab551aaf6259)
+
+### Update app version
+
+Next, bump the app version in `pubspec.yaml`:
+
+```diff
+name: time_shift
+description: Demo app showing Shorebird updates.
+publish_to: "none"
+
+-version: 1.0.2+5
++version: 1.0.3+6
+
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+```
+
+Commit, tag, and push the change.
+
+```sh
+git add pubspec.yaml
+git commit -m "Update app version to 1.0.3+6"
+git tag v1.0.3+6
+git push # Push the commit
+git push --tags  # Push the tag
+```
+
+[On GitHub](https://github.com/shorebirdtech/time_shift/commit/3b25df1888c170c2418162ba64a9a5e6363c09af)
+
+### Create a Shorebird release
+
+To create a Shorebird release, run `shorebird release android`. You should see output similar to the following:
+
+```
+$ shorebird release android
+✓ Building release (17.0s)
+✓ Fetching apps (0.3s)
+✓ Detecting release version (0.2s)
+
+🚀 Ready to create a new release!
+
+📱 App: time_shift (51751336-6a7c-4972-b4ec-8fc1591fb2b3)
+📦 Release Version: 1.0.3+6
+🕹️ Platform: android (arm64, arm32, x86_64)
+
+Would you like to continue? (y/N) Yes
+✓ Fetching releases (70ms)
+✓ Fetching Flutter revision (22ms)
+✓ Creating release (61ms)
+✓ Creating artifacts (2.5s)
+
+✅ Published Release!
+
+Your next step is to upload the app bundle to the Play Store.
+./build/app/outputs/bundle/release/app-release.aab
+
+See the following link for more information:
+https://support.google.com/googleplay/android-developer/answer/9859152?hl=en
+```
+
+### Upload to the Play Store
+
+As per the instructions above, we must upload the generated `.aab` to the Play Store.
+
+1. Navigate to the [Play Console](https://play.google.com/console/developers).
+1. Choose your developer account (for us, it's Shorebird.dev).
+1. Select the Time Shift app.
+1. Select "Testing -> Open Testing" from the side bar.
+1. Click the "Create new release" button.
+
+![CreateNewRelease](https://github.com/shorebirdtech/docs/assets/581764/90c9c7ed-bc39-4731-bfec-524f89e2baf6)
+
+Upload the `.aab` file located at `./build/app/outputs/bundle/release/app-release.aab`.
+
+1. From the root directory of the project, run `open ./build/app/outputs/bundle/release/` to open the folder containing the `.aab` in Finder.
+1. Drag `app-release.aab` into the Play Console to upload.
+
+Once the upload completes, the Play Store will correctly recognize the new version as `6 (1.0.3)`.
+
+![UploadedBundle](https://github.com/shorebirdtech/docs/assets/581764/1994cb5a-4cd6-4f1b-a88c-f5aaa3d1433d)
+
+Click "Next" and then "Save" (both in the bottom-right corner) to submit.
+
+This will take you to the publishing overview page. Click "Submit for review" to submit the release for review.
+
+You should now see a release in the Play Store console with an "In review" status:
+
+![InReview](https://github.com/shorebirdtech/docs/assets/581764/4cfdc7fb-2049-4110-b1cd-da99c7a491f7)
+
+Now you must wait for the Play Store to approve the release.
+
+### Create a GitHub release
+
+It's recommended to create a GitHub release as well.
+
+1. Navigate to https://github.com/shorebirdtech/time_shift/releases.
+1. Click "Draft a new release".
+1. Choose the tag we created earlier (`v1.0.3+6`).
+1. Title the release "v1.0.3+6".
+1. Add a description of the release ("Changes the default clock face to 'generative'").
+1. Publish the release.
+
+## After the release is approved
+
+Once the release has been approved, you will be able to download it from the Play Store.
+
+## Creating a patch
+
+Patches can be pushed to fix bugs in the `1.0.3+6` release without requiring a new submission to the Play Store.
+
+### Make the change
+
+Start by checking out the `v1.0.3+6` release tag:
+
+```sh
+git checkout v1.0.3+6
+```
+
+Next, create a branch, as this change will represent a divergence from the `main` branch:
+
+```sh
+git checkout -b v1.0.3+6-patch1
+```
+
+For the purposes of this guide, we will change the default clock face back to `particle` in `lib/main.dart`:
+
+```diff
+     (clock) => clock.name == clockName,
+-    orElse: () => ClockFace.generative,
++    orElse: () => ClockFace.particle,
+   );
+```
+
+Commit the change and push our new patch branch:
+
+```sh
+git add lib/main.dart
+git commit -m "Change default clock face to particle"
+git push --set-upstream origin v1.0.3+6-patch1
+```
+
+Tag this commit as `v1.0.3+6-patch1`:
+
+```sh
+git tag v1.0.3+6-patch1
+git push --tags
+```
+
+[On GitHub](https://github.com/shorebirdtech/time_shift/commit/cf4054bada74ff1c5ff84fb9aceb3f1e4442203f)
+
+### Create a Shorebird patch
+
+Finally, push the patch with `shorebird patch android`. You should see output similar to the following:
+
+```
+$ shorebird patch android
+✓ Building patch (17.2s)
+✓ Fetching apps (0.7s)
+✓ Detecting release version (0.2s)
+✓ Fetching release (99ms)
+✓ Fetching Flutter revision (13ms)
+✓ Fetching release artifacts (0.2s)
+✓ Downloading release artifacts (1.0s)
+✓ Creating artifacts (1.0s)
+
+🚀 Ready to publish a new patch!
+
+📱 App: time_shift (51751336-6a7c-4972-b4ec-8fc1591fb2b3)
+📦 Release Version: 1.0.3+6
+📺 Channel: stable
+🕹️  Platform: android [arm64 (135 B), arm32 (150 B), x86_64 (135 B)]
+
+Would you like to continue? (y/N) Yes
+✓ Creating patch (0.1s)
+✓ Uploading artifacts (0.9s)
+✓ Fetching channels (90ms)
+✓ Promoting patch to stable (61ms)
+
+✅ Published Patch!
+```
+
+This patch will now be available to users with version `1.0.3+6` of the app.
+
+### Cleanup
+
+Delete the branch to keep the repository tidy:
+
+```sh
+git checkout main
+git branch -D v1.0.3+6-patch1
+git push origin --delete v1.0.3+6-patch1
+```
+
+:::note
+This change is still accessible via the `v1.0.3+6-patch1` tag.
+:::

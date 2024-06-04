@@ -1,0 +1,191 @@
+---
+title: Create a Release
+description: Learn how to publish a new app release to Shorebird.
+sidebar:
+  label: Release
+  order: 2
+---
+
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+
+In order to start pushing updates, you will need to create a release.
+
+Creating a release builds and submits your app to Shorebird. Shorebird saves the
+compiled Dart code from your application in order to make updates smaller in
+size.
+
+<Tabs>
+
+<TabItem value="release-android" label="Android">
+
+Create an Android release by running the following command:
+
+`shorebird release android`
+
+Example output:
+
+```
+$ shorebird release android
+✓ Building release (9.6s)
+✓ Fetching apps (0.2s)
+✓ Detecting release version (0.2s)
+✓ Fetching releases (68ms)
+
+🚀 Ready to create a new release!
+
+📱 App: new_flutter_app (7a29188a-9363-426a-9a36-74a5e166373d)
+📦 Release Version: 1.0.0+1
+🕹️  Platform: android (arm64, arm32, x86_64)
+
+Would you like to continue? (y/N) Yes
+✓ Fetching Flutter revision (30ms)
+✓ Updating release status (67ms)
+✓ Creating artifacts (2.8s)
+✓ Updating release status (62ms)
+
+✅ Published Release!
+
+Your next step is to upload the app bundle to the Play Store.
+build/app/outputs/bundle/release/app-release.aab
+
+See the following link for more information:
+https://support.google.com/googleplay/android-developer/answer/9859152?hl=en
+```
+
+If your application supports flavors or multiple release targets, you can specify the flavor and target using the `--flavor` and `--target` options:
+
+```bash
+shorebird release android --target ./lib/main_development.dart --flavor development
+```
+
+:::info
+`shorebird release` wraps `flutter build` and can take any argument
+`flutter build` can. To pass arguments to the underlying `flutter build` you
+need to put `flutter build` arguments after a `--` separator. For example:
+`shorebird release android -- --dart-define="foo=bar"` will define the `"foo"` environment
+variable inside Dart as you might have done with `flutter build` directly.
+:::
+
+By default, `shorebird release android` builds an AppBundle (`.aab`).
+If you would like to _also_ generate an Android Package Kit (`.apk`), use the
+following command:
+
+```
+shorebird release android --artifact apk
+```
+
+:::info
+By default `shorebird release` uses the Flutter version bundled within the shorebird installation.
+
+That version can be checked by running `shorebird doctor`
+:::
+
+To release with a different Flutter version, you can specify the version using the `--flutter-version` flag.
+
+```
+shorebird release android --flutter-version 3.19.0
+```
+
+</TabItem>
+
+<TabItem value="release-output-ios" label="iOS">
+
+Create an iOS release by running the following command:
+
+`shorebird release ios`
+
+Example output:
+
+```
+$ shorebird release ios
+✓ Fetching apps (0.2s)
+✓ Building release (59.0s)
+✓ Getting release version (40ms)
+✓ Fetching releases (0.1s)
+🚀 Ready to create a new release!
+📱 App: My App (7a29188a-9363-426a-9a36-74a5e166373d)
+📦 Release Version: 1.0.0+1
+🕹️  Platform: ios
+
+Would you like to continue? (y/N) Yes
+✓ Fetching Flutter revision (40ms)
+✓ Creating release (0.1s)
+✓ Creating artifacts (5.1s)
+✓ Updating release status (57ms)
+
+✅ Published Release!
+
+Your next step is to upload the ipa to App Store Connect.
+build/ios/ipa/new_flutter_app.ipa
+
+To upload to the App Store either:
+    1. Drag and drop the "build/ios/ipa/new_flutter_app.ipa" bundle into the Apple Transporter macOS app (https://apps.apple.com/us/app/transporter/id1450874784)
+    2. Run xcrun altool --upload-app --type ios -f build/ios/ipa/new_flutter_app.ipa --apiKey your_api_key --apiIssuer your_issuer_id.
+       See "man altool" for details about how to authenticate with the App Store Connect API key.
+```
+
+If your application supports flavors or multiple release targets, you can specify the flavor and target using the `--flavor` and `--target` options:
+
+```sh
+shorebird release ios --target ./lib/main_development.dart --flavor development
+```
+
+:::info
+`shorebird release` wraps `flutter build` and can take any argument
+`flutter build` can. To pass arguments to the underlying `flutter build` you
+need to put `flutter build` arguments after a `--` separator. For example:
+`shorebird release android -- --dart-define="foo=bar"` will define the `"foo"` environment
+variable inside Dart as you might have done with `flutter build` directly.
+:::
+
+:::info
+By default `shorebird release` uses the Flutter version bundled within the shorebird installation.
+
+That version can be checked by running `shorebird doctor`
+:::
+
+To release with a different Flutter version, you can specify the version using the `--flutter-version` flag.
+
+```sh
+shorebird release ios --flutter-version 3.19.0
+```
+
+</TabItem>
+
+</Tabs>
+
+## Manage Releases
+
+### List Releases
+
+You can view all of your releases for your current app (as defined by
+your shorebird.yaml) on the [Shorebird console](https://console.shorebird.dev/).
+
+### Delete Releases
+
+:::warning
+Deleting a release will remove all associated patches and artifacts
+and is **not reversible**.
+:::
+
+You can delete a release for your current app (as defined by your
+shorebird.yaml) on the [Shorebird console](https://console.shorebird.dev/).
+
+## Side-loading and MDM
+
+A common question we get asked is: Does Shorebird require publishing to the
+App Store or Play Store?
+
+No. Shorebird works fine with side-loading and mobile device management (MDM)
+on Android. We've not had anyone try Shorebird with iOS Developer Enterprise
+program, but we expect it to work just as well.
+
+To build Shorebird for distribution via APK (e.g. side-loading), use the
+`--artifact` flag with the `shorebird release` command. For example:
+
+```sh
+shorebird release android --artifact=apk
+```
+
+That will produce _both_ .apk and .aab files. You can distribute either
+or both as needed.
