@@ -11,10 +11,10 @@ welcome your feedback and contributions.
 
 # Sections
 
-- [Company](company.md)
-- [Engineering](engineering.md)
-- [Onboarding](onboarding.md)
-- [CEO](ceo.md)
+- [Company](/company)
+- [Engineering](/engineering)
+- [Onboarding](/onboarding)
+- [CEO](/ceo)
 
 # Contributing
 

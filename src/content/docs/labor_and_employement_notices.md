@@ -6,7 +6,7 @@ template: doc
 
 ## Introduction
 
-Since Shorebird is an [all remote](company.md) company we don't have a physical
+Since Shorebird is an [all remote](/company) company we don't have a physical
 worksite or breakroom wall upon which to post important labor and employment
 notices, so this page is our version of that.
 
