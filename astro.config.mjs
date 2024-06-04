@@ -49,8 +49,28 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Home',
+          label: 'Overview',
           link: '/',
+        },
+        {
+          label: 'Company',
+          link: '/company',
+        },
+        {
+          label: 'Onboarding',
+          link: '/onboarding',
+        },
+        {
+          label: 'Engineering',
+          link: '/engineering',
+        },
+        {
+          label: 'Security',
+          link: '/security',
+        },
+        {
+          label: 'CEO',
+          link: '/ceo',
         },
       ],
       plugins: [
