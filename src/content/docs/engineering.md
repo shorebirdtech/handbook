@@ -79,7 +79,7 @@ argument as to why something else should be higher on the list.  Adam Barth
 list of what we saw was the most important things for the project and pick
 things off the list and do them.
 
-For now we've been planning via Github project boards and syncing every few
+For now we've been planning via GitHub project boards and syncing every few
 days or so on what we think is most important.
 https://github.com/orgs/shorebirdtech/projects
 

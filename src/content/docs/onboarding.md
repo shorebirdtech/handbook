@@ -76,7 +76,7 @@ If you have any problems, please email Eric!
 * There are a few tax forms required to fill out on your first day.  In the US
   that's W-4 and W-9.  Rippling will help you take care of this.
   If you have an iPhone you can use the "Notes" app to scan the signed documents
-  as pdfs.  Android likely has something similar.
+  as PDFs.  Android likely has something similar.
 
 ## Finances
 * For US employees, paychecks are delivered every 2 weeks.  Rippling should have offered

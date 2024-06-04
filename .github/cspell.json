@@ -34,6 +34,7 @@
     "felangel",
     "Oltman",
     "standup",
+    "#standup",
     "dartdoc",
     "rustdoc",
     "Hickson",
@@ -46,5 +47,6 @@
     "Deel",
     "Canva",
     "mortem",
+    "mortems",
   ]
 }
