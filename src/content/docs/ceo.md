@@ -16,7 +16,7 @@ Eric is the founder and CEO of Shorebird. Shorebird makes code push for
 Flutter. Before Shorebird, Eric co-founded the Flutter project and lead Flutter
 and Dart at Google.
 
-[Headshot](assets/eseidel_headshot.jpeg)
+![Eric Seidel Headshot](../../assets/eseidel_headshot.jpeg)
 
 # Values
 
