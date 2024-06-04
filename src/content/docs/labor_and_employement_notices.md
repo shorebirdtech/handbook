@@ -1,3 +1,9 @@
+---
+title: Labor and Employment Notices
+description: Shorebird labor and employment notices
+template: doc
+---
+
 ## Introduction
 
 Since Shorebird is an [all remote](company.md) company we don't have a physical

@@ -1,3 +1,9 @@
+---
+title: Benefits
+description: Shorebird benefits
+template: doc
+---
+
 These guidelines will evolve over time. As written they are heavily influenced
 by [GitLab's handbook](https://about.gitlab.com/handbook/).
 

@@ -1,3 +1,9 @@
+---
+title: CEO
+description: Shorebird CEO
+template: doc
+---
+
 Modeled after [GitLab's CEO doc](https://about.gitlab.com/handbook/ceo/).
 
 The page is about Eric, CEO of Shorebird. The page is intended to be helpful.

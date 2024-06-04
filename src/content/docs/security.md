@@ -1,3 +1,9 @@
+---
+title: Security
+description: Shorebird Security Policy
+template: doc
+---
+
 # Security
 
 This is our public security policy, which is a subset of our security practices.

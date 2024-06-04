@@ -2,7 +2,7 @@
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-Home of the [handbook.shorebird.dev](handbook://docs.shorebird.dev) site.
+Home of the [handbook.shorebird.dev](https://handbook.shorebird.dev) site.
 
 ## 🧞 Commands
 
