@@ -258,7 +258,7 @@ All of our production code has 100% test coverage. We have automated tests in
 place to ensure that changes do not break our application. Debugging or
 non-production code is not required to have 100% test coverage.
 
-See our engineering policies in our [engineering handbook](engineering.md).
+See our engineering policies in our [engineering handbook](/engineering).
 
 ### Deployment
 
