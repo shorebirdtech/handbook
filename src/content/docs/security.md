@@ -4,19 +4,17 @@ description: Shorebird Security Policy
 template: doc
 ---
 
-# Security
-
 This is our public security policy, which is a subset of our security practices.
 
 This document exists both for education of our employees as well as for
-reference by our customers. Changes are welcome and should be reviewed the CEO.
+reference by our customers. Pull requests are welcome.
 
 Authorship and change history for this policy are visible in the git history of
 this document.
 
 Management reviews this document annually. Last Reviewed: May 2024.
 
-Exceptions to these policies are reviewed by the CEO.
+Changes or exceptions to these policies should be reviewed by the CEO.
 
 ## About Shorebird
 
@@ -29,7 +27,7 @@ Shorebird only offers a hosted service at this time. We do not currently offer
 
 ## Organization
 
-Shorebird is a small company. We are 4 as of May 2024.
+Shorebird is a small company. We were fewer than 5 people as of May 2024.
 
 Eric (CEO) is end-responsible for all things Shorebird, including informational
 security. We do not have a dedicated security team, but security is part of our

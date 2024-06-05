@@ -4,8 +4,6 @@ description: Shorebird engineering
 template: doc
 ---
 
-# Engineering
-
 ## Best Practices
 
 ### Code Review

@@ -4,8 +4,6 @@ description: Shorebird handbook
 template: doc
 ---
 
-# Shorebird company handbook.
-
 The Shorebird handbook is living document describing how we run the company. We
 welcome your feedback and contributions.
 
