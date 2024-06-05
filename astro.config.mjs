@@ -20,11 +20,11 @@ export default defineConfig({
         replacesTitle: true,
       },
       social: {
-        github: "https://github.com/shorebirdtech/shorebird",
+        github: "https://github.com/shorebirdtech/handbook",
         discord: "https://discord.gg/shorebird",
       },
       editLink: {
-        baseUrl: "https://github.com/shorebirdtech/docs/edit/main/",
+        baseUrl: "https://github.com/shorebirdtech/handbook/edit/main/",
       },
       favicon: "favicon.svg",
       head: [
