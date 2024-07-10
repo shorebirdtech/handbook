@@ -4,7 +4,10 @@ description: Shorebird handbook
 template: doc
 ---
 
-The Shorebird handbook is living document describing how we run the company. We
+Shorebird makes Code Push for Flutter. You can learn more about our products
+at https://shorebird.dev/
+
+The Shorebird handbook is living document describing how we run our company. We
 welcome your feedback and contributions.
 
 # Sections
@@ -16,8 +19,8 @@ welcome your feedback and contributions.
 
 # Contributing
 
-There are many things missing; contributions are welcome. If
-you're looking for inspiration, there is good prior art:
+There are many things missing; contributions are welcome. If you're looking for
+inspiration, there is good prior art:
 
 - https://about.gitlab.com/handbook
 - https://posthog.com/handbook
