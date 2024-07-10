@@ -55,7 +55,7 @@ contact@shorebird.dev if interested.
 Events we'll be at:
 
 - FlutterCon USA 2024
-- Flutter LatAM 2024
+- Flutter Conf LatAM 2024
 
 Recent events we've attended:
 

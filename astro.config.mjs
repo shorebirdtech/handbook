@@ -65,6 +65,10 @@ export default defineConfig({
           link: "/engineering",
         },
         {
+          label: "Community",
+          link: "/community",
+        },
+        {
           label: "Security",
           link: "/security",
         },
