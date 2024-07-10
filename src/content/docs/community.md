@@ -49,19 +49,21 @@ list of other Flutter Discords which might be of use:
 
 We try to participate in various Flutter community events and conferences.
 
-We are willing and able to sponsor some events.  Please reach out to
+We are willing and able to sponsor some events. Please reach out to
 contact@shorebird.dev if interested.
 
 Events we'll be at:
-* FlutterCon USA 2024
-* Flutter LatAM 2024
+
+- FlutterCon USA 2024
+- Flutter LatAM 2024
 
 Recent events we've attended:
-* Observable Flutter #46 [Recording](https://www.youtube.com/watch?v=HVRRUY0f0ko)
-* Full Stack Flutter 2024 [Recording](https://www.youtube.com/watch?v=LPS0V3RbxDg) [Slides](https://docs.google.com/presentation/d/1CLHTg94HIFZ41mj9EeQ-wW7bbMXSdoG4LSBNiUpFO20/edit)
-* Google I/O 2024 Meetup
-* Sao Paulo Flutter Meetup April 2024 [Slides](https://docs.google.com/presentation/d/1cr80azyQqhZSP6UfHJG6w1ZncTWPSpsumjUOqv3DBx0/edit)
-* FlutterCon EU 2023 [Slides](https://docs.google.com/presentation/d/1MlJut_BIdqY6VjR-ota5pZ2lGw7ROWX-wRwTERKiRnQ/edit)
-* Flutter & Friends 2023 [Slides][https://github.com/felangel/flutter_friends_talk]
-* Flutter Chicago August 2023
-* Google I/O 2023 Meetup
+
+- Observable Flutter #46 [Recording](https://www.youtube.com/watch?v=HVRRUY0f0ko)
+- Full Stack Flutter 2024 [Recording](https://www.youtube.com/watch?v=LPS0V3RbxDg) [Slides](https://docs.google.com/presentation/d/1CLHTg94HIFZ41mj9EeQ-wW7bbMXSdoG4LSBNiUpFO20/edit)
+- Google I/O 2024 Meetup
+- Sao Paulo Flutter Meetup April 2024 [Slides](https://docs.google.com/presentation/d/1cr80azyQqhZSP6UfHJG6w1ZncTWPSpsumjUOqv3DBx0/edit)
+- FlutterCon EU 2023 [Slides](https://docs.google.com/presentation/d/1MlJut_BIdqY6VjR-ota5pZ2lGw7ROWX-wRwTERKiRnQ/edit)
+- Flutter & Friends 2023 [Slides][https://github.com/felangel/flutter_friends_talk]
+- Flutter Chicago August 2023
+- Google I/O 2023 Meetup
