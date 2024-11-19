@@ -57,6 +57,10 @@ export default defineConfig({
           link: "/company",
         },
         {
+          label: "Benefits",
+          link: "/benefits",
+        },
+        {
           label: "Onboarding",
           link: "/onboarding",
         },
