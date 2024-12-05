@@ -1,0 +1,33 @@
+$schema: https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+version: '0.2'
+ignorePaths: ['dist', 'node_modules', 'plugins']
+words:
+  - Angelov
+  - astro
+  - astrojs
+  - breakroom
+  - bryanoltman
+  - buildroot
+  - Canva
+  - dartdoc
+  - Deel
+  - dogfood
+  - eseidel
+  - felangel
+  - Headshot
+  - Hickson
+  - incentivized
+  - Kouzes
+  - lockdowns
+  - mortems
+  - Oltman
+  - Posner
+  - rustdoc
+  - Seidel
+  - shorebirdtech
+  - Siri
+  - tsconfigs
+  - upstreaming
+  - VESSA
+  - Whistleblower
+  - xcarchive
