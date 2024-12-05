@@ -422,7 +422,7 @@ company network.
 
 Shorebird maintains no vendor certifications at this time. We do from time to
 time have security teams reach out and provide feedback on our APIs or source
-code (which mostly public on [Github](https://github.com/shorebirdtech)).
+code (which mostly public on [GitHub](https://github.com/shorebirdtech)).
 Feedback always welcome.
 
 I expect we will eventually provide SOC2 or ISO 27001 certifications, but have
