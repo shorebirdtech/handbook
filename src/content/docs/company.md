@@ -63,16 +63,17 @@ Shorebird is here to change that.
   them all.
 
 ## Product Values
-- We are not trying to build the world's best code push solution.  Code push is
-  a means to an end.  The goal is bringing the world to multi-platform.  We need
+
+- We are not trying to build the world's best code push solution. Code push is
+  a means to an end. The goal is bringing the world to multi-platform. We need
   a good enough code push solution to support users who need it, as well as
-  bring revenue to the company.  We aspire to be "the Flutter company" rather
+  bring revenue to the company. We aspire to be "the Flutter company" rather
   than "the code push company" and empower businesses to be successful with
   Flutter.
-- We build smaller things.  First we make them possible.  Then we make them
-  simple/easy.  Then we optimize.  As a company who sells to developers and
+- We build smaller things. First we make them possible. Then we make them
+  simple/easy. Then we optimize. As a company who sells to developers and
   businesses, we'd rather give users the tools to solve a problem then build a
-  perfectly integrated solution ourselves.  This maintains our agility and
+  perfectly integrated solution ourselves. This maintains our agility and
   reduces our risk of requirements changing under us.
 
 ## Culture
