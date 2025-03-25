@@ -19,11 +19,12 @@ and Dart at Google.
 ![Eric Seidel Headshot](../../assets/eseidel_headshot.jpeg)
 
 ## Socials
-* https://x.com/_eseidel
-* https://bsky.app/profile/eseidel.com
-* https://www.linkedin.com/in/ericseidel/
-* https://discord.com/users/eseidel
-* https://github.com/eseidel
+
+- https://x.com/_eseidel
+- https://bsky.app/profile/eseidel.com
+- https://www.linkedin.com/in/ericseidel/
+- https://discord.com/users/eseidel
+- https://github.com/eseidel
 
 # Values
 
