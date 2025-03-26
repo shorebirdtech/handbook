@@ -4,16 +4,37 @@ description: Shorebird Sales
 template: doc
 ---
 
-# Discounts
-
 We estimate that as of March 2025, less than 3% of all Flutter developers have
 ever tried Shorebird. Maybe as many as 5-10% of all Flutter developers have
 ever heard of Shorebird. Our primary goal for the next several years is to
-grow usage and awareness of the product. Through such, revenues (and thus
-sustainability of the business will also grow).
+grow usage and awareness of the product. Through such, revenues and thus
+sustainability of the business will also grow.
 
-Price is not intended to be an obstacle for adoption at this time. I'm certain
-our prices are "wrong" and will change many times in the coming years.
+## Tools
+
+We use [Attio](https://app.attio.com) to track our customer interactions and sales flow. Anyone that regularly interacts with customers, especially via email, should have an Attio account. This will ensure that our communication flow is automatically tracked and viewable by other team members to avoid the cross talk problem of multiple people having multiple conversations with the same person/company.
+
+### Data We Track
+
+Overall there are 2 main things that we need to keep track of: 1) People & Companies and 2) Deals
+
+#### People & Companies
+
+#### Deals
+
+### Useful Links
+
+- [Attio 101](https://attio.com/help/reference/attio-101) - Simple place to start with a lot of good video's to watch on how the tool works.
+- [Attio Community](https://www.attio.community) - A lot of good how-to's and an active posting board for questions.
+
+## Pricing
+
+We are certain our prices are currently "wrong" for the market we are selling to and will change
+many times in the coming years as we learn what works and what doesn't.
+
+**Price is not intended to be an obstacle for adoption at this time.**
+
+### Discounts
 
 Our prices, as we have currently set them, are (intentionally) low relative to
 our costs of providing the service. Although we price based on usage, 90% of our
