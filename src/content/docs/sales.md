@@ -12,17 +12,27 @@ sustainability of the business will also grow.
 
 ## Tools
 
+### Email/Calendar
+
+As described in [onboarding](https://handbook.shorebird.dev/onboarding/#accounts) we use Google Workspace for our Email & Calendar. This allows you to use any other services and/or apps that you typically would to stay organized.
+
+### Calendly
+
+We do have a Shorebird [Calendly](https://calendly.com/) account.
+
+### CRM
+
 We use [Attio](https://app.attio.com) to track our customer interactions and sales flow. Anyone that regularly interacts with customers, especially via email, should have an Attio account. This will ensure that our communication flow is automatically tracked and viewable by other team members to avoid the cross talk problem of multiple people having multiple conversations with the same person/company.
 
-### Data We Track
+#### Data We Track
 
 Overall there are 2 main things that we need to keep track of: 1) People & Companies and 2) Deals
 
-#### People & Companies
+##### People & Companies
 
-#### Deals
+##### Deals
 
-### Useful Links
+#### Useful Links
 
 - [Attio 101](https://attio.com/help/reference/attio-101) - Simple place to start with a lot of good video's to watch on how the tool works.
 - [Attio Community](https://www.attio.community) - A lot of good how-to's and an active posting board for questions.
@@ -32,7 +42,7 @@ Overall there are 2 main things that we need to keep track of: 1) People & Compa
 We are certain our prices are currently "wrong" for the market we are selling to and will change
 many times in the coming years as we learn what works and what doesn't.
 
-**Price is not intended to be an obstacle for adoption at this time.**
+**Price is not intended to be an obstacle for adoption at this time.** We want to grow our user base so if we have the ability to apply coupons, discounts, etc for a prospective customer to meet their pricing limits please come up with a proposal and run it by the Operations lead before approaching a customer with options. We want to ensure that we are not losing money on a deal/customer and will need to more then likely have some agreement and documentation in place before any pricing changes are communicated or applied.
 
 ### Discounts
 
