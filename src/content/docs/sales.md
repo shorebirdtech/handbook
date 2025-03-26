@@ -20,13 +20,14 @@ our costs of providing the service. Although we price based on usage, 90% of our
 costs do not relate to usage, but rather development of the product(s) and sales
 and procurement support there-of. Thus discounting our usage-based pricing is
 somewhat immaterial relative to the cost of providing the service, but does
-affect our bottom line in the long run.
+affect our ability to build a sustainable business.
 
 General Principles:
+
 - In almost all cases, we would rather have a user on a discount than not have a
   user.
-- We have so many users to service, alacrity is preferred over accuracy.
-- Discounts are an exception rather than a rule.  If most of our sales need
+- Prefer alacrity over pricing accuracy in onboarding customers.
+- Discounts are an exception rather than a rule. If most of our sales need
   discounts, we should adjust our pricing.
 - Discounts should be time-limited to 6mo or less, 1y on exception. (For both
   accounting/MMR tracking and as a cause to re-visit.)
@@ -36,8 +37,8 @@ General Principles:
 - Use pre-made Stripe coupons for discounts.
 - Discounts should be limited in total spend (e.g. $100), beyond that it's a
   price adjustment or Trial.
-- Business sales should not lead with discounts.  Our Enterprise pricing already
-  includes discounted rates within the pricing plan.  Furthermore, more often
+- Business sales should not lead with discounts. Our Enterprise pricing already
+  includes discounted rates within the pricing plan. Furthermore, more often
   we've found our prices are too-low for some established businesses (cause
-  confusion during procurement).  We can always negotiate around discounts
+  confusion during procurement). We can always negotiate around discounts
   deeper in the procurement process.
