@@ -2,9 +2,9 @@
 title: Labor and Employment Notices
 description: Shorebird labor and employment notices
 template: doc
+sidebar:
+  order: 4
 ---
-
-## Introduction
 
 Since Shorebird is an [all remote](/company) company we don't have a physical
 worksite or breakroom wall upon which to post important labor and employment

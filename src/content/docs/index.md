@@ -1,23 +1,18 @@
 ---
 title: Handbook
-description: Shorebird handbook
+description: Shorebird Handbook
 template: doc
+sidebar:
+  order: 1
 ---
 
-Shorebird makes Code Push for Flutter. You can learn more about our products
+Shorebird makes products that help businesses succeed with Flutter. You can learn more about our products
 at https://shorebird.dev/
 
 The Shorebird handbook is living document describing how we run our company. We
 welcome your feedback and contributions.
 
-# Sections
-
-- [Company](/company)
-- [Engineering](/engineering)
-- [Onboarding](/onboarding)
-- [CEO](/ceo)
-
-# Contributing
+## Contributing
 
 There are many things missing; contributions are welcome. If you're looking for
 inspiration, there is good prior art:

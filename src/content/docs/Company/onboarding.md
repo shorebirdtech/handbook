@@ -2,6 +2,8 @@
 title: Onboarding
 description: Shorebird Onboarding
 template: doc
+sidebar:
+  order: 2
 ---
 
 Welcome to Shorebird! We're _extremely_ glad you're here.

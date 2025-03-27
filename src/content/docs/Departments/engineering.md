@@ -1,6 +1,6 @@
 ---
 title: Engineering
-description: Shorebird engineering
+description: Shorebird Engineering
 template: doc
 ---
 
