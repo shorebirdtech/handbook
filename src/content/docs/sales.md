@@ -18,17 +18,21 @@ As described in [onboarding](https://handbook.shorebird.dev/onboarding/#accounts
 
 ### Calendly
 
-We do have a Shorebird [Calendly](https://calendly.com/) account.
+We do have a Shorebird [Calendly](https://calendly.com/) account. On a personal basis, this is useful for adding a "book time with me" link to your email signature. We also use the [Round Robin](https://help.calendly.com/hc/en-us/articles/4402432846999-Round-robin-distribution-overview) feature for the "Contact Sales" buttons on the website. This allows us to spread the sales calls out to a team rather then just filling up one persons calendar all the time.
+
+If you think you need access to Calendly reach out to the Operations team.
 
 ### CRM
 
-We use [Attio](https://app.attio.com) to track our customer interactions and sales flow. Anyone that regularly interacts with customers, especially via email, should have an Attio account. This will ensure that our communication flow is automatically tracked and viewable by other team members to avoid the cross talk problem of multiple people having multiple conversations with the same person/company.
+We use [Attio](https://app.attio.com) to track our customer interactions and sales flow. Anyone that regularly interacts with customers, especially via email, should have an Attio account. This will ensure that our communication flow is automatically tracked and viewable by other team members to avoid the cross talk problem of multiple people having multiple conversations with the same person/company. This tracking is done via the [Email and Calendar Sync](https://attio.com/help/reference/email-calendar/email-and-calendar-syncing), (setup details are on the [Attio reference site](https://attio.com/help/reference/attio-101/syncing-people-and-companies)) that Attio provides along with manual & workflow entry of [Tasks](https://attio.com/help/reference/productivity-collaborating/tasks) on Companies and Deals.
 
 #### Data We Track
 
 Overall there are 2 main things that we need to keep track of: 1) People & Companies and 2) Deals
 
 ##### People & Companies
+
+Most of this tracking is done for you by Attio automatically through Email and Calendar tracking. If you have connected your Shorebird Google Account to Attio then it will view your emails and appointments and auto populate records for Companies and People.
 
 ##### Deals
 
