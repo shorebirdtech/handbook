@@ -1,7 +1,9 @@
 ---
-title: Shorebird
+title: Company Details
 description: Shorebird as a company
 template: doc
+sidebar:
+  order: 1
 ---
 
 Shorebird (legally Code Town, Inc) is a Delaware C Corp, founded to foster

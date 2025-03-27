@@ -2,6 +2,8 @@
 title: CEO
 description: Shorebird CEO
 template: doc
+sidebar:
+  order: 99
 ---
 
 Modeled after [GitLab's CEO doc](https://about.gitlab.com/handbook/ceo/).
@@ -10,13 +12,13 @@ The page is about Eric, CEO of Shorebird. The page is intended to be helpful.
 If it sounds pretentious or overbearing, please let me know so I can fix it.
 Thanks.
 
-# CEO bio
+## CEO bio
 
 Eric is the founder and CEO of Shorebird. Shorebird makes code push for
 Flutter. Before Shorebird, Eric co-founded the Flutter project and lead Flutter
 and Dart at Google.
 
-![Eric Seidel Headshot](../../assets/eseidel_headshot.jpeg)
+![Eric Seidel Headshot](../../../assets/eseidel_headshot.jpeg)
 
 ## Socials
 
@@ -26,7 +28,7 @@ and Dart at Google.
 - https://discord.com/users/eseidel
 - https://github.com/eseidel
 
-# Values
+## Values
 
 My [Kouzes Posner
 Values](https://www.linkedin.com/pulse/name-your-top-5-leadership-core-values-cant-do-heres-how-marcie-white/)

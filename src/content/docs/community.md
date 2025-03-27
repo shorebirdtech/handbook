@@ -1,5 +1,5 @@
 ---
-title: Shorebird
+title: Community
 description: Shorebird in the Flutter Community
 template: doc
 ---

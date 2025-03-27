@@ -2,6 +2,8 @@
 title: Benefits
 description: Shorebird benefits
 template: doc
+sidebar:
+  order: 3
 ---
 
 These guidelines will evolve over time. As written they are heavily influenced
