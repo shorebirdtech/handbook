@@ -90,7 +90,7 @@ A deal record should be made for any company that is reaching out to us for a Bu
   - Lost - 0%
 - Close Date - This is an automatically tracked field via [a workflow that runs when a Deal's stage changes to Won or Lost](https://app.attio.com/shorebird/automations/workflows/78027e45-4455-42e9-b4c1-072fe02362e9/editor). This is set to the date that the deal moves into the Won or Lost stage. It can be manually set as well if needed. This field allows us to track our win/lost deals over a set period of time (i.e. 30 days).
 
-#### Taks/Action Items
+#### Tasks/Action Items
 
 This allows us to ensure that we are staying on top of leads and deals so it is vital to keep up to date on a daily basis.
 
