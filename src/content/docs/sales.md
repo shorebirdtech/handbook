@@ -24,7 +24,7 @@ If you think you need access to Calendly reach out to the Operations team.
 
 ### Contracts & Documents
 
-TBD
+Given our use of Google Workspace, we have a Sales folder in the main company shared drive. Within this we should be keeping all documents sent to customers throughout the sales process along with signed copies of contracts. This becomes our main repository for answering questions if/when they arise.
 
 ### CRM
 
@@ -102,10 +102,15 @@ While at some point in the future we will more then likely build workflows that 
 
 ## Pricing
 
-We are certain our prices are currently "wrong" for the market we are selling to and will change
-many times in the coming years as we learn what works and what doesn't.
+We are certain our prices are currently "wrong" for the market we are selling to and will change many times in the coming years as we learn what works and what doesn't.
 
 **Price is not intended to be an obstacle for adoption at this time.** We want to grow our user base so if we have the ability to apply coupons, discounts, etc for a prospective customer to meet their pricing limits please come up with a proposal and run it by the Operations lead before approaching a customer with options. We want to ensure that we are not losing money on a deal/customer and will need to more then likely have some agreement and documentation in place before any pricing changes are communicated or applied.
+
+Our prices, as we have currently set them, are low relative to our costs of providing the service. Although we price based on usage, 90% of our
+costs do not relate to usage, but rather development of the product(s), sales, and procurement support. Discounting our usage-based pricing is
+somewhat immaterial relative to the cost of providing the service, but does affect our ability to build a sustainable business.
+
+Sales should not lead with discounts. Our Enterprise pricing already includes discounted rates within the pricing plan. Furthermore, more often we've found our prices are too-low for some established businesses and could even cause confusion during procurement. We can always negotiate around discounts deeper in the procurement process.
 
 ### Coupons
 
@@ -117,32 +122,17 @@ We do have some basic coupons that we keep around for overall use including:
 - Returning Customer Free Month - Allows for a one time free month of Pro. Typically used for customers coming back into the platform and are asking for another trial period
 - Event/Partner Specific - If we are doing a sponsorship or partnership we typically create a new coupon code for each of these in order to track the usage and effectiveness of a given investment.
 
-### Discounts
+If you have a need for a coupon code reach out to the Operations team in order to get the details.
 
-Our prices, as we have currently set them, are (intentionally) low relative to
-our costs of providing the service. Although we price based on usage, 90% of our
-costs do not relate to usage, but rather development of the product(s) and sales
-and procurement support there-of. Thus discounting our usage-based pricing is
-somewhat immaterial relative to the cost of providing the service, but does
-affect our ability to build a sustainable business.
+Overall, basic coupons should be used for one time discounts only. This makes these codes easier to hand out during a sales process and does not require any approval or oversight. The main goal with this is that we then have a customer on a paid plan doing a trial and can then easily grow with us. For customers looking at a Business or Enterprise plan, a trial coupon is a great way to get them started.
 
-General Principles:
+### Plan Discounts
 
-- In almost all cases, we would rather have a user on a discount than not have a
-  user.
-- Prefer alacrity over pricing accuracy in onboarding customers.
-- Discounts are an exception rather than a rule. If most of our sales need
-  discounts, we should adjust our pricing.
-- Discounts should be time-limited to 6mo or less, 1y on exception. (For both
-  accounting/MMR tracking and as a cause to re-visit.)
-- Provide discounts to non-profit, or low-income-country users when prompted,
-  even on our Pro plan.
-- Use trials instead of discounts for business and enterprise users.
-- Use pre-made Stripe coupons for discounts.
-- Discounts should be limited in total spend (e.g. $100), beyond that it's a
-  price adjustment or Trial.
-- Business sales should not lead with discounts. Our Enterprise pricing already
-  includes discounted rates within the pricing plan. Furthermore, more often
-  we've found our prices are too-low for some established businesses (cause
-  confusion during procurement). We can always negotiate around discounts
-  deeper in the procurement process.
+In almost all cases, we would rather have a user on a discount than not have a user. We do prefer speed over pricing accuracy in getting customers onboarded. That being said we should be looking at discounts on our pricing as an exception, not a rule. If we find that we are having many discussions across deals about discounts we need to evaluate and adjust our pricing.
+
+If we need to make a bigger discount we can still achieve this via Stripe coupon codes but we do need to understand why we are providing the discount and have a lightweight approval process for it. This is really made to ensure that we are not losing money on any one customer.
+
+Guidelines for Plan Discounts:
+
+- Discounts should be time-limited to 6mo or less, 1y on exception. This is for both accounting/MMR tracking and as a cause to re-visit and hopefully remove the discount as their experience is that our product has become essential to their team/product.
+- We will provide discounts to non-profit, or low-income-country users when prompted, even on our Pro plan. We do need to ask for some documentation that we keep on file to ensure that they are actually meeting that description.
