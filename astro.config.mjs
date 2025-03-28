@@ -47,40 +47,6 @@ export default defineConfig({
       expressiveCode: {
         themes: ["dark-plus", "github-light"],
       },
-      sidebar: [
-        {
-          label: "Overview",
-          link: "/",
-        },
-        {
-          label: "Company",
-          link: "/company",
-        },
-        {
-          label: "Benefits",
-          link: "/benefits",
-        },
-        {
-          label: "Onboarding",
-          link: "/onboarding",
-        },
-        {
-          label: "Engineering",
-          link: "/engineering",
-        },
-        {
-          label: "Community",
-          link: "/community",
-        },
-        {
-          label: "Security",
-          link: "/security",
-        },
-        {
-          label: "CEO",
-          link: "/ceo",
-        },
-      ],
       plugins: [
         starlightLinksValidator({
           errorOnFallbackPages: false,

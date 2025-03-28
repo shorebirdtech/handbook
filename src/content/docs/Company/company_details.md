@@ -1,7 +1,9 @@
 ---
-title: Shorebird
+title: Company Details
 description: Shorebird as a company
 template: doc
+sidebar:
+  order: 1
 ---
 
 Shorebird (legally Code Town, Inc) is a Delaware C Corp, founded to foster
@@ -36,8 +38,8 @@ developers who are still stuck on single-platform toolchains. Every interactive
 pane of glass should deliver great user experiences, and to do that, Flutter is
 the best tool we have so far. Shorebird is here to help.
 
-It's important that Shorebird is a company. We're exploiting capitalism to
-align incentives behind the world adopting multi-platform. Flutter and other
+It's important that Shorebird is a company. We're exploiting capitalism to align
+incentives behind the world adopting multi-platform. Flutter and other
 multi-platform solutions have suffered from a lack of economic incentives.
 Shorebird is here to change that.
 
@@ -51,25 +53,23 @@ Shorebird is here to change that.
   room and so the best way to "set others up to succeed" is to write things down
   in the open. Open Source is what made Flutter successful (and web browsers
   before it) and will be what makes Shorebird successful. Relating to this the
-  idea of writing things down. We're all getting better at this. Responding
-  with something written publicly is almost always better than a one-off
-  response.
-- The future is bigger than the past. Akin to Amazon's [Day
-  1](https://www.aboutamazon.com/about-us), the idea that what we've
+  idea of writing things down. We're all getting better at this. Responding with
+  something written publicly is almost always better than a one-off response.
+- The future is bigger than the past. Akin to Amazon's
+  [Day 1](https://www.aboutamazon.com/about-us), the idea that what we've
   accomplished so far is small compared to what we shall do together in the
   future. We are just getting started, join us. At time of writing, there are
   only a few million Flutter developers. There are billions of people, and
-  probably 100s of millions of developers in the future. We're here to help
-  them all.
+  probably 100s of millions of developers in the future. We're here to help them
+  all.
 
 ## Product Values
 
-- We are not trying to build the world's best code push solution. Code push is
-  a means to an end. The goal is bringing the world to multi-platform. We need
-  a good enough code push solution to support users who need it, as well as
-  bring revenue to the company. We aspire to be "the Flutter company" rather
-  than "the code push company" and empower businesses to be successful with
-  Flutter.
+- We are not trying to build the world's best code push solution. Code push is a
+  means to an end. The goal is bringing the world to multi-platform. We need a
+  good enough code push solution to support users who need it, as well as bring
+  revenue to the company. We aspire to be "the Flutter company" rather than "the
+  code push company" and empower businesses to be successful with Flutter.
 - We build smaller things. First we make them possible. Then we make them
   simple/easy. Then we optimize. As a company who sells to developers and
   businesses, we'd rather give users the tools to solve a problem then build a
@@ -78,9 +78,9 @@ Shorebird is here to change that.
 
 ## Culture
 
-- All remote. We're still figuring this out. There are HUGE benefits to being
-  in person, but the world is also too big and too filled with talented people
-  to limit our hiring to one location.
+- All remote. We're still figuring this out. There are HUGE benefits to being in
+  person, but the world is also too big and too filled with talented people to
+  limit our hiring to one location.
 - Ship yesterday. We're too early to know exactly the right path for the
   business, so the most important thing to do is bias towards action and get
   things in customers hands, yesterday.
@@ -96,11 +96,10 @@ remote-first can work and that people can do their best work when you don't care
 where they live but rather what they get done. So that's what we're doing at
 Shorebird. Hiring the best people, wherever they are.
 
-Remote also has its downsides, clearly. Culture is much harder. How do you
-build social experiences at work for those who want it? How do you build a
-unified understanding of what the company is (as things inevitably change)
-without being in the same room regularly? GitLab and others have written
-extensively on these
+Remote also has its downsides, clearly. Culture is much harder. How do you build
+social experiences at work for those who want it? How do you build a unified
+understanding of what the company is (as things inevitably change) without being
+in the same room regularly? GitLab and others have written extensively on these
 [challenges](https://about.gitlab.com/company/culture/all-remote/guide/). So we
 don't know, but we sure as heck are gonna try. The world is simply too big and
 too filled with talented people to limit our hiring to one location.
@@ -115,14 +114,14 @@ but made us question if async-only remote will work. We're still learning.
   helping the world stop writing everything twice 20 years, including major
   contributions to WebKit, Safari, Blink and Chrome.
 
-- Felix Angelov (@felangel), Founding Engineer -- Was previously
-  Head of Open Source Software at Very Good Ventures. Felix is a dedicated
-  open source maintainer with a passion for building software that
-  enables developers to build wonderful applications.
+- Felix Angelov (@felangel), Founding Engineer -- Was previously Head of Open
+  Source Software at Very Good Ventures. Felix is a dedicated open source
+  maintainer with a passion for building software that enables developers to
+  build wonderful applications.
 
-- Bryan Oltman (@bryanoltman), Founding Engineer -- Was previously Tech Lead
-  on Google's internal Flutter team and has extensive experience with
-  enterprise usage of Flutter.
+- Bryan Oltman (@bryanoltman), Founding Engineer -- Was previously Tech Lead on
+  Google's internal Flutter team and has extensive experience with enterprise
+  usage of Flutter.
 
 ## Management
 
@@ -153,9 +152,9 @@ channel on Discord to post what we're working on each day.
 ## Spending company money
 
 We don't have much process around this yet. In short, we trust you to make the
-right decisions for the company. I think GitLab has a [very sane
-policy](https://about.gitlab.com/handbook/spending-company-money/) on this and
-we'll likely adopt something similar.
+right decisions for the company. I think GitLab has a
+[very sane policy](https://about.gitlab.com/handbook/spending-company-money/) on
+this and we'll likely adopt something similar.
 
 ## Future Products / User Pain
 
@@ -164,13 +163,12 @@ using or adopting it within their businesses. Some of the top pains I've heard
 from existing Flutter enterprise teams are:
 
 - Mobile releasing is hard. Mobile releasing is harder than web. Maintaining
-  lots of versions of apps (and associated backends) is hard. "Code Push" is
-  one solution, but Google's Flutter team has chosen not to invest in it. We
-  should.
+  lots of versions of apps (and associated backends) is hard. "Code Push" is one
+  solution, but Google's Flutter team has chosen not to invest in it. We should.
 - Keeping product and other stakeholders abreast of latest changes is hard. Some
   would like something akin to Vercel's "Deploy Previews" for Flutter apps.
-- Teams share mobile code, would like to share backend code. Most shops write
-  in Flutter for mobile and then a variety of languages for backends. Many have
+- Teams share mobile code, would like to share backend code. Most shops write in
+  Flutter for mobile and then a variety of languages for backends. Many have
   backends they would not fully re-write, so would need to plug in with existing
   other services.
 - Teams share mobile code, would like to share web code. Most shops write in
@@ -188,12 +186,13 @@ from existing Flutter enterprise teams are:
 - Knowing what to use in the Flutter ecosystem is hard. Quality of the Flutter
   ecosystem is inconsistent. Platform availability within the Flutter ecosystem
   is inconsistent.
-- Testing Flutter apps (and mobile apps in general) is hard. Some have asked
-  for something like [Mobile.dev](https://mobile.dev/) for Flutter apps.
-  Particular trouble around testing "invasive" apps, such as ones which use
-  system accessibility events.
+- Testing Flutter apps (and mobile apps in general) is hard. Some have asked for
+  something like [Mobile.dev](https://mobile.dev/) for Flutter apps. Particular
+  trouble around testing "invasive" apps, such as ones which use system
+  accessibility events.
 
 # A note on hiring
 
 If you're reading this and think Shorebird sounds like a fun place to work, come
-check us out on [Discord](https://discord.gg/shorebird). We're hiring or will be again soon.
+check us out on [Discord](https://discord.gg/shorebird). We're hiring or will be
+again soon.
