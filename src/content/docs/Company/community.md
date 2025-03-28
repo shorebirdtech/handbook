@@ -73,7 +73,7 @@ The list of events below include ones that we have participated in and/or sponso
 
 ### Past Events
 
-- Flutter Conf LatAM 2024, Arequipa, Perú, October 29-30 2024
+- Flutter Conf LatAM 2024, Arequipa, Peru, October 29-30 2024
 - FlutterCon USA 2024, New York, September 19-20 2024
 - Observable Flutter #46, Online, June 27 2024
   - [Recording](https://www.youtube.com/watch?v=HVRRUY0f0ko)
