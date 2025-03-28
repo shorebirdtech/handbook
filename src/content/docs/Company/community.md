@@ -75,17 +75,17 @@ The list of events below include ones that we have participated in and/or sponso
 
 - Flutter Conf LatAM 2024, Arequipa, Perú, October 29-30 2024
 - FlutterCon USA 2024, New York, September 19-20 2024
-- Observable Flutter #46, Online, June 27 2024 
+- Observable Flutter #46, Online, June 27 2024
   - [Recording](https://www.youtube.com/watch?v=HVRRUY0f0ko)
-- Full Stack Flutter 2024, Online, May 28-29 2024 
-  - [Recording](https://www.youtube.com/watch?v=LPS0V3RbxDg) 
+- Full Stack Flutter 2024, Online, May 28-29 2024
+  - [Recording](https://www.youtube.com/watch?v=LPS0V3RbxDg)
   - [Slides](https://docs.google.com/presentation/d/1CLHTg94HIFZ41mj9EeQ-wW7bbMXSdoG4LSBNiUpFO20/edit)
 - Google I/O 2024 Meetup, Mountain View
-- Sao Paulo Flutter Meetup April 2024 
+- Sao Paulo Flutter Meetup April 2024
   - [Slides](https://docs.google.com/presentation/d/1cr80azyQqhZSP6UfHJG6w1ZncTWPSpsumjUOqv3DBx0/edit)
-- FlutterCon EU 2023 
+- FlutterCon EU 2023
   - [Slides](https://docs.google.com/presentation/d/1MlJut_BIdqY6VjR-ota5pZ2lGw7ROWX-wRwTERKiRnQ/edit)
-- Flutter & Friends 2023 
+- Flutter & Friends 2023
   - [Slides](https://github.com/felangel/flutter_friends_talk)
 - Flutter Chicago August 2023
 - Google I/O 2023 Meetup
