@@ -6,9 +6,10 @@ sidebar:
   order: 4
 ---
 
-Since Shorebird is an [all remote](/company/company_details#a-note-on-remote-only) company we don't have a physical
-worksite or breakroom wall upon which to post important labor and employment
-notices, so this page is our version of that.
+Since Shorebird is an
+[all remote](/company/company_details#a-note-on-remote-only) company we don't
+have a physical worksite or breakroom wall upon which to post important labor
+and employment notices, so this page is our version of that.
 
 ### California
 

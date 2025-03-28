@@ -144,8 +144,8 @@ information from these users or devices.
 ## Product Access Control
 
 Shorebird accounts are managed through Google or Microsoft SSO (OAuth). We
-intentionally do not support other access methods and do not store passwords
-for our users.
+intentionally do not support other access methods and do not store passwords for
+our users.
 
 Shorebird accounts provided role-based access control on a per-application
 basis. We have three roles: Owner, Admin, and Developer which are described in
@@ -260,12 +260,13 @@ All of our production code has 100% test coverage. We have automated tests in
 place to ensure that changes do not break our application. Debugging or
 non-production code is not required to have 100% test coverage.
 
-See our engineering policies in our [engineering handbook](/departments/engineering).
+See our engineering policies in our
+[engineering handbook](/departments/engineering).
 
 ### Deployment
 
-All changes to production are deployed through a CI/CD pipeline. We use [GitHub
-Actions](https://docs.github.com/en/actions) for this. We have a staging
+All changes to production are deployed through a CI/CD pipeline. We use
+[GitHub Actions](https://docs.github.com/en/actions) for this. We have a staging
 environment that is used for testing changes before they are deployed to
 production.
 
@@ -355,9 +356,9 @@ local law enforcement.
 ## Data Separation
 
 Shorebird does not currently use per-tenant data storage. We use a single,
-secured, non-publicly-reachable database (AlloyDB) for all system data. We
-use a variety of private cloud buckets for storing customer data files, which
-are segmented currently based on purpose rather than customer/tenant.
+secured, non-publicly-reachable database (AlloyDB) for all system data. We use a
+variety of private cloud buckets for storing customer data files, which are
+segmented currently based on purpose rather than customer/tenant.
 
 As noted elsewhere, we do not store _any_ information about your customers.
 
@@ -367,15 +368,15 @@ our behalf.
 
 ## Acceptable Use
 
-Use of Shorebird is governed by our [Terms of
-Service](https://shorebird.dev/terms). We have logging and alerting in place to
-ensure that our service is not used for malicious purposes or such that would
-disrupt the service for other users.
+Use of Shorebird is governed by our
+[Terms of Service](https://shorebird.dev/terms). We have logging and alerting in
+place to ensure that our service is not used for malicious purposes or such that
+would disrupt the service for other users.
 
 ## Architecture Diagrams
 
-We've written more on the architecture of Shorebird in our [architecture
-documentation](https://docs.shorebird.dev/architecture).
+We've written more on the architecture of Shorebird in our
+[architecture documentation](https://docs.shorebird.dev/architecture).
 
 ## Customer Integration
 
@@ -432,12 +433,12 @@ not begun that process at this time.
 
 We have no third party security, network or otherwise assessments to share at
 this time. Some of our larger customers have performed their own audits of our
-provided infrastructure and when appropriate we have made adjustments based
-on their feedback.
+provided infrastructure and when appropriate we have made adjustments based on
+their feedback.
 
 As noted in other parts of this document, we intentionally do not run our own
-servers, or build our own network infrastructure, rather we rely on Google
-and Cloudflare servers and networks to reduce our total exposure and
+servers, or build our own network infrastructure, rather we rely on Google and
+Cloudflare servers and networks to reduce our total exposure and
 upgrade/maintenance burdens.
 
 ## Business Continuity Planning
