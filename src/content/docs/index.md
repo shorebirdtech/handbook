@@ -6,8 +6,8 @@ sidebar:
   order: 1
 ---
 
-Shorebird makes products that help businesses succeed with Flutter. You can learn more about our products
-at https://shorebird.dev/
+Shorebird makes products that help businesses succeed with Flutter. You can
+learn more about our products at https://shorebird.dev/
 
 The Shorebird handbook is living document describing how we run our company. We
 welcome your feedback and contributions.
@@ -22,8 +22,8 @@ inspiration, there is good prior art:
 
 ## License
 
-All documentation content is licensed to this project under [Creative Commons:
-CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+All documentation content is licensed to this project under
+[Creative Commons: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Shorebird projects are licensed under either of Apache License, Version 2.0
 (LICENSE-APACHE or http://www.apache.org/licenses/LICENSE-2.0) MIT license

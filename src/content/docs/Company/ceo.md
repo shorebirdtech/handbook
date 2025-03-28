@@ -8,15 +8,15 @@ sidebar:
 
 Modeled after [GitLab's CEO doc](https://about.gitlab.com/handbook/ceo/).
 
-The page is about Eric, CEO of Shorebird. The page is intended to be helpful.
-If it sounds pretentious or overbearing, please let me know so I can fix it.
+The page is about Eric, CEO of Shorebird. The page is intended to be helpful. If
+it sounds pretentious or overbearing, please let me know so I can fix it.
 Thanks.
 
 ## CEO bio
 
-Eric is the founder and CEO of Shorebird. Shorebird makes code push for
-Flutter. Before Shorebird, Eric co-founded the Flutter project and lead Flutter
-and Dart at Google.
+Eric is the founder and CEO of Shorebird. Shorebird makes code push for Flutter.
+Before Shorebird, Eric co-founded the Flutter project and lead Flutter and Dart
+at Google.
 
 ![Eric Seidel Headshot](../../../assets/eseidel_headshot.jpeg)
 
@@ -30,8 +30,8 @@ and Dart at Google.
 
 ## Values
 
-My [Kouzes Posner
-Values](https://www.linkedin.com/pulse/name-your-top-5-leadership-core-values-cant-do-heres-how-marcie-white/)
+My
+[Kouzes Posner Values](https://www.linkedin.com/pulse/name-your-top-5-leadership-core-values-cant-do-heres-how-marcie-white/)
 are Family, Health, Trust, Communication, Autonomy.
 
 I expect to act within my values, I expect to be trusted, I expect to have open
@@ -49,8 +49,8 @@ want similar.
 
 - I think of myself as being in a support role.
 - I’ve been told “you can’t always be in the room” so you have to get people to
-  make the right decisions without you there. I’ve come to believe “you’re
-  never in the room”, so the only thing you can control is incentives. Crafting
+  make the right decisions without you there. I’ve come to believe “you’re never
+  in the room”, so the only thing you can control is incentives. Crafting
   incentives is I believe the primary job of a leader.
 
 ## Managing me
