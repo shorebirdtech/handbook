@@ -65,7 +65,7 @@ customers. We use Google Cloud's managed SSL certificates for this.
 ### Devices
 
 All employees are provided with company devices for work. If you believe you
-need to use a non company device for job related functions please work with the
+need to use an external device for job related functions please work with the
 management team to understand the need and purchase the needed equipment via the
 company.
 
