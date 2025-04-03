@@ -150,7 +150,7 @@ time have security teams reach out and provide feedback on our APIs or source
 code (which mostly public on [GitHub](https://github.com/shorebirdtech)).
 Feedback always welcome.
 
-We will begin our ISO 27001 certifications in the near future.
+We have started our ISO 27001 certification with an expected completion of Q3 2025.
 
 ## Product Production System Access
 
