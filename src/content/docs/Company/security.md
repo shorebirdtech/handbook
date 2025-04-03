@@ -161,7 +161,7 @@ A small number of engineers have access to production systems. Production
 changes are all done via CI/CD pipelines, as detailed in the Change Management
 section.
 
-We have an additional (read-only) admin layer to a subset of our production
+We have an additional admin layer to a subset of our production
 systems for monitoring and support purposes.
 
 ## Business Continuity Planning
