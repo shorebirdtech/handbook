@@ -150,7 +150,8 @@ time have security teams reach out and provide feedback on our APIs or source
 code (which mostly public on [GitHub](https://github.com/shorebirdtech)).
 Feedback always welcome.
 
-We have started our ISO 27001 certification with an expected completion of Q3 2025.
+We have started our ISO 27001 certification with an expected completion of
+Q3 2025.
 
 ## Product Production System Access
 
@@ -161,8 +162,8 @@ A small number of engineers have access to production systems. Production
 changes are all done via CI/CD pipelines, as detailed in the Change Management
 section.
 
-We have an additional admin layer to a subset of our production
-systems for monitoring and support purposes.
+We have an additional admin layer to a subset of our production systems for
+monitoring and support purposes.
 
 ## Business Continuity Planning
 
