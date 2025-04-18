@@ -1,6 +1,6 @@
 ---
 title: Compliance Policy
-description: Shorebird Compliance Policy
+description: Code Town Compliance Policy
 template: doc
 ---
 
