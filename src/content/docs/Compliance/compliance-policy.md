@@ -7,7 +7,7 @@ template: doc
 ## Compliance Policy
 
 - Effective Date: April 2025
-- Owner: Tom Arra
+- Owner: Operations Team
 - Approved By: Senior Management Team
 
 ### Purpose
