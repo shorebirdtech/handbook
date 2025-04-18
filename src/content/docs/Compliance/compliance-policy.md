@@ -4,20 +4,18 @@ description: Shorebird Compliance Policy
 template: doc
 ---
 
-## Compliance Policy
-
 - Effective Date: April 2025
 - Owner: Operations Team
 - Approved By: Senior Management Team
 
-### Purpose
+## Purpose
 
 The purpose of this policy is to ensure that Code Town identifies, monitors, and
 complies with all applicable legal, regulatory, and contractual obligations.
 This policy establishes a structured framework for maintaining compliance and
 assigning responsibilities across the organization.
 
-### Scope
+## Scope
 
 This policy applies to
 
@@ -26,7 +24,7 @@ This policy applies to
   data.
 - All business units and subsidiaries, where applicable.
 
-### Policy Statement
+## Policy Statement
 
 Code Town is committed to:
 
@@ -36,7 +34,7 @@ Code Town is committed to:
 - Assigning clear roles and responsibilities for compliance management
 - Taking timely action to address non-compliance or potential risks
 
-### Compliance Register
+## Compliance Register
 
 A centralized Compliance Register shall be maintained and updated regularly.
 This register will include:
@@ -53,7 +51,7 @@ The Compliance Team shall:
 - Track and evaluate legal and regulatory updates
 - Inform relevant stakeholders of changes that may affect their responsibilities
 
-### Roles and Responsibilities
+## Roles and Responsibilities
 
 | Role                      | Responsibilities                                                                                              |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +61,7 @@ The Compliance Team shall:
 | Employees and Contractors | Follow policies and procedures; report potential violations; complete required compliance training            |
 | Vendors/Third Parties     | Adhere to contractual and legal obligations; undergo periodic assessments if required                         |
 
-### Monitoring and Review
+## Monitoring and Review
 
 Compliance will be monitored through:
 
@@ -72,7 +70,7 @@ Compliance will be monitored through:
 - Incident and breach reporting mechanisms
 - Periodic policy and register reviews (at least annually or as required)
 
-### Non-Compliance
+## Non-Compliance
 
 Any violations of this policy may result in:
 
@@ -82,7 +80,7 @@ Any violations of this policy may result in:
 All instances of non-compliance must be reported promptly to the Compliance Team
 for investigation and remediation.
 
-### Training and Awareness
+## Training and Awareness
 
 All relevant personnel shall receive compliance training appropriate to their
 roles. Refresher training will be conducted periodically or when significant
