@@ -21,7 +21,6 @@
     "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "hastscript": "^9.0.0",
     "prettier": "^3.2.5",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.6.11",
