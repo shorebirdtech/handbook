@@ -26,6 +26,9 @@
     "prettier-plugin-tailwindcss": "^0.6.11",
     "starlight-links-validator": "^0.16.0"
   },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "^4.40.0"
+  },
   "prettier": {
     "printWidth": 80,
     "proseWrap": "always"
