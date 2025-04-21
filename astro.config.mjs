@@ -1,6 +1,4 @@
 import { defineConfig } from "astro/config";
-import rehypeSlug from "rehype-slug";
-import { rehypeAutolink } from "./plugins/rehype-autolink";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
 
@@ -47,9 +45,6 @@ export default defineConfig({
           },
         },
       ],
-      components: {
-        MarkdownContent: "./src/components/starlight/MarkdownContent.astro",
-      },
       customCss: ["./src/tailwind.css"],
       expressiveCode: {
         themes: ["dark-plus", "github-light"],
@@ -62,9 +57,6 @@ export default defineConfig({
       ],
     }),
   ],
-  markdown: {
-    rehypePlugins: [rehypeSlug, ...rehypeAutolink()],
-  },
   redirects: {
     // Redirects to preserve legacy URLs.
   },
