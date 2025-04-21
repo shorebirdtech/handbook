@@ -2,7 +2,6 @@ import { defineConfig } from "astro/config";
 import rehypeSlug from "rehype-slug";
 import { rehypeAutolink } from "./plugins/rehype-autolink";
 import starlight from "@astrojs/starlight";
-import tailwind from "@astrojs/tailwind";
 import starlightLinksValidator from "starlight-links-validator";
 
 const site = "https://handbook.shorebird.dev/";
@@ -62,7 +61,6 @@ export default defineConfig({
         }),
       ],
     }),
-    tailwind({ applyBaseStyles: false }),
   ],
   markdown: {
     rehypePlugins: [rehypeSlug, ...rehypeAutolink()],
