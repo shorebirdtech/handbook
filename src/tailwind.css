@@ -1,6 +1,40 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@plugin '@astrojs/starlight-tailwind';
+
+@theme {
+  --color-accent-200: #8bd8de;
+  --color-accent-600: #007b83;
+  --color-accent-900: #003a3e;
+  --color-accent-950: #002a2d;
+
+  --color-gray-100: #f6f6f6;
+  --color-gray-200: #edeeed;
+  --color-gray-300: #c1c2c2;
+  --color-gray-400: #8a8c8b;
+  --color-gray-500: #575858;
+  --color-gray-700: #373838;
+  --color-gray-800: #262727;
+  --color-gray-900: #181818;
+}
+
+/*
+  The default border color has changed to `currentcolor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+}
 
 /* Dark mode colors. */
 :root {
