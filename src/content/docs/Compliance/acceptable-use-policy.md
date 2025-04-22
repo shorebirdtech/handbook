@@ -90,7 +90,7 @@ solutions.
 Non-compliance may lead to disciplinary action, including termination, as per
 Code Town's policies.
 
-## 4 Policy Review and Maintenance
+## Policy Review and Maintenance
 
 This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
