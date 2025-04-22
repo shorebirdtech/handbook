@@ -1,9 +1,7 @@
 ---
 title: Security
-description: Shorebird Security Policy
+description: Code Town Security Policy
 template: doc
-sidebar:
-  order: 6
 ---
 
 This is our internal security policy. This document exists both for education of
@@ -19,11 +17,12 @@ Changes or exceptions to these policies should be reviewed by the CEO.
 
 ## Organization & Responsible Parties
 
-Shorebird is a small company. We were fewer than 5 people as of April 2025.
+Code Town is a small company. We were fewer than 5 people as of April 2025.
 
-Eric (CEO) is end-responsible for all things Shorebird, including informational
-security. We do not have a dedicated security team, but security is part of our
-engineering culture and we have built a team with experience in security.
+Eric (CEO) is end-responsible for all things Code Town & Shorebird, including
+informational security. We do not have a dedicated security team, but security
+is part of our engineering culture and we have built a team with experience in
+security.
 
 ## Employee Security & Confidentiality
 
@@ -47,7 +46,7 @@ and we use SSO for all access, so this is a trivial process.
 
 ## Contractor Security & Confidentiality
 
-Shorebird does not use contractors at this time. If we do in the future, they
+Code Town does not use contractors at this time. If we do in the future, they
 will be covered by the same security policies and processes as employees and
 sign the same confidentiality agreement.
 
@@ -55,7 +54,7 @@ sign the same confidentiality agreement.
 
 ### Network
 
-Shorebird does not run it's own internal network. Given that we are an all
+Code Town does not run it's own internal network. Given that we are an all
 [remote company](/company/company_details/#a-note-on-remote-only) this is of no
 benefit to us and instead rely on Cloud Services.
 
@@ -101,7 +100,7 @@ guidelines) and two factor authentication (2FA).
 
 ### Physical Access
 
-Shorebird is an
+Code Town is an
 [all-remote company](/company/company_details/#a-note-on-remote-only). We have
 no physical office or visitor policies. We do not own or operate physical
 servers.
@@ -109,7 +108,7 @@ servers.
 ### User Access Review
 
 We review all user access to our systems periodically, as well as as part of an
-employee joining or leaving the company. All access to Shorebird systems is
+employee joining or leaving the company. All access to Code Town systems is
 gated through Google SSO including required two factor authentication.
 
 ## Third Party Suppliers
@@ -145,7 +144,7 @@ forward.
 
 ## Vendor Certifications
 
-Shorebird maintains no vendor certifications at this time. We do from time to
+Code Town maintains no vendor certifications at this time. We do from time to
 time have security teams reach out and provide feedback on our APIs or source
 code (which mostly public on [GitHub](https://github.com/shorebirdtech)).
 Feedback always welcome.
@@ -167,7 +166,7 @@ monitoring and support purposes.
 
 ## Business Continuity Planning
 
-Shorebird has no formal Business Continuity Plan at this time.
+Code Town has no formal Business Continuity Plan at this time.
 
 Our code push product is designed such that any interruption to Shorebird's
 services will not affect the users of your application, other than that you are
