@@ -31,9 +31,6 @@ All change requests must be formally documented, including:
 - Approver
 - Description and justification of the change
 
-Changes are classified based on their potential impact and risk (e.g., low,
-medium, high), which will determine the level of scrutiny required.
-
 A separate, streamlined process is defined for emergency changes, with
 appropriate documentation and approvals.
 
