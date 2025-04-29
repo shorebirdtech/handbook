@@ -1,6 +1,6 @@
 ---
-title: Business Countinuity and Disaster Recovery Policy
-description: Code Town Business Countinuity and Disaster Recovery Policy
+title: Business Continuity and Disaster Recovery Policy
+description: Code Town Business Continuity and Disaster Recovery Policy
 template: doc
 ---
 
@@ -132,8 +132,7 @@ Reviews must consider changes in the regulatory landscape.
      to maintain business operations.
    - Retrieve data from off-site backups or cloud storage to facilitate
      temporary operations.
-   - Establish a temporary helpdesk or communication channel for users
-     experiencing issues.
+   - Establish a temporary communication channel for users experiencing issues.
 
    b. Damage Recovery:
 
@@ -170,9 +169,9 @@ Reviews must consider changes in the regulatory landscape.
    c. Post-Incident Review:
 
    - Conduct a post-mortem analysis to understand the root cause of the
-     incident, the effectiveness of the BCDR plan, and areas that require
-     improvement.
-   - Update the BCDR plan based on lessons learned and improve training,
-     resources, and protocols as necessary.
+     incident, the effectiveness of the Business Continuity & Disaster Recovery
+     plan, and areas that require improvement.
+   - Update the Business Continuity & Disaster Recovery plan based on lessons
+     learned and improve training, resources, and protocols as necessary.
    - Share relevant incident details and lessons learned with stakeholders and,
      where appropriate, the broader community to help prevent future incidents.
