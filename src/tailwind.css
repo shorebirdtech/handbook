@@ -34,6 +34,11 @@
   ::file-selector-button {
     border-color: var(--color-gray-200, currentcolor);
   }
+  ul,
+  ol {
+    list-style: revert;
+    padding: revert;
+  }
 }
 
 /* Dark mode colors. */
