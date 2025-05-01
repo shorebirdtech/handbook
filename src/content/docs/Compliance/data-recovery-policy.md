@@ -112,7 +112,7 @@ ensure system integrity.
   - Recovery Time Objective (RTO):< 1 hour
   - Recovery Point Objective (RPO): ≤ 24 hours
 - BigQuery
-  - Backup Method: Duplication via Redis
+  - Backup Method: Cached in Redis
   - Restore Process: Rebuild via custom scripts with Redis Input
   - Documentation: N/A
   - Recovery Time Objective (RTO): < 24 hours
