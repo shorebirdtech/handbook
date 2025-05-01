@@ -23,7 +23,7 @@ strategy and operations.
 All critical data and systems are backed up according to a defined backup
 schedule. Backup frequency and retention periods are determined based on:
 
-- Classification of the data, and
+- Classification of the data
 - Regulatory requirements.
 
 Any system that contains production customer data must be backed up using an
