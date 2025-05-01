@@ -89,7 +89,7 @@ ensure system integrity.
 | System        | Priority | Data Type                          | Source of Truth | Notes                                                |
 | ------------- | -------- | ---------------------------------- | --------------- | ---------------------------------------------------- |
 | AlloyDB       | High     | Production Customer Data           | Yes             | Backups are automated via Google Cloud               |
-| Cloud Storage | Medium   | Customer Build Artifacts & Patches | Yes             | Caching and backup provided by Cloudflare            |
+| Cloud Storage | Medium   | Customer Build Artifacts & Patches | Yes             | Cached by Cloudflare and backed up by Google Cloud            |
 | BigQuery      | Medium   | Aggregated Logs                    | No              | Cached in Redis, non-critical                  |
 | Redis         | Low      | Cache                              | No              | Can be regenerated if needed via AlloyDB & Big Query |
 
