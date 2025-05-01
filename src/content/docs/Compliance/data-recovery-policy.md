@@ -86,11 +86,11 @@ services which are easily re-deployable in the case of system loss. The systems
 below hold our customer data and therefore are subject to recovery procedures to
 ensure system integrity.
 
-| System        | Priority | Data Type                          | Source of Truth | Notes                                                |
-| ------------- | -------- | ---------------------------------- | --------------- | ---------------------------------------------------- |
-| AlloyDB       | High     | Production Customer Data           | Yes             | Backups are automated via Google Cloud               |
-| Cloud Storage | Medium   | Customer Build Artifacts & Patches | Yes             | Cached by Cloudflare and backed up by Google Cloud            |
-| BigQuery      | Medium   | Aggregated Logs                    | No              | Cached in Redis, non-critical                  |
+| System        | Priority | Data Type                          | Source of Truth | Notes                                                 |
+| ------------- | -------- | ---------------------------------- | --------------- | ----------------------------------------------------- |
+| AlloyDB       | High     | Production Customer Data           | Yes             | Backups are automated via Google Cloud                |
+| Cloud Storage | Medium   | Customer Build Artifacts & Patches | Yes             | Cached by Cloudflare and backed up by Google Cloud    |
+| BigQuery      | Medium   | Aggregated Logs                    | No              | Cached in Redis, non-critical                         |
 | Redis         | Low      | Cache                              | No              | Can be regenerated if needed from AlloyDB & Big Query |
 
 ### Data Recovery Plan
