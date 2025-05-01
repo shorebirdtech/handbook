@@ -90,7 +90,7 @@ ensure system integrity.
 | ------------- | -------- | ---------------------------------- | --------------- | ---------------------------------------------------- |
 | AlloyDB       | High     | Production Customer Data           | Yes             | Backups are automated via Google Cloud               |
 | Cloud Storage | Medium   | Customer Build Artifacts & Patches | Yes             | Caching and backup provided by Cloudflare            |
-| BigQuery      | Medium   | Aggregated Logs                    | No              | Redundancy from Redis, non-critical                  |
+| BigQuery      | Medium   | Aggregated Logs                    | No              | Cached in Redis, non-critical                  |
 | Redis         | Low      | Cache                              | No              | Can be regenerated if needed via AlloyDB & Big Query |
 
 ### Data Recovery Plan
