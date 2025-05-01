@@ -96,7 +96,7 @@ ensure system integrity.
 ### Data Recovery Plan
 
 - AlloyDB (Production Database)
-  - Backup Method: Automated daily backups configured in Google Cloud.
+  - Backup Method: Automated continuous backups configured in Google Cloud.
   - Restore Process: One-click restore via Google Cloud Console.
   - Documentation:
     [Google Cloud - AlloyDB Data Backup and Recovery Overview](https://cloud.google.com/alloydb/docs/backup/overview)
