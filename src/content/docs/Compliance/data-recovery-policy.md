@@ -70,14 +70,56 @@ solutions.
 Non-compliance may lead to disciplinary action, including termination, as per
 Code Town's policies.
 
-## 4. Policy Review and Maintenance
+## Policy Review and Maintenance
 
 This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
 
-### Appendix A: Data Recovery Plan
+## Appendix
 
-[To be completed by company, be sure to outline what systems need priority and
-how to restore all data in the event of a disaster]
+### System Recovery Prioritization
+
+All of our systems use Google Cloud Platform, Redis, and Cloudflare managed
+services which are easily re-deployable in the case of system loss. The systems
+below hold our customer data and therefore are subject to recovery procedures to
+ensure system integrity.
+
+| System        | Priority | Data Type                          | Source of Truth | Notes                                               |
+| ------------- | -------- | ---------------------------------- | --------------- | --------------------------------------------------- |
+| AlloyDB       | High     | Production Customer Data           | Yes             | Backups are automated via Google Cloud              |
+| Cloud Storage | Medium   | Customer Build Artifacts & Patches | Yes             | Caching and backup provided by Cloudflare           |
+| BigQuery      | Medium   | Aggregated Logs                    | No              | Redundency from Redis, non-critical                 |
+| Redis         | Low      | Cache                              | No              | Can be regnerated if needed via AlloyDB & Big Query |
+
+### Data Recovery Plan
+
+- AlloyDB (Production Database)
+  - Backup Method: Automated daily backups configured in Google Cloud.
+  - Restore Process: One-click restore via Google Cloud Console.
+  - Documentation:
+    [Google Cloud - AlloyDB Data Backup and Recovery Overview](https://cloud.google.com/alloydb/docs/backup/overview)
+  - Recovery Time Objective (RTO): < 1 hour
+  - Recovery Point Objective (RPO): ≤ 24 hours
+- Cloud Storage (Patches & Artifacts)
+  - Backup Method: Object versioning is enabled. No delete permissions granted;
+    data is immutable
+  - Restore Process: Previous versions available; restore via Google Cloud
+    Storage console.
+  - Documentation:
+    [Google Cloud - Cloud Storage Object Versioning](https://cloud.google.com/storage/docs/object-versioning)
+  - Recovery Time Objective (RTO):< 1 hour
+  - Recovery Point Objective (RPO): ≤ 24 hours
+- BigQuery
+  - Backup Method: Duplication via Redis
+  - Restore Process: Rebuild via custom scripts with Redis Input
+  - Documentation: N/A
+  - Recovery Time Objective (RTO): < 24 hours
+  - Recovery Point Objective (RPO): < 24 hours
+- Redis
+  - Backup Method: None
+  - Restore Process: Rebuild from AlloyDB & BigQuery via custom scripts
+  - Documentation: N/A
+  - Recovery Time Objective (RTO): < 24 hours
+  - Recovery Point Objective (RPO): < 24 hours
