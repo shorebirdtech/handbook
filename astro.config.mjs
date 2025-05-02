@@ -59,5 +59,6 @@ export default defineConfig({
   ],
   redirects: {
     // Redirects to preserve legacy URLs.
+    "/security": "/compliance/security-policy",
   },
 });
