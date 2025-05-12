@@ -100,7 +100,7 @@ assets by:
   system updates, and regular vulnerability scanning to reduce the risk of
   compromise.
 - Network and endpoint security: Using firewalls, intrusion detection and
-  prevention systems (IDPS), and endpoint protection tools to monitor and defend
+  prevention systems, and endpoint protection tools to monitor and defend
   against threats.
 - Monitoring and logging: Implementing logging and monitoring systems to detect
   and respond to unauthorized activities or system anomalies in real-time.
@@ -125,7 +125,3 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-| Version | Last Review Date | Next Review Date | Reviewed By | Approved By |
-| ------- | ---------------- | ---------------- | ----------- | ----------- |
-| 1.0     | [Review Date]    | [Review Date]    | [Reviewer]  | [Approver]  |
