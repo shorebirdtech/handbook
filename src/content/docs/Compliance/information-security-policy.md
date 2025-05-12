@@ -56,7 +56,7 @@ Code Town will implement and maintain organizational controls by:
 - Documented procedures: Maintaining clear procedures for security incident
   management, business continuity, and disaster recovery.
 
-### 2.3 **People Controls**
+### People Controls
 
 Code Town is committed to protecting information through people-focused controls
 by:
@@ -70,7 +70,7 @@ by:
 - Incident reporting and response: Educating employees on identifying and
   reporting security incidents promptly.
 
-### 2.4 **Physical Controls**
+### Physical Controls
 
 Code Town will safeguard its information assets through effective physical
 controls by:
@@ -85,7 +85,7 @@ controls by:
   policy, ensuring that sensitive information is not visible or accessible, and
   securely dispose of physical documents when no longer needed.
 
-### 2.5 **Technological Controls**
+### Technological Controls
 
 Code Town will employ technological controls to protect its digital information
 assets by:
@@ -107,7 +107,7 @@ assets by:
 - Backup and recovery: Conducting regular backups of critical data and testing
   recovery procedures to ensure business continuity.
 
-## 3. Compliance and Enforcement
+## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
 third parties with access to Code Town's data.
@@ -119,7 +119,7 @@ solutions.
 Non-compliance may lead to disciplinary action, including termination, as per
 Code Town's policies.
 
-## 4. Policy Review and Maintenance
+## Policy Review and Maintenance
 
 This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
