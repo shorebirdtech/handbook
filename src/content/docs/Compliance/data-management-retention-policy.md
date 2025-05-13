@@ -97,8 +97,8 @@ contractual obligations, such as the General Data Protection Regulation (GDPR),
 California Consumer Privacy Act (CCPA), or other applicable laws.
 
 Data subject rights (e.g., access, rectification, erasure) must be honored as
-required by law. A process to handle data subject access requests (DSARs) in
-compliance with applicable privacy regulations is implemented.
+required by law. A process to handle data subject access requests in compliance
+with applicable privacy regulations is implemented.
 
 When data is subject to litigation hold or regulatory investigation, retention
 periods may be extended as needed.
