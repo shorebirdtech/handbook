@@ -67,7 +67,7 @@ follow the principle of least privilege.
 Third-party access is reviewed quarterly, and they must comply with this policy
 and other security requirements.
 
-As of April 2025 Code Town does not currently allow third-party access.
+As of May 2025 Code Town does not currently allow third-party access.
 
 ### Monitoring and Logging
 
