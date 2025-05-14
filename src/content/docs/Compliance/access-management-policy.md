@@ -1,6 +1,6 @@
 ---
-title: Asset Management Policy
-description: Code Town Asset Management Policy
+title: Access Management Policy
+description: Code Town Access Management Policy
 template: doc
 ---
 
