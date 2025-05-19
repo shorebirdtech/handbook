@@ -58,7 +58,11 @@ export default defineConfig({
     }),
   ],
   redirects: {
-    // Redirects to preserve legacy URLs.
-    "/security": "/compliance/security-policy",
+    "/benefits": "/company/benefits/",
+    "/ceo": "/company/ceo/",
+    "/community": "/company/community/",
+    "/company": "company/company_details/",
+    "/engineering": "/departments/engineering/",
+    "/security": "/compliance/",
   },
 });
