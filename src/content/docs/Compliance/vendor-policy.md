@@ -17,7 +17,7 @@ third-party Vendors.
 This policy applies to all employees involved in selecting, contracting, or
 managing third-party relationships.
 
-## Our Commitments
+## Policy Statements: Our Commitments
 
 The following policy statements outline how we manage risks associated with
 third-party relationships to protect our information assets and promote

@@ -17,7 +17,7 @@ Google Cloud. These cloud providers maintain documentation surrounding their
 physical security controls, and the Code Town team reviews this documentation
 yearly to ensure it is compliant with Code Town security requirements.
 
-## Policy Statements
+## Policy Statements: Our Commitments
 
 1. Employees must ensure their home internet is secure. Use of WPA2 encryption
    on Wi-Fi networks is required.

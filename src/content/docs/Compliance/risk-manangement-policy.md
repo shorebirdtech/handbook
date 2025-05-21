@@ -12,7 +12,7 @@ information security risks at Code Town.
 This policy outlines our approach to identifying, assessing, and managing risks
 related to information security.
 
-## Our Commitments
+## Policy Statements: Our Commitments
 
 The following policy statements outline our approach to risk management,
 covering all aspects from risk identification to treatment and monitoring.
