@@ -48,8 +48,6 @@ coverage of system activities:
   shutdowns, and system errors.
 - **Network logs**: Capturing network traffic events, including firewall,
   router, and switch logs.
-- **Audit logs**: Documenting user activities and system changes for compliance
-  and auditing purposes.
 
 Logs must be configured to capture sufficient details, including timestamps, IP
 addresses, user IDs, and event types, to facilitate incident investigation and
