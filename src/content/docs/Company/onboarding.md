@@ -106,19 +106,41 @@ your manager to determine and get onboarded to the systems you believe you need.
 ### ISO Compliance
 
 As part of our ISO Compliance we have certain procedures that we need to follow
-during your employment.
+during your employment. This is maintained for us via Oneleet. All employees
+will be added to Oneleet and your department/role will determine if the
+following policies apply to you.
 
-#### Set up OneLeet Agent
+#### Set up Oneleet Agent
 
-TBD
+The [Oneleet Agent](https://docs.oneleet.com/oneleet-agent/general-privacy) is a
+small application that works on the background of your machine to ensure that it
+is following our compliance guidelines. This is typically checking that things
+like the system firewall is enabled, your screen will auto lock after a given
+time period, and that your disk is using encryption. You can see the full list
+of data collected on
+[their documentation](https://docs.oneleet.com/oneleet-agent/data-collection).
+It checks these and other items periodically and reports them back to Oneleet.
+
+You can download the agent from the
+[Oneleet Portal](https://portal.oneleet.com/) and will need to follow their
+[setup document](https://docs.oneleet.com/oneleet-agent/setup).
 
 #### Accept Policies
 
-TBD
+As part of our ISO Certification you are required to review and "sign" the
+policies that apply to your department/role. These can be found in the
+[Policy section of the Oneleet Portal](https://portal.oneleet.com/tenants/779dfaac-6762-4988-898e-ac8856a459ee/policies).
+These policies are kept in sync with our [compliance section](/compliance/) of
+this handbook so you can review them in either location at any time.
+
+This is a one time process when becoming a new employee and will be reviewed on
+a yearly basis for updates and signatures.
 
 #### Security Training
 
-TBD
+Upon starting and on a yearly basis you are required to go through our internal
+security training. This can be found in the
+[Security Training section of the Oneleet Portal](https://portal.oneleet.com/tenants/779dfaac-6762-4988-898e-ac8856a459ee/training).
 
 ### Use The Product
 
