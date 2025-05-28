@@ -182,6 +182,7 @@ removing Discord visitors.
 - You should consider muting Discord, except for @mentions, if the amount of
   notifications is bothering you.
 - Current patterns have involved a most-days sync over VC and brief end-of-day
+  <!--- cspell:disable-next-line -->
   updates in #standup. We expect these to evolve over time as we grow.
 
 #### Email & Calendar
