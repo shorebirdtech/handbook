@@ -67,7 +67,7 @@ exit event.**
 
 - Revoke access to:
   - Google Workspace (automatic in rippling)
-  - Google Cloud
+  - Google Cloud (automatic as a result of loss of Google Workspace/SSO)
   - GitHub
     - Remove from Organization
     - Remove from Codeowners files
