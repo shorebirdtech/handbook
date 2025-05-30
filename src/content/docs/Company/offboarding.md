@@ -71,7 +71,7 @@ exit event.**
   - GitHub
     - Remove from Organization
     - Remove from Codeowners files
-  - Discord (remove Birder role)
+  - Discord (remove Birder role -- *requires manual work*)
 - Transfer ownership of:
   - Google Drive contents
   - Email forwarding to manager
