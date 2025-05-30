@@ -66,7 +66,7 @@ exit event.**
 **To be completed on or before last working day.**
 
 - Revoke access to:
-  - Google Workspace
+  - Google Workspace (automatic in rippling)
   - Google Cloud
   - GitHub
     - Remove from Organization
