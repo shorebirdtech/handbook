@@ -12,7 +12,7 @@ transfer. This is really the implementation details of the
 [Offboarding and Access Termination section of our Human Resource Security Policy](https://handbook.shorebird.dev/compliance/hr-security-policy/#offboarding-and-access-termination).
 
 Please note that this is a checklist and that not all items will apply to all
-employees. Managers should work with their employees throughout this process to
+employees. Managers should work with employees throughout this process to
 ensure all required items are completed.
 
 ## Exit Event
