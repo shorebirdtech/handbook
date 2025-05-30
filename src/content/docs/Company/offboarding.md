@@ -80,7 +80,7 @@ exit event.**
 
 **To be completed the week after the last working day.**
 
-- Audit access logs and confirm revocation of all accounts
+- Audit access logs and confirm revocation of all accounts (specifically our accounts and services list)
 - Check that no sensitive data remains in personal drives/emails
 - Document offboarding completion in personnel file
 - Review any lessons learned to improve future offboarding
