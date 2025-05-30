@@ -58,7 +58,7 @@ exit event.**
 
 - Prepare final paycheck (Rippling will do this automatically for US employees).
 - Terminate benefits and provide COBRA notice (if applicable), automatic in Rippling for US employees.
-- Disable access to Rippling.
+- Disable access to Rippling (automatic, but listed in case of non-rippling employees).
 - Conduct exit interview (document feedback and insights)
 
 ## Access and Security
