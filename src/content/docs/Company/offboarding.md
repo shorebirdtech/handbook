@@ -34,7 +34,8 @@ all required items are completed.
 final day given shipping times.**
 
 - Retrieve or confirm destruction of:
-  - Company-issued laptops, phones, or hardware tokens
+  - Company-issued laptops, phones, or hardware tokens (via
+    https://helloretriever.com)
   - Physical access cards or security badges
 - Update the asset inventory log.
 - Disable remote wipe options once device is returned.
