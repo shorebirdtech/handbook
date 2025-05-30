@@ -68,7 +68,7 @@ exit event.**
 - Revoke access to:
   - Google Workspace (automatic in rippling)
   - Google Cloud (automatic as a result of loss of Google Workspace/SSO)
-  - GitHub
+  - GitHub (*requires manual work*)
     - Remove from Organization
     - Remove from Codeowners files
   - Discord (remove Birder role -- *requires manual work*)
