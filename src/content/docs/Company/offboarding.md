@@ -12,8 +12,8 @@ transfer. This is really the implementation details of the
 [Offboarding and Access Termination section of our Human Resource Security Policy](https://handbook.shorebird.dev/compliance/hr-security-policy/#offboarding-and-access-termination).
 
 Please note that this is a checklist and that not all items will apply to all
-employees. Managers should work with employees throughout this process to
-ensure all required items are completed.
+employees. Managers should work with employees throughout this process to ensure
+all required items are completed.
 
 ## Exit Event
 
@@ -57,8 +57,10 @@ exit event.**
 **To be completed on or before last working day.**
 
 - Prepare final paycheck (Rippling will do this automatically for US employees).
-- Terminate benefits and provide COBRA notice (if applicable), automatic in Rippling for US employees.
-- Disable access to Rippling (automatic, but listed in case of non-rippling employees).
+- Terminate benefits and provide COBRA notice (if applicable), automatic in
+  Rippling for US employees.
+- Disable access to Rippling (automatic, but listed in case of non-rippling
+  employees).
 - Conduct exit interview (document feedback and insights)
 
 ## Access and Security
@@ -68,10 +70,10 @@ exit event.**
 - Revoke access to:
   - Google Workspace (automatic in rippling)
   - Google Cloud (automatic as a result of loss of Google Workspace/SSO)
-  - GitHub (*requires manual work*)
+  - GitHub (_requires manual work_)
     - Remove from Organization
     - Remove from Codeowners files
-  - Discord (remove Birder role -- *requires manual work*)
+  - Discord (remove Birder role -- _requires manual work_)
 - Transfer ownership of:
   - Google Drive contents
   - Email forwarding to manager
@@ -80,7 +82,8 @@ exit event.**
 
 **To be completed the week after the last working day.**
 
-- Audit access logs and confirm revocation of all accounts (specifically our accounts and services list)
+- Audit access logs and confirm revocation of all accounts (specifically our
+  accounts and services list)
 - Check that no sensitive data remains in personal drives/emails
 - Document offboarding completion in personnel file
 - Review any lessons learned to improve future offboarding
