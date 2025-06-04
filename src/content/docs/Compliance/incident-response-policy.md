@@ -91,6 +91,15 @@ Incidents will be classified based on their severity, such as:
 All incidents, regardless of severity, must be logged and documented for further
 analysis and reporting.
 
+As a U.S.-based company, Shorebird will escalate incidents to appropriate U.S.
+authorities when necessary. This includes contacting emergency services via 911
+for any incidents involving physical safety or threats, and reporting
+cyber-related crimes to the
+[Internet Crime Complaint Center (IC3)](https://www.ic3.gov). The decision to
+involve law enforcement or regulatory agencies will be made by the Incident
+Response Team in coordination with legal counsel, based on the nature and
+severity of the incident.
+
 ### Incident Containment and Eradication
 
 Depending on the severity of the incident, short-term and long-term containment
