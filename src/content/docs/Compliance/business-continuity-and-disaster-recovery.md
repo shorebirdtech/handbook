@@ -110,14 +110,12 @@ Reviews must consider changes in the regulatory landscape.
    application behavior.
 
    b. Assessment:
-
    - Once an incident is detected, immediately convene a response team to assess
      the severity, potential impact, and categorize the incident type (e.g.,
      hardware failure, cyber-attack, natural disaster).
    - Communicate the incident assessment to all relevant stakeholders.
 
    c. Plan Activation:
-
    - Based on the assessment, activate the appropriate business continuity or
      disaster recovery procedure, specifying roles and responsibilities, and
      initiate the response protocol.
@@ -127,7 +125,6 @@ Reviews must consider changes in the regulatory landscape.
 2. **Recovery Phase**
 
    a. Establish Temporary IT Operations:
-
    - Redirect network traffic to backup systems or utilize cloud-based services
      to maintain business operations.
    - Retrieve data from off-site backups or cloud storage to facilitate
@@ -135,7 +132,6 @@ Reviews must consider changes in the regulatory landscape.
    - Establish a temporary communication channel for users experiencing issues.
 
    b. Damage Recovery:
-
    - Initiate damage control measures to prevent further loss, such as isolating
      affected systems, applying emergency patches, or shutting down specific
      services.
@@ -151,7 +147,6 @@ Reviews must consider changes in the regulatory landscape.
 3. **Reconstitution Phase**
 
    a. System Restoration:
-
    - Once the ongoing disruption is mitigated, begin the process of restoring
      full services from the temporary operations to the primary systems.
    - Conduct a thorough system audit and verification to ensure all systems are
@@ -160,14 +155,12 @@ Reviews must consider changes in the regulatory landscape.
      alterations were made.
 
    b. Return to Normal Operations:
-
    - Formally document the return to normal operations and communicate this to
      all stakeholders.
    - Gradually phase out temporary measures and ensure users experience a smooth
      transition back to regular operations.
 
    c. Post-Incident Review:
-
    - Conduct a post-mortem analysis to understand the root cause of the
      incident, the effectiveness of the Business Continuity & Disaster Recovery
      plan, and areas that require improvement.
