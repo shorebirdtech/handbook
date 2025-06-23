@@ -15,16 +15,16 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/starlight": "^0.34.4",
     "@astrojs/starlight-tailwind": "^4.0.1",
-    "astro": "^5.9.3",
+    "astro": "^5.10.0",
     "sharp": "^0.34.2",
     "tailwindcss": "^4.1.10",
     "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "prettier": "^3.2.5",
+    "prettier": "^3.6.0",
     "prettier-plugin-astro": "^0.14.1",
-    "prettier-plugin-tailwindcss": "^0.6.12",
-    "starlight-links-validator": "^0.16.0"
+    "prettier-plugin-tailwindcss": "^0.6.13",
+    "starlight-links-validator": "^0.17.0"
   },
   "prettier": {
     "printWidth": 80,
