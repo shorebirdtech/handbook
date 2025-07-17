@@ -20,3 +20,5 @@ Q3 2025.
 If you have questions about the practices in place for our products, those
 details can be found on our
 [docs site](https://docs.shorebird.dev/system/security/).
+
+[![ISO Badge](https://badges.oneleet.com/badge/a912b4a6-eb01-4cfb-9bff-2eac8d8e5aec?dark=true)](https://trust.shorebird.dev)
