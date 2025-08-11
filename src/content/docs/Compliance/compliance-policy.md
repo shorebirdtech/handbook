@@ -119,9 +119,9 @@ for investigation and remediation.
 
 ## Training and Awareness
 
-All relevant personnel shall receive compliance and non-conformity management
-training appropriate to their roles. Refresher training will be conducted
-periodically or when significant changes in obligations occur.
+All relevant personnel shall receive compliance training appropriate to their
+roles. Refresher training will be conducted periodically or when significant
+changes in obligations occur.
 
 ## Appendix
 
