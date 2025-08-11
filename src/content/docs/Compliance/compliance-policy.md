@@ -4,16 +4,14 @@ description: Code Town Compliance Policy
 template: doc
 ---
 
-- Effective Date: April 2025
-- Owner: Operations Team
-- Approved By: Senior Management Team
-
 ## Purpose
 
-The purpose of this policy is to ensure that Code Town identifies, monitors, and
-complies with all applicable legal, regulatory, and contractual obligations.
-This policy establishes a structured framework for maintaining compliance and
-assigning responsibilities across the organization.
+The purpose of this policy is to ensure that Code Town systematically
+identifies, documents, investigates, and addresses all applicable legal,
+regulatory, contractual, and information security obligations. This policy
+establishes a structured framework for compliance management, including
+corrective action procedures that prevent recurrence of non-conformities and
+drive continuous improvement.
 
 ## Scope
 
@@ -32,7 +30,9 @@ Code Town is committed to:
 - Maintaining an up-to-date compliance register
 - Monitoring compliance status and changes to applicable requirements
 - Assigning clear roles and responsibilities for compliance management
-- Taking timely action to address non-compliance or potential risks
+- Conducting root cause analysis for non-conformities
+- Implementing corrective and preventive actions to avoid recurrence
+- Driving continual improvement of our security and compliance programs
 
 ## Compliance Register
 
@@ -61,16 +61,53 @@ The Compliance Team shall:
 | Employees and Contractors | Follow policies and procedures; report potential violations; complete required compliance training            |
 | Vendors/Third Parties     | Adhere to contractual and legal obligations; undergo periodic assessments if required                         |
 
+## Non-Conformity Management and Corrective Actions
+
+Code Town shall maintain a structured Non-Conformity and Corrective Action
+Procedure that includes:
+
+- Identification and Reporting
+  - All employees, contractors, and vendors must promptly report actual or
+    suspected non-conformities using the official Non-Conformity Report Form
+  - Reports may be submitted to the Compliance Team via designated reporting
+    channels (e.g., secure email, incident reporting portal)
+- Documentation
+  - All non-conformities will be recorded in the Non-Conformity Log, which
+    includes:
+    - Description of the issue
+    - Date of detection
+    - Reporter’s name and contact information
+    - Impact assessment
+    - Relevant regulatory or contractual obligations
+    - Assigned owner and target resolution date
+- Investigation and Root Cause Analysis
+  - The Compliance Team (with input from relevant stakeholders) will investigate
+    the issue to determine the root cause, contributing factors, and potential
+    risks.
+- Corrective and Preventive Actions
+  - Appropriate corrective actions will be developed to address the root cause
+  - Preventive measures will be implemented to reduce the likelihood of
+    recurrence
+  - Each action will have a designated owner and completion deadline.
+- Review and Effectiveness Evaluation
+  - The Compliance Team will review completed actions to ensure they were
+    implemented effectively.
+  - If actions are found ineffective, further corrective steps will be taken.
+- Continual Improvement
+  - Findings from non-conformities will be reviewed periodically and used to
+    strengthen Code Town’s security and compliance programs.
+
 ## Monitoring and Review
 
 Compliance will be monitored through:
 
 - Internal and external audits
-- Ongoing legal and regulatory monitoring
-- Incident and breach reporting mechanisms
-- Periodic policy and register reviews (at least annually or as required)
+- Ongoing legal, regulatory, and security monitoring
+- Incident, breach, and non-conformity reporting mechanisms
+- Periodic policy, register, and corrective and preventive actions reviews (at
+  least annually or as required)
 
-## Non-Compliance
+## Consequences of Non-Compliance
 
 Any violations of this policy may result in:
 
@@ -85,3 +122,14 @@ for investigation and remediation.
 All relevant personnel shall receive compliance training appropriate to their
 roles. Refresher training will be conducted periodically or when significant
 changes in obligations occur.
+
+## Appendix
+
+### Non-Conformity Report Form
+
+The Code Town approved
+[Non-Conformity Report Form](https://docs.google.com/document/d/1-sbyHUgpoFEGX2xcFaXKpcUkbaUCPf5H-UVdF-v0Ipo/edit?tab=t.0)
+can be found in our Shared Google Drive. To use this form, create a copy of this
+document, fill out all relevant sections to the best of your abilities and
+submit it to the Compliance Team within 24 hours of identifying a
+non-conformity.
