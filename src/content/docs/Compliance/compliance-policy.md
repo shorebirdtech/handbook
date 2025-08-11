@@ -101,18 +101,18 @@ Procedure that includes:
 
 Compliance will be monitored through:
 
-- Internal and external audits.
-- Ongoing legal, regulatory, and security monitoring.
-- Incident, breach, and non-conformity reporting mechanisms.
+- Internal and external audits
+- Ongoing legal, regulatory, and security monitoring
+- Incident, breach, and non-conformity reporting mechanisms
 - Periodic policy, register, and corrective and preventive actions reviews (at
-  least annually or as required).
+  least annually or as required)
 
 ## Consequences of Non-Compliance
 
 Any violations of this policy may result in:
 
-- Disciplinary action for internal staff (up to and including termination).
-- Contract termination or legal action against third parties.
+- Disciplinary action for internal staff (up to and including termination)
+- Contract termination or legal action against third parties
 
 All instances of non-compliance must be reported promptly to the Compliance Team
 for investigation and remediation.
