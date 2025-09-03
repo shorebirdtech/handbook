@@ -6,6 +6,8 @@ sidebar:
   order: 99
 ---
 
+<!-- cspell:words Flutterando -->
+
 The page is about Eric, CEO of Shorebird. The page is intended to be helpful. If
 it sounds pretentious or overbearing, please let me know so I can fix it.
 Thanks.
@@ -46,6 +48,7 @@ where he brought SVG to Safari and helped start the Safari on Windows project.
 - [It's all widgets, July 2024](https://www.flutterpro.dev/podcast/episodes/50/eric-seidel)
 - [Multi-platform development, Feb 2024](https://www.youtube.com/watch?v=lSu-Ht0BfSE)
 - [Q&A, Silicon Valley Flutter, April 2022](https://www.youtube.com/watch?v=dALbvocAiG4)
+- [Interview, Flutterando, August 2019](https://www.youtube.com/watch?v=AMOs1cuNhDY)
 - [Flutter Live, Dec 2018](https://www.youtube.com/watch?v=7b1OJjug3MI)
 - [Flutter, Software Engineering Daily, Oct 2018](https://www.youtube.com/watch?v=wE_7HgCtSuw)
 - [What is Flutter?, March 2018](https://www.youtube.com/watch?v=h7HOt3Jb1Ts)
