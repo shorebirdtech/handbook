@@ -20,12 +20,12 @@ at Google.
 
 ![Eric Seidel Headshot](../../../assets/eseidel_headshot.jpeg)
 
-Before Shorebird, Eric was an Engineering Director at Google in charge of
+Before Shorebird, Eric was an Engineering Director at Google responsible for
 Flutter and Dart. Before managing, Eric was an engineer at Google, including
-co-founding the Flutter project in 2014 and previously was a technical lead on
+co-founding the Flutter project in 2014. Previously he was a technical lead on
 Chrome responsible for WebKit. Eric was the first WebKit reviewer at Google,
-helping launch Chrome 1.0 and later instigating Google's fork of WebKit, Blink.
-Prior to Google Eric lead a small startup for 15 months as part of
+helped launch Chrome 1.0 and later instigating Google's fork of WebKit, Blink.
+Prior to Google, Eric lead a small startup for 15 months as part of
 Y-Combinator's Summer 2006 batch, and prior to that worked on Safari at Apple
 where he brought SVG to Safari and helped start the Safari on Windows project.
 
@@ -33,6 +33,14 @@ Fun fact: due to my long work on WebKit (including implementing the HTML
 parser), BSD copyright rules, and WebKit's usage on basically every digital
 device around the planet, my name is in essentially every digital device out
 there.
+
+## Socials
+
+- https://x.com/_eseidel
+- https://bsky.app/profile/eseidel.com
+- https://www.linkedin.com/in/ericseidel/
+- https://discord.com/users/eseidel
+- https://github.com/eseidel
 
 ### Talks
 
@@ -61,14 +69,6 @@ there.
 - [Flutter Live, Dec 2018](https://www.youtube.com/watch?v=7b1OJjug3MI)
 - [Flutter, Software Engineering Daily, Oct 2018](https://www.youtube.com/watch?v=wE_7HgCtSuw)
 - [What is Flutter?, March 2018](https://www.youtube.com/watch?v=h7HOt3Jb1Ts)
-
-## Socials
-
-- https://x.com/_eseidel
-- https://bsky.app/profile/eseidel.com
-- https://www.linkedin.com/in/ericseidel/
-- https://discord.com/users/eseidel
-- https://github.com/eseidel
 
 ## Values
 
