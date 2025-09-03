@@ -29,6 +29,11 @@ Prior to Google Eric lead a small startup for 15 months as part of
 Y-Combinator's Summer 2006 batch, and prior to that worked on Safari at Apple
 where he brought SVG to Safari and helped start the Safari on Windows project.
 
+Fun fact: due to my long work on WebKit (including implementing the HTML
+parser), BSD copyright rules, and WebKit's usage on basically every digital
+device around the planet, my name is in essentially every digital device out
+there.
+
 ### Talks
 
 - [Serving 1k QPS, Google Cloud Next, April 2025](https://www.youtube.com/watch?v=h1CJoauhPaE)
