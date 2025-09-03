@@ -20,6 +20,33 @@ at Google.
 
 ![Eric Seidel Headshot](../../../assets/eseidel_headshot.jpeg)
 
+Before Shorebird, Eric was an Engineering Director at Google in charge of
+Flutter and Dart. Before managing, Eric was an engineer at Google, including
+co-founding the Flutter project in 2014 and previously was a technical lead on
+Chrome responsible for WebKit. Eric was the first WebKit reviewer at Google,
+helping launch Chrome 1.0 and later instigating Google's fork of WebKit, Blink.
+Prior to Google Eric lead a small startup for 15 months as part of
+Y-Combinator's Summer 2006 batch, and prior to that worked on Safari at Apple
+where he brought SVG to Safari and helped start the Safari on Windows project.
+
+### Appearances
+
+- [It's all widgets, July 2025](https://podcasts.apple.com/us/podcast/50-eric-seidel/id1444919174?i=1000663364059)
+- [Creator of Flutter, May 2025](https://www.youtube.com/watch?v=J3cjqU0HbaA)
+- [Shorebird, Flying high with Flutter, April 2025](https://www.youtube.com/watch?v=UO_Q2M2odWc)
+- [App Frameworks, Accel, Oct 2024](https://www.youtube.com/watch?v=yX7hwHPdhyU)
+- [Harnessing innovation, Build to succeed, Aug 2024](https://www.youtube.com/watch?v=k-yeCAqiRV4)
+- [Flutter: Pain points and challenges, July 2024](https://www.youtube.com/watch?v=X1hKABMoGuI)
+- [Multi-platform development, Feb 2024](https://www.youtube.com/watch?v=lSu-Ht0BfSE)
+
+### Talks
+
+- [Flutter at 10 years, FlutterCon, Sept 2024](https://www.youtube.com/watch?v=DgEplfkrYWQ)
+- [Before Flutter, Rubber Duck Engineering, May 2022](https://www.youtube.com/watch?v=xqGAC5QCYuQ)
+- [UI Framework for Tomorrow, Strange Loops, Sept 2017](https://www.youtube.com/watch?v=VUiVkDpikDI)
+- [First public mention of Flutter, April 2015](https://www.youtube.com/watch?v=PnIWl33YMwA)
+- [Blink, behind the scenes, Dec 2013](https://www.youtube.com/watch?v=392VTLQyKDc)
+
 ## Socials
 
 - https://x.com/_eseidel
