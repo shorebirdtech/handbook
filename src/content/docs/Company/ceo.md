@@ -45,7 +45,9 @@ where he brought SVG to Safari and helped start the Safari on Windows project.
 - [Code Push for Flutter, June 2024](https://www.youtube.com/watch?v=LPS0V3RbxDg)
 - [It's all widgets, July 2024](https://www.flutterpro.dev/podcast/episodes/50/eric-seidel)
 - [Multi-platform development, Feb 2024](https://www.youtube.com/watch?v=lSu-Ht0BfSE)
-- [Flutter, Software Engineering Daily, Oct 2014](https://www.youtube.com/watch?v=wE_7HgCtSuw)
+- [Q&A, Silicon Valley Flutter, April 2022](https://www.youtube.com/watch?v=dALbvocAiG4)
+- [Flutter Live, Dec 2018](https://www.youtube.com/watch?v=7b1OJjug3MI)
+- [Flutter, Software Engineering Daily, Oct 2018](https://www.youtube.com/watch?v=wE_7HgCtSuw)
 - [What is Flutter?, March 2018](https://www.youtube.com/watch?v=h7HOt3Jb1Ts)
 
 ## Socials
