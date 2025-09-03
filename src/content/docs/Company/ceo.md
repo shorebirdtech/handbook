@@ -31,8 +31,10 @@ where he brought SVG to Safari and helped start the Safari on Windows project.
 
 ### Talks
 
+- [Serving 1k QPS, Google Cloud Next, April 2025](https://www.youtube.com/watch?v=h1CJoauhPaE)
 - [Flutter at 10 years, FlutterCon, Sept 2024](https://www.youtube.com/watch?v=DgEplfkrYWQ)
 - [Before Flutter, Rubber Duck Engineering, May 2022](https://www.youtube.com/watch?v=xqGAC5QCYuQ)
+- [One More Thing, Flutter Live Keynote, Dec 2018](https://www.youtube.com/watch?v=5SZZfpkVhwk)
 - [UI Framework for Tomorrow, Strange Loops, Sept 2017](https://www.youtube.com/watch?v=VUiVkDpikDI)
 - [First public mention of Flutter, April 2015](https://www.youtube.com/watch?v=PnIWl33YMwA)
 - [Blink, behind the scenes, Dec 2013](https://www.youtube.com/watch?v=392VTLQyKDc)
@@ -48,7 +50,9 @@ where he brought SVG to Safari and helped start the Safari on Windows project.
 - [It's all widgets, July 2024](https://www.flutterpro.dev/podcast/episodes/50/eric-seidel)
 - [Multi-platform development, Feb 2024](https://www.youtube.com/watch?v=lSu-Ht0BfSE)
 - [Q&A, Silicon Valley Flutter, April 2022](https://www.youtube.com/watch?v=dALbvocAiG4)
+- [Ask Flutter, March 2021](https://www.youtube.com/watch?v=1uZFaAncYu8)
 - [Interview, Flutterando, August 2019](https://www.youtube.com/watch?v=AMOs1cuNhDY)
+- [Flutter 1.0, FLOSS Weekly, Dec 2018](https://twit.tv/shows/floss-weekly/episodes/511)
 - [Flutter Live, Dec 2018](https://www.youtube.com/watch?v=7b1OJjug3MI)
 - [Flutter, Software Engineering Daily, Oct 2018](https://www.youtube.com/watch?v=wE_7HgCtSuw)
 - [What is Flutter?, March 2018](https://www.youtube.com/watch?v=h7HOt3Jb1Ts)
