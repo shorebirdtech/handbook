@@ -6,7 +6,7 @@ sidebar:
   order: 99
 ---
 
-Modeled after [GitLab's CEO doc](https://about.gitlab.com/handbook/ceo/).
+<!-- cspell:words Flutterando -->
 
 The page is about Eric, CEO of Shorebird. The page is intended to be helpful. If
 it sounds pretentious or overbearing, please let me know so I can fix it.
@@ -14,11 +14,25 @@ Thanks.
 
 ## CEO bio
 
-Eric is the founder and CEO of Shorebird. Shorebird makes code push for Flutter.
+Eric is the founder and CEO of Shorebird. Shorebird is the Flutter company.
 Before Shorebird, Eric co-founded the Flutter project and lead Flutter and Dart
 at Google.
 
 ![Eric Seidel Headshot](../../../assets/eseidel_headshot.jpeg)
+
+Before Shorebird, Eric was an Engineering Director at Google responsible for
+Flutter and Dart. Before managing, Eric was an engineer at Google, including
+co-founding the Flutter project in 2014. Previously he was a technical lead on
+Chrome responsible for WebKit. Eric was the first WebKit reviewer at Google,
+helped launch Chrome 1.0 and later instigating Google's fork of WebKit, Blink.
+Prior to Google, Eric lead a small startup for 15 months as part of
+Y-Combinator's Summer 2006 batch, and prior to that worked on Safari at Apple
+where he brought SVG to Safari and helped start the Safari on Windows project.
+
+Fun fact: due to my long work on WebKit (including implementing the HTML
+parser), BSD copyright rules, and WebKit's usage on basically every digital
+device around the planet, my name is in essentially every digital device out
+there.
 
 ## Socials
 
@@ -27,6 +41,34 @@ at Google.
 - https://www.linkedin.com/in/ericseidel/
 - https://discord.com/users/eseidel
 - https://github.com/eseidel
+
+### Talks
+
+- [Serving 1k QPS, Google Cloud Next, April 2025](https://www.youtube.com/watch?v=h1CJoauhPaE)
+- [Flutter at 10 years, FlutterCon, Sept 2024](https://www.youtube.com/watch?v=DgEplfkrYWQ)
+- [Before Flutter, Rubber Duck Engineering, May 2022](https://www.youtube.com/watch?v=xqGAC5QCYuQ)
+- [One More Thing, Flutter Live Keynote, Dec 2018](https://www.youtube.com/watch?v=5SZZfpkVhwk)
+- [UI Framework for Tomorrow, Strange Loops, Sept 2017](https://www.youtube.com/watch?v=VUiVkDpikDI)
+- [First public mention of Flutter, April 2015](https://www.youtube.com/watch?v=PnIWl33YMwA)
+- [Blink, behind the scenes, Dec 2013](https://www.youtube.com/watch?v=392VTLQyKDc)
+
+### Appearances
+
+- [Creator of Flutter, May 2025](https://www.youtube.com/watch?v=J3cjqU0HbaA)
+- [Shorebird, Flying high with Flutter, April 2025](https://www.youtube.com/watch?v=UO_Q2M2odWc)
+- [App Frameworks, Accel, Oct 2024](https://www.youtube.com/watch?v=yX7hwHPdhyU)
+- [Harnessing innovation, Build to succeed, Aug 2024](https://www.youtube.com/watch?v=k-yeCAqiRV4)
+- [Flutter: Pain points and challenges, July 2024](https://www.youtube.com/watch?v=X1hKABMoGuI)
+- [Code Push for Flutter, June 2024](https://www.youtube.com/watch?v=LPS0V3RbxDg)
+- [It's all widgets, July 2024](https://www.flutterpro.dev/podcast/episodes/50/eric-seidel)
+- [Multi-platform development, Feb 2024](https://www.youtube.com/watch?v=lSu-Ht0BfSE)
+- [Q&A, Silicon Valley Flutter, April 2022](https://www.youtube.com/watch?v=dALbvocAiG4)
+- [Ask Flutter, March 2021](https://www.youtube.com/watch?v=1uZFaAncYu8)
+- [Interview, Flutterando, August 2019](https://www.youtube.com/watch?v=AMOs1cuNhDY)
+- [Flutter 1.0, FLOSS Weekly, Dec 2018](https://twit.tv/shows/floss-weekly/episodes/511)
+- [Flutter Live, Dec 2018](https://www.youtube.com/watch?v=7b1OJjug3MI)
+- [Flutter, Software Engineering Daily, Oct 2018](https://www.youtube.com/watch?v=wE_7HgCtSuw)
+- [What is Flutter?, March 2018](https://www.youtube.com/watch?v=h7HOt3Jb1Ts)
 
 ## Values
 
