@@ -13,10 +13,10 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/starlight": "^0.35.3",
+    "@astrojs/starlight": "^0.36.0",
     "@astrojs/starlight-tailwind": "^4.0.1",
-    "astro": "^5.13.7",
-    "sharp": "^0.34.3",
+    "astro": "^5.13.9",
+    "sharp": "^0.34.4",
     "tailwindcss": "^4.1.13",
     "typescript": "^5.9.2"
   },
@@ -24,7 +24,7 @@
     "prettier": "^3.6.2",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.6.14",
-    "starlight-links-validator": "^0.17.2"
+    "starlight-links-validator": "^0.18.0"
   },
   "prettier": {
     "printWidth": 80,
