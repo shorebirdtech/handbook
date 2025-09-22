@@ -39,8 +39,10 @@ jobs:
         uses: actions/deploy-pages@v4
 
   spell-check:
+    name: 🔤 Spell Check
     uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/spell_check.yml@v1
     with:
+      config: .cspell.yaml
       includes: |
         **/*.md
         **/*.mdx
