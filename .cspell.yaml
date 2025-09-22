@@ -1,5 +1,5 @@
 $schema: https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
-version: "0.2"
+version: 0.2
 dictionaries:
   - allowed
   - forbidden
@@ -11,7 +11,7 @@ dictionaryDefinitions:
     path: https://raw.githubusercontent.com/verygoodopensource/very_good_dictionaries/main/forbidden.txt
     description: Forbidden spellings
 useGitignore: false
-ignorePaths: [dist node_modules "plugins"]
+ignorePaths: [dist, node_modules, plugins]
 words:
   - angelov
   - astro
