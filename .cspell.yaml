@@ -1,0 +1,58 @@
+$schema: https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+version: "0.2"
+dictionaries:
+  - allowed
+  - forbidden
+dictionaryDefinitions:
+  - name: allowed
+    path: https://raw.githubusercontent.com/verygoodopensource/very_good_dictionaries/main/allowed.txt
+    description: Allowed spellings
+  - name: forbidden
+    path: https://raw.githubusercontent.com/verygoodopensource/very_good_dictionaries/main/forbidden.txt
+    description: Forbidden spellings
+useGitignore: false
+ignorePaths: [dist node_modules "plugins"]
+words:
+  - angelov
+  - astro
+  - astrojs
+  - attio
+  - bcdr
+  - breakroom
+  - bryanoltman
+  - buildroot
+  - canva
+  - ccpa
+  - codeowners
+  - dartdoc
+  - deel
+  - dogfood
+  - eseidel
+  - evenodd
+  - felangel
+  - flutteristas
+  - github
+  - Headshot
+  - hickson
+  - incentivized
+  - inclusivity
+  - kouzes
+  - lockdowns
+  - mortem
+  - mortems
+  - oltman
+  - oneleet
+  - pdf
+  - peru
+  - posner
+  - rustdoc
+  - sdlc
+  - seidel
+  - shorebirdtech
+  - siri
+  - standup
+  - tsconfigs
+  - upstreaming
+  - vessa
+  - whistleblower
+  - xcarchive
