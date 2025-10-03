@@ -90,18 +90,18 @@ support and camaraderie as is useful to you. One of the lessons I’ve been
 (re-?)learning of late is how easy it is to get stuck when working remote,
 having easy access to coworkers hopefully helps make getting unstuck easier.
 
+We have few scheduled meetings outside of ~monthly scheduled 1:1 check-ins and
+the occasional customer support call. I don’t know how your days will break
+down, but I encourage you to try and protect your make time as much as needed:
+https://www.paulgraham.com/makersschedule.html
+
 ### On being a public project
 
 We use Discord for everything (you’re welcome to use other things to communicate
 if needed, but Discord’s chat and VC is pretty easy). In part just to make it
 simple to have one app. You’re welcome to use your company card to buy Discord
 Nitro (or anything else that makes you productive and thus moves the company
-forward). Felix and Bryan don't really use email or calendar or Meet/Zoom. But
-Tom and I have to use some email/calendar to interface with the outside world.
-Engineers shouldn’t yet need to have any scheduled meetings outside of ~monthly
-scheduled 1:1 check-ins and the occasional customer support call. I don’t know
-how your days will break down, but I encourage you to try and protect your make
-time as much as needed: https://www.paulgraham.com/makersschedule.html
+forward).
 
 Public is the company default, but employees are generally not required to
 engage publicly, period. I fully recognize not all people feel comfortable doing
