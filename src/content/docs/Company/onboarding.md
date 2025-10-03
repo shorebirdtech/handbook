@@ -6,16 +6,198 @@ sidebar:
   order: 2
 ---
 
+<!-- cspell:words CIIAA Menlo -->
+
 Welcome to Shorebird! We're _extremely_ glad you're here.
 
 This guide is here to walk you through the onboarding process. If you have any
-problems, please reach out to the team or your manager on Discord to get
-unblocked.
+problems, please reach out to the team or your manager on
+[Discord](https://discord.gg/shorebird) to get unblocked.
 
-## After Signing Employment Contract
+## Getting Started
 
-- You should get an email from Rippling after signing your offer letter. This
-  will include instructions on how to set up your Rippling account and thus
+Our goal for your first days/weeks is to feel up-to-speed. Since we're still
+small, you represent a large percentage of the total company. Us helping you get
+up to speed is the most important thing the company can do these next few weeks.
+Please don't hesitate to lean on others for help. In a remote workplace it's
+hard for one of us to see if you get blocked (we all do at times), so we depend
+on you to ask!
+
+## A letter from the CEO
+
+### How We Work & Values
+
+I try to lead from values. What are we trying to achieve? Why?
+
+What’s most important to me:
+
+1. We focus on delivering customer value (which in turn will lead to
+   profitability).
+2. We feel increasingly productive over time with increasing personal velocity.
+3. We enjoy working here.
+
+That’s pretty much it. I don’t care where you are in the world, when you work,
+or precisely what you work on so long as you believe it’s moving the company
+forward.
+
+My mission in starting this is to make multi-platform the default. Flutter is
+the vehicle to such. We’re all here for our own personal reasons (growth,
+excitement, customer connection, potential upside, fun people to work with,
+remote work, etc), but the value I hope we can deliver via our time here is
+having made the whole world better by solving the “everybody writes everything
+twice” problem. Platform vendors want you to build for Platforms. I want people
+to build for users. And as a user I want businesses to build for me, regardless
+of what hardware I happen to be in front of at the time.
+
+Point 2. above about velocity is something I learned from my time in my past
+startup and from onboarding many at Google. I care that team members are trying
+to make value for users, and that they’re getting better at it. I care less
+about any specific point-in-time output/velocity, and more about our ability to
+produce value increasingly over time. Just like our company, I try to work on my
+rate-of-improvement for the compounding effects over time.
+
+### On Being Remote
+
+I enjoy being remote. I enjoy hiding in my study in my home in Menlo Park and
+being able to be in flow for much of the day. I love being able to work with
+people all over the world and not care where they are, only that they get stuff
+done. I enjoy getting up and walking the neighborhood when I need to, doing the
+dishes when I need to and just generally balancing work with my life.
+
+But it’s also harder in many respects. In particular it can be harder for
+onboarding.
+
+I try to check on folks regularly, but I will also depend on our new members to
+ask for what they need. We’re all just a discord message away (e.g. a DM or post
+in #inc) but you need to reach out when you need help. Try to err on the side of
+reaching out too much, rather than ever feeling stuck by yourself!
+
+As a company, we've gone through various different interaction styles. Currently
+the team mostly works separately and communicate via text in one of our
+channels. Sometimes a couple of us are working together via in a voice room, or
+just using it for shared/background presence while we work on things. Often I am
+connected to a voice room (but muted) to be reachable. At past phases of the
+company we’ve spent all day in the same voice room. It will depend on how you
+feel most productive. You should optimize for your productivity and we’ll figure
+out our group patterns together.
+
+We use our private voice rooms for lots of things, from socially chatting with
+others, asking for help, or “rubber duck debugging” a problem with someone. Even
+when I’m working on things I’m very much not an expert in others have been very
+helpful to just have listened to my rambling thoughts and occasionally ask
+questions back. I’d want you both to feel like you have as much of our live
+support and camaraderie as is useful to you. One of the lessons I’ve been
+(re-?)learning of late is how easy it is to get stuck when working remote,
+having easy access to coworkers hopefully helps make getting unstuck easier.
+
+We have few scheduled meetings outside of ~monthly scheduled 1:1 check-ins and
+the occasional customer support call. I don’t know how your days will break
+down, but I encourage you to try and protect your make time as much as needed:
+https://www.paulgraham.com/makersschedule.html
+
+### On being a public project
+
+We use Discord for everything (you’re welcome to use other things to communicate
+if needed, but Discord’s chat and VC is pretty easy). In part just to make it
+simple to have one app. You’re welcome to use your company card to buy Discord
+Nitro (or anything else that makes you productive and thus moves the company
+forward).
+
+Public is the company default, but employees are generally not required to
+engage publicly, period. I fully recognize not all people feel comfortable doing
+such and we hired you for your contributions to the company not your presence on
+discord. 🙂 I used to post everything in I can in #birder (public) instead of
+#inc (private) -- other than pictures of our kids, discussions of specific
+customers, etc. -- but that’s changed some as we’ve grown. I still encourage
+folks to work as much publicly as they’re willing to.
+
+You will also have admin powers on Discord and should feel empowered to use
+them. We don’t get a lot of spammers (and see few DM abuses), but that doesn’t
+mean we won’t. Our public presence should be maximally supportive to our
+employees and furthering our work, when it's not, we should choose to be
+private.
+
+One of the unfair advantages that we have is that we get to hang out with our
+customers all day. It can let us know them so much better than other companies
+can, and lets us do a better job of serving their current needs and “skating
+where the puck is headed”. Investors have sometimes been confused when I discuss
+this with them as they ask me about what cadence I talk to customers, etc not
+realizing we just chat with them all day. At our stage in our product lifecycle
+good support also matters much better than a bullet-proof product. We don’t have
+to go through months of approvals or reviews, we literally change and ship a
+thing, if it breaks someone our customers scream on Discord and we check in a
+new thing. They love it, we love it. We get stuff done quickly with little fuss.
+This won't always be possible (we do have 1000s of customers already), but we
+should bias towards action when possible.
+
+As I was originally typing up this doc (fall 2023), I was also chatting with one
+of our customers as they designed a pricing model for us. 🤣 Customers are often
+“wrong” in their proposed solutions, but their data/opinions is _much_ more
+useful than flying blind. You will have fellow Discord contributors sometimes
+offer to help you with patches, offer to talk at events, ask questions about
+some article they’re writing on Shorebird, etc. You can also use other chat,
+etc. to connect you with other experts (Flutter contributors discord, Flutter
+Slack, Dev Marketing slack, etc). So many people want you/us to succeed and are
+here to help. (Shorebird even now has volunteers now on Discord “Community
+Experts” who help with the support questions while we sleep!)
+
+It does have potential downsides. It can be distracting (we wake up every
+morning to tens of support requests across all our channels, not all of them
+useful/helpful), and eventually we will have bad actors (although we have a lot
+of tools on Discord to combat that). But overall it’s been great for us so far
+and I hope you find it useful too.
+
+We even have a few Discord bots which are helpful at times. E.g. Translator
+(speak any language with a customer), or Craig (record any voice call for later
+review). Happy to add more if you know of good ones. (I’ve thought about adding
+something for auto-threading, like Needle, but haven’t yet.)
+
+Some of our customers have private channels on Discord. We don't yet have formal
+policies around creation/management of such, but we will likely write them soon.
+We should assume that _all_ private channel communications on Discord are NDA'd
+even though only a tiny minority of our customers have NDAs with us.
+
+### No sacred cows 🐮
+
+We have the privilege of working with many smart people. However, you should
+assume that none of what we've produced so far is set in stone. All of it can be
+changed. Not that you have to re-write things on site, but you should feel
+empowered and welcome to change things you find. We will need more division of
+duties and more clarity of ownership as we grow, but I think we’re still small
+enough that most things can be easily changed (or rebuilt entirely) when needed.
+
+“The doer decides” was a mantra from my time at Apple. I agree with it. If
+you’re taking responsibility for doing something towards our shared goals, you
+get to decide how. Just because any of us have been here longer than you does
+not make us right. You should understand the problem and solve it the way you
+think is right. This aligns with my belief that the “future is bigger than the
+past”. In most cases I’d rather get to “better” now, than worry about breaking
+the past.
+
+We do now make significant revenue, and have thousands of customers, so we’re in
+transition from the phase from “making the business possible” to “making the
+business grow”. But it means we still haven’t found product market fit, and most
+of what we’re doing as a team is identifying a problem, dividing responsibility,
+trying lots of things (often being wrong) and trying again. We have things that
+have worked for the current team for the last 2 years, but I’m excited to figure
+out what this new team does together and how we figure out how to serve our
+customers together.
+
+None of us are experts in all the areas we have to touch. But we’re all here to
+help each other. Even if that’s just being a “rubber duck”.
+https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
+## Nuts and bolts
+
+### Signing and Sign-ups
+
+- As part of your decision conversation, we will provide you an offer summary.
+- Shortly there after, we will also provide you two contracts to sign to
+  formerly accept the role. One is the formal offer contract, and the second is
+  the confidential information and invention assignment agreement (CIIAA). (We
+  currently handle these separately from Rippling.)
+- After signing those, you'll get an email from Rippling (manually triggered).
+  This will include instructions on how to set up your Rippling account and thus
   begin the digital parts of the onboarding process.
 - Rippling will also walk you through electing benefits based on your physical
   location and thus setting up payroll deductions for your first payroll.
@@ -30,12 +212,12 @@ unblocked.
     prefer, given the business need for it, so to start please pick an operating
     system that you feel the most comfortable and productive with.
 
-## Start Week
+### Start Week
 
 While most of the items here will be completed on your first day it is required
 that they are completed by the end of your first week.
 
-### Employment Forms/Paperwork
+#### Employment Forms/Paperwork
 
 There are a few tax forms required to fill out on your first day. This will be
 different based on the country you are employed in.
