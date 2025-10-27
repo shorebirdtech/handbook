@@ -418,3 +418,26 @@ cd _shorebird
 git submodule init
 git submodule update
 ```
+
+## Manager Checklist
+
+This checklist is surely incomplete, but is offered here as a starting point.
+
+Week of Offer
+
+- Reach out to the team and candidate to congratulate on their joining.
+- Start their personal (private) onboarding materials which should link to these
+  shared ones, but include details specific to their role.
+- Check if this is a new state or country of operation for Shorebird. If so,
+  work with Tom to make sure we're registered to do business in that state.
+  Registering for a new state currently involves emailing both our lawyers
+  (Orrick) as well as our insurance (Next Insurance), otherwise Rippling will
+  handle the rest.
+- Order SWAG to be delivered to their home. Currently we send some sort of
+  [plush sandpiper](https://www.etsy.com/search?q=plush+sandpiper) off of Etsy,
+  depending on availability.
+
+Week before start
+
+- Purchase an appropriate device for them, shipped to their house. Typically a
+  MacBook Pro or MacBook Air.
