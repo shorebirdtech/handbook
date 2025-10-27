@@ -429,10 +429,10 @@ Week of Offer
 - Start their personal (private) onboarding materials which should link to these
   shared ones, but include details specific to their role.
 - Check if this is a new state or country of operation for Shorebird. If so,
-  work with the operations team to make sure we're registered to do business in that state.
-  Registering for a new state currently involves emailing both our lawyers
-  (Orrick) as well as our insurance (Next Insurance), otherwise Rippling will
-  handle the rest.
+  work with the operations team to make sure we're registered to do business in
+  that state. Registering for a new state currently involves emailing both our
+  lawyers (Orrick) as well as our insurance (Next Insurance), otherwise Rippling
+  will handle the rest.
 - Order SWAG to be delivered to their home. Currently we send some sort of
   [plush sandpiper](https://www.etsy.com/search?q=plush+sandpiper) off of Etsy,
   depending on availability.
