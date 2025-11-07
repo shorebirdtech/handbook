@@ -114,11 +114,6 @@ but made us question if async-only remote will work. We're still learning.
   helping the world stop writing everything twice 20 years, including major
   contributions to WebKit, Safari, Blink and Chrome.
 
-- Felix Angelov (@felangel), Founding Engineer -- Was previously Head of Open
-  Source Software at Very Good Ventures. Felix is a dedicated open source
-  maintainer with a passion for building software that enables developers to
-  build wonderful applications.
-
 - Bryan Oltman (@bryanoltman), Founding Engineer -- Was previously Tech Lead on
   Google's internal Flutter team and has extensive experience with enterprise
   usage of Flutter.
