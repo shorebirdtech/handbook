@@ -118,6 +118,10 @@ but made us question if async-only remote will work. We're still learning.
   Google's internal Flutter team and has extensive experience with enterprise
   usage of Flutter.
 
+- Tom Arra, Operations Lead -- Tom has been a member of the Flutter community since 2018 and has helped scale products and teams at companies like BMW and Very Good Ventures before joining Shorebird. He has over 15 years of experience in the software industry including being an engineering lead, and leading large teams in the product and engineering space.
+
+- Dawn Parzych (@dparzych), Marketing Lead -- Dawn is a developer-focused marketing leader with expertise in developer tools and cloud. She has led major events and marketing initiatives at Cloudflare and LaunchDarkly, and has served as a volunteer organizer for DevOpsDays. 
+
 ## Management
 
 We don't currently have managers, or plan to anytime soon. Everyone just reports
@@ -189,5 +193,4 @@ from existing Flutter enterprise teams are:
 # A note on hiring
 
 If you're reading this and think Shorebird sounds like a fun place to work, come
-check us out on [Discord](https://discord.gg/shorebird). We're hiring or will be
-again soon.
+check us out on [Discord](https://discord.gg/shorebird). We're hiring.
