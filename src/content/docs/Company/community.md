@@ -77,20 +77,25 @@ other Flutter Discords which might be of use:
 
 We try to participate in various Flutter community events and conferences. We
 are willing and able to sponsor events. Please reach out to
-contact@shorebird.dev if interested.
+marketing@shorebird.dev if interested.
 
 The list of events below include ones that we have participated in and/or
 sponsored.
 
 ### Upcoming Events
 
-- Flutteristas Conference 2025, Online, April 5 2025
-- Google Cloud Next 2025, Las Vegas, April 9-11 2025
-- FlutterCon USA 2025, New York, June 25-26 2025
-- FlutterCon Europe 2025, Berlin, September 24-26
+- DevFest Ahmedabad, Ahmedabad, November 15, 2025
+- FlutterCon, Bangalore, December 14, 2025
+
+
 
 ### Past Events
 
+- FlutterBytes, Nigeria, October 31 - November 1, 2025 
+- FlutterCon Europe 2025, Berlin, September 24-26
+- FlutterCon USA 2025, New York, June 25-26 2025
+- Google Cloud Next 2025, Las Vegas, April 9-11 2025
+- Flutteristas Conference 2025, Online, April 5 2025
 - Flutter Conf LatAM 2024, Arequipa, Peru, October 29-30 2024
 - FlutterCon USA 2024, New York, September 19-20 2024
 - Observable Flutter #46, Online, June 27 2024
