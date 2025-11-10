@@ -247,7 +247,7 @@ before signing up.
   username as part of your offer paperwork. That account should be enabled as
   you start on your first day. You should get an email to your personal account
   around midnight on your start date with your temporary credentials to login
-  and get everything setup. If you did not receive this pleas contact your
+  and get everything setup. If you did not receive this please contact your
   hiring manager.
 - If you have an existing Discord account you are welcome to use it. If you
   don't have one you can create one at
