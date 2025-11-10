@@ -87,11 +87,9 @@ sponsored.
 - DevFest Ahmedabad, Ahmedabad, November 15, 2025
 - FlutterCon, Bangalore, December 14, 2025
 
-
-
 ### Past Events
 
-- FlutterBytes, Nigeria, October 31 - November 1, 2025 
+- FlutterBytes, Nigeria, October 31 - November 1, 2025
 - FlutterCon Europe 2025, Berlin, September 24-26
 - FlutterCon USA 2025, New York, June 25-26 2025
 - Google Cloud Next 2025, Las Vegas, April 9-11 2025
