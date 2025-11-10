@@ -77,14 +77,14 @@ traveled to Chicago and San Francisco.
 ## Health Insurance
 
 Shorebird offers competitive healthcare plans for all US employees and
-dependents, including dental and vision. For 2023, we are covering 95% of
+dependents, including dental and vision. For 2026, we are covering 95% of
 premiums for employees and 50% of premiums for dependents. Our current provider
 is Blue Cross Blue Shield, brokered through Rippling.com.
 
 ## 401k
 
 Shorebird provides a 401k plan for all US employees with 4% employer match. Our
-current provider is Guideline, brokered through Rippling.com.
+current provider is Accrue, brokered through Rippling.com.
 
 ## Parental Leave
 

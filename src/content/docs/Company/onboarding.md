@@ -193,7 +193,7 @@ https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
 - As part of your decision conversation, we will provide you an offer summary.
 - Shortly there after, we will also provide you two contracts to sign to
-  formerly accept the role. One is the formal offer contract, and the second is
+  formally accept the role. One is the formal offer contract, and the second is
   the confidential information and invention assignment agreement (CIIAA). (We
   currently handle these separately from Rippling.)
 - After signing those, you'll get an email from Rippling (manually triggered).
@@ -246,7 +246,9 @@ before signing up.
 - Rippling should have offered you a chance to pick your Google Workspace
   username as part of your offer paperwork. That account should be enabled as
   you start on your first day. You should get an email to your personal account
-  with your temporary credentials to login and get everything setup.
+  around midnight on your start date with your temporary credentials to login
+  and get everything setup. If you did not receive this please contact your
+  hiring manager.
 - If you have an existing Discord account you are welcome to use it. If you
   don't have one you can create one at
   [https://discord.com](https://discord.com). You can join our discord server at
@@ -284,6 +286,16 @@ your manager to determine and get onboarded to the systems you believe you need.
 - Mercury - Bank Account
 - Sphere - Tax Platform
 - Ramp - Expense Tool
+
+#### Marketing Team
+
+This list will change based on the scope of your role. Your manager will work
+with you to get you onboarded to the tools you need.
+
+- Figma - Design assets
+- Social media - YouTube, LinkedIn, BlueSky, X/Twitter
+- Plausible - web analytics
+- Loops - Monthly newsletter and customer emails
 
 ### ISO Compliance
 
