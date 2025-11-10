@@ -14,6 +14,7 @@ useGitignore: false
 ignorePaths: [dist, node_modules, plugins]
 words:
   - angelov
+  - arra
   - astro
   - astrojs
   - attio
@@ -27,6 +28,7 @@ words:
   - dartdoc
   - deel
   - dogfood
+  - dparzych
   - eseidel
   - evenodd
   - felangel
@@ -43,6 +45,7 @@ words:
   - oltman
   - oneleet
   - orrick
+  - parzych
   - pdf
   - peru
   - posner
