@@ -109,25 +109,27 @@ but made us question if async-only remote will work. We're still learning.
 
 ## Team
 
-- Eric Seidel (@eseidel), Founder & CEO -- Founded Flutter before Shorebird. Was
-  previously Director of Flutter and Dart at Google. Eric has been working on
-  helping the world stop writing everything twice 20 years, including major
-  contributions to WebKit, Safari, Blink and Chrome.
+- Eric Seidel ([@\_eseidel](https://x.com/_eseidel)), Founder & CEO -- Founded
+  Flutter before Shorebird. Was previously Director of Flutter and Dart at
+  Google. Eric has been working on helping the world stop writing everything
+  twice 20 years, including major contributions to WebKit, Safari, Blink and
+  Chrome.
 
-- Bryan Oltman (@bryanoltman), Founding Engineer -- Was previously Tech Lead on
-  Google's internal Flutter team and has extensive experience with enterprise
-  usage of Flutter.
+- Bryan Oltman ([@bryanoltman](https://x.com/bryanoltman)), Founding Engineer --
+  Was previously Tech Lead on Google's internal Flutter team and has extensive
+  experience with enterprise usage of Flutter.
 
-- Tom Arra, Operations Lead -- Tom has been a member of the Flutter community
-  since 2018 and has helped scale products and teams at companies like BMW and
-  Very Good Ventures before joining Shorebird. He has over 15 years of
-  experience in the software industry including being an engineering lead, and
-  leading large teams in the product and engineering space.
+- Tom Arra ([@tom_arra](https://x.com/tom_arra)), Operations Lead -- Tom has
+  been a member of the Flutter community since 2018 and has helped scale
+  products and teams at companies like BMW and Very Good Ventures before joining
+  Shorebird. He has over 15 years of experience in the software industry
+  including being an engineering lead, and leading large teams in the product
+  and engineering space.
 
-- Dawn Parzych (@dparzych), Marketing Lead -- Dawn is a developer-focused
-  marketing leader with expertise in developer tools and cloud. She has led
-  major events and marketing initiatives at Cloudflare and LaunchDarkly, and has
-  served as a volunteer organizer for DevOpsDays.
+- Dawn Parzych ([@dparzych](https://x.com/dparzych)), Marketing Lead -- Dawn is
+  a developer-focused marketing leader with expertise in developer tools and
+  cloud. She has led major events and marketing initiatives at Cloudflare and
+  LaunchDarkly, and has served as a volunteer organizer for DevOpsDays.
 
 ## Management
 
