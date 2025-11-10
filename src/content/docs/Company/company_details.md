@@ -118,9 +118,16 @@ but made us question if async-only remote will work. We're still learning.
   Google's internal Flutter team and has extensive experience with enterprise
   usage of Flutter.
 
-- Tom Arra, Operations Lead -- Tom has been a member of the Flutter community since 2018 and has helped scale products and teams at companies like BMW and Very Good Ventures before joining Shorebird. He has over 15 years of experience in the software industry including being an engineering lead, and leading large teams in the product and engineering space.
+- Tom Arra, Operations Lead -- Tom has been a member of the Flutter community
+  since 2018 and has helped scale products and teams at companies like BMW and
+  Very Good Ventures before joining Shorebird. He has over 15 years of
+  experience in the software industry including being an engineering lead, and
+  leading large teams in the product and engineering space.
 
-- Dawn Parzych (@dparzych), Marketing Lead -- Dawn is a developer-focused marketing leader with expertise in developer tools and cloud. She has led major events and marketing initiatives at Cloudflare and LaunchDarkly, and has served as a volunteer organizer for DevOpsDays. 
+- Dawn Parzych (@dparzych), Marketing Lead -- Dawn is a developer-focused
+  marketing leader with expertise in developer tools and cloud. She has led
+  major events and marketing initiatives at Cloudflare and LaunchDarkly, and has
+  served as a volunteer organizer for DevOpsDays.
 
 ## Management
 
