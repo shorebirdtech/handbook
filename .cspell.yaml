@@ -13,6 +13,7 @@ dictionaryDefinitions:
 useGitignore: false
 ignorePaths: [dist, node_modules, plugins]
 words:
+  - ahmedabad
   - angelov
   - arra
   - astro
