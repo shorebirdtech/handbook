@@ -245,8 +245,10 @@ before signing up.
 
 - Rippling should have offered you a chance to pick your Google Workspace
   username as part of your offer paperwork. That account should be enabled as
-  you start on your first day. You should get an email to your personal account around midnight on your start date
-  with your temporary credentials to login and get everything setup. If you did not receive this pleas contact your hiring manager.
+  you start on your first day. You should get an email to your personal account
+  around midnight on your start date with your temporary credentials to login
+  and get everything setup. If you did not receive this pleas contact your
+  hiring manager.
 - If you have an existing Discord account you are welcome to use it. If you
   don't have one you can create one at
   [https://discord.com](https://discord.com). You can join our discord server at
@@ -286,7 +288,9 @@ your manager to determine and get onboarded to the systems you believe you need.
 - Ramp - Expense Tool
 
 #### Marketing Team
-This list will change based on the scope of your role. Your manager will work with you to get you onboarded to the tools you need.
+
+This list will change based on the scope of your role. Your manager will work
+with you to get you onboarded to the tools you need.
 
 - Figma - Design assets
 - Social media - YouTube, LinkedIn, BlueSky, X/Twitter
