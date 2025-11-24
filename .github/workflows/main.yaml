@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: 📚 Git Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: 📦 Build Docs
         uses: ./.github/actions/astro_site
