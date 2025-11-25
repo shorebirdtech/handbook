@@ -4,6 +4,8 @@ description: Code Town Information Security Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 The purpose of this Information Security Policy is to protect all information

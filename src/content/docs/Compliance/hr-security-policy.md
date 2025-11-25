@@ -4,6 +4,8 @@ description: Code Town Human Resource Security Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 This Human Resource Security Policy establishes guidelines and procedures for

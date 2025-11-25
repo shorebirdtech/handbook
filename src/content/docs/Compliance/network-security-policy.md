@@ -4,6 +4,8 @@ description: Code Town Network Security Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 This Network Security Policy establishes guidelines and requirements for

@@ -4,6 +4,8 @@ description: Code Town Encryption & Key Management Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 The purpose of this policy is to establish guidelines for the use of encryption

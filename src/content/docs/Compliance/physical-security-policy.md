@@ -4,6 +4,8 @@ description: Code Town Physical Security Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Overview
 
 All access to Code Town's physical locations are governed by this policy and

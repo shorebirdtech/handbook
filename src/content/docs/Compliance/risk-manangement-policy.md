@@ -4,6 +4,8 @@ description: Code Town Risk Management Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 This policy establishes guidelines for identifying, assessing, and managing

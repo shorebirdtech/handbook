@@ -4,6 +4,8 @@ description: Code Town Data Recovery Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 This Data Recovery Policy outlines the requirements for the backup and recovery
