@@ -4,6 +4,8 @@ description: Code Town Compliance Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose
 
 The purpose of this policy is to ensure that Code Town systematically

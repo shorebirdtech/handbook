@@ -4,6 +4,8 @@ description: Code Town Logging & Monitoring Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 This policy establishes requirements for logging and monitoring of Code Town's

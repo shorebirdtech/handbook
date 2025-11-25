@@ -4,6 +4,8 @@ description: Code Town Code of Conduct
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Overview
 
 At Code Town, we prioritize creating a secure, respectful, and inclusive

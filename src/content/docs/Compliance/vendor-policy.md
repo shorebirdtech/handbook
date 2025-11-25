@@ -4,9 +4,7 @@ description: Code Town Vendor Policy
 template: doc
 ---
 
-- Policy Owner: Operations Team
-- Approved by: Senior Management Team
-- Effective Date: April 2025
+_Last Review Date: November 25, 2025_
 
 ## Purpose and Scope
 

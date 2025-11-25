@@ -4,6 +4,8 @@ description: Code Town Remote Work Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 This Remote Work Policy establishes guidelines for securing Code Town's assets

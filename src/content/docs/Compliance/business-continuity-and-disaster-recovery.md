@@ -4,6 +4,8 @@ description: Code Town Business Continuity and Disaster Recovery Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 The Business Continuity and Disaster Recovery (BCDR) Policy establishes

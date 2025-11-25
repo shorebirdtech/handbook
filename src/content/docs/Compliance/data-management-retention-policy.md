@@ -4,6 +4,8 @@ description: Code Town Data Management and Retention Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 This policy details the protocols and measures that Code Town employs to oversee

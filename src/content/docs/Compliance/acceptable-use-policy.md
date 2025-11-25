@@ -4,6 +4,8 @@ description: Code Town Acceptable Use Policy
 template: doc
 ---
 
+_Last Review Date: November 25, 2025_
+
 ## Purpose and Scope
 
 Security is a shared responsibility across Code Town. All employees are expected
