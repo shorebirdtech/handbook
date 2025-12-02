@@ -4,8 +4,6 @@ description: Code Town Physical Security Policy
 template: doc
 ---
 
-_Last Review Date: November 25, 2025_
-
 ## Overview
 
 All access to Code Town's physical locations are governed by this policy and
@@ -57,3 +55,16 @@ during a pandemic. If an employee's home workspace becomes unsuitable or unsafe
 during a pandemic, the company will work with the employee to find an
 alternative solution, such as providing additional equipment or assisting in
 finding a temporary alternative workspace.
+
+## Policy Review and Maintenance
+
+This policy will be reviewed annually or when significant changes occur to
+maintain its continuing suitability, adequacy, and effectiveness.
+
+Reviews must consider changes in the regulatory landscape.
+
+### Review Log
+
+| **Review Date**   | **Approver** |
+| ----------------- | ------------ |
+| November 25, 2025 | Eric Seidel  |
