@@ -4,8 +4,6 @@ description: Code Town Password Policy
 template: doc
 ---
 
-_Last Review Date: November 25, 2025_
-
 ## Purpose and Scope
 
 This Password Policy establishes guidelines and requirements for password
@@ -97,3 +95,9 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
+
+### Review Log
+
+| **Review Date**   | **Approver** |
+| ----------------- | ------------ |
+| November 25, 2025 | Eric Seidel  |

@@ -4,8 +4,6 @@ description: Code Town Code of Conduct
 template: doc
 ---
 
-_Last Review Date: November 25, 2025_
-
 ## Overview
 
 At Code Town, we prioritize creating a secure, respectful, and inclusive
@@ -74,3 +72,16 @@ At Code Town, our strength lies in our diversity, dedication to security, and
 commitment to excellence. Upholding this CoC ensures that we maintain a culture
 of integrity and respect. Together, let's create a brighter, safer, and more
 inclusive future for everyone involved.
+
+## Policy Review and Maintenance
+
+This policy will be reviewed annually or when significant changes occur to
+maintain its continuing suitability, adequacy, and effectiveness.
+
+Reviews must consider changes in the regulatory landscape.
+
+### Review Log
+
+| **Review Date**   | **Approver** |
+| ----------------- | ------------ |
+| November 25, 2025 | Eric Seidel  |

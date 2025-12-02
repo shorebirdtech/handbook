@@ -4,8 +4,6 @@ description: Code Town Compliance Policy
 template: doc
 ---
 
-_Last Review Date: November 25, 2025_
-
 ## Purpose
 
 The purpose of this policy is to ensure that Code Town systematically
@@ -124,6 +122,19 @@ for investigation and remediation.
 All relevant personnel shall receive compliance training appropriate to their
 roles. Refresher training will be conducted periodically or when significant
 changes in obligations occur.
+
+## Policy Review and Maintenance
+
+This policy will be reviewed annually or when significant changes occur to
+maintain its continuing suitability, adequacy, and effectiveness.
+
+Reviews must consider changes in the regulatory landscape.
+
+### Review Log
+
+| **Review Date**   | **Approver** |
+| ----------------- | ------------ |
+| November 25, 2025 | Eric Seidel  |
 
 ## Appendix
 
