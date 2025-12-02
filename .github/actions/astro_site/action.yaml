@@ -20,7 +20,7 @@ runs:
         node-version: ${{ inputs.node_version }}
 
     - name: ⬇️ Install Dependencies
-      run: npm install
+      run: npm install && npx --no allow-scripts
       shell: ${{ inputs.shell }}
       working-directory: ${{ inputs.working_directory }}
 
