@@ -55,11 +55,11 @@ world of developers who use Flutter.
 
 Shorebird is about aligning incentives with those we serve in ways existing
 consultancies cannot, big Flutter users cannot, and Google cannot. High quality
-portable software is inevitable. But BigTech, little consultancies, and
-open-source alone will not make it the default. The largest problems facing
-flutter, and high quality portable software writ-large, are ones that cannot be
-solved within any Big Tech, or large users of Flutter, but have to be done by a
-new upstart who is commercializing Flutter.
+portable software is inevitable. But BigTech, little consultancies, and open
+source alone will not make it the default. The largest problems facing flutter,
+and high quality portable software writ-large, are ones that cannot be solved
+within any Big Tech, or large users of Flutter, but have to be done by a new
+upstart who is commercializing Flutter.
 
 We’re doing this now, because Flutter is big enough. Most of the foundational
 technical problems are solved (language performance and tooling, graphics
@@ -142,7 +142,7 @@ longer be a just-for-Google solution.
 - Real artists ship. It's more important to ship, be wrong and learn than to
   ship right the first time.
 - The future is bigger than the past. It's more important to make a better
-  tomorrow than worry about our ppresent or past. At time of writing, there are
+  tomorrow than worry about our present or past. At time of writing, there are
   only a few million Flutter developers. There are billions of people, and
   probably 100s of millions of developers in the future. We're here to help them
   all.
