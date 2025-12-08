@@ -39,7 +39,7 @@ information is dealt with quickly.
    - Example - When getting a new tax bill from the state of California the tags
      "State - California" and "Taxes" should be applied.
 3. Assign/Take Action/Follow up as needed - We keep the item in the mailbox
-   until it is fully actioned/completed. Currently we don't have an assignment
+   until it is fully acted on/completed. Currently we don't have an assignment
    field for a person but may be something we add if the volume goes up. For now
    Tom is the point person for this.
 
