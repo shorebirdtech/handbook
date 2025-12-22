@@ -16,7 +16,7 @@
     "@astrojs/starlight": "^0.37.1",
     "@astrojs/starlight-tailwind": "^4.0.2",
     "@lavamoat/preinstall-always-fail": "^2.1.1",
-    "astro": "^5.16.5",
+    "astro": "^5.16.6",
     "sharp": "^0.34.5",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3"
