@@ -15,7 +15,7 @@ the business will also grow.
 ### Email/Calendar
 
 As described in
-[onboarding](https://handbook.shorebird.dev/onboarding/#accounts) we use Google
+[onboarding](https://handbook.shorebird.dev/company/onboarding/) we use Google
 Workspace for our Email & Calendar. This allows you to use any other services
 and/or apps that you typically would to stay organized.
 
