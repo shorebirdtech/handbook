@@ -245,6 +245,11 @@ but made us question if async-only remote will work. We're still learning.
   cloud. She has led major events and marketing initiatives at Cloudflare and
   LaunchDarkly, and has served as a volunteer organizer for DevOpsDays.
 
+- Mac Carrithers ([@ezxmac](https://x.com/ezxmac)), Software Engineer -- brings
+  a product-oriented approach and experience building user-facing dashboards at
+  scale. Excited to enable to help developers focus on building better apps
+  instead of building them twice.
+
 ## Management
 
 We don't currently have managers, or plan to anytime soon. Everyone just reports
