@@ -247,8 +247,8 @@ but made us question if async-only remote will work. We're still learning.
 
 - Mac Carrithers ([@ezxmac](https://x.com/ezxmac)), Software Engineer -- brings
   a product-oriented approach and experience building user-facing dashboards at
-  scale. Excited to enable to help developers focus on building better apps
-  instead of building them twice.
+  scale. Excited to help developers focus on building better apps instead of
+  building them twice.
 
 ## Management
 
