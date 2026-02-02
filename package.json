@@ -13,10 +13,10 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.6",
-    "@astrojs/starlight": "^0.37.4",
+    "@astrojs/starlight": "^0.37.5",
     "@astrojs/starlight-tailwind": "^4.0.2",
     "@lavamoat/preinstall-always-fail": "^2.1.1",
-    "astro": "^5.16.15",
+    "astro": "^5.17.1",
     "sharp": "^0.34.5",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3"
