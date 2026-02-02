@@ -330,6 +330,16 @@ this handbook so you can review them in either location at any time.
 This is a one time process when becoming a new employee and will be reviewed on
 a yearly basis for updates and signatures.
 
+#### Set up 1Password
+
+You should have gotten an email from 1Password about joining our 1Password
+vaults. Once you sign in (Google SSO), Eric or Tom will need to confirm your
+account on the 1Password side so that you can have full access.
+
+You will also want to install the 1Password app, which will add the Chrome
+Extension (and optionally command line tool) as well:
+https://1password.com/downloads
+
 #### Security Training
 
 Upon starting and on a yearly basis you are required to go through our internal
@@ -452,4 +462,11 @@ Week of Offer
 Week before start
 
 - Purchase an appropriate device for them, shipped to their house. Typically a
-  MacBook Pro or MacBook Air.
+  MacBook Pro or MacBook Air. If we do not have one on-hand we should try using
+  Rippling's managed machine installs as they'll handle the shipping for us.
+
+Start Day
+
+- Please welcome our newest birder! Hang out with them on #vc or similar during
+  their onboarding.
+- They will need your help to add them to GitHub, Discord and 1Password.
