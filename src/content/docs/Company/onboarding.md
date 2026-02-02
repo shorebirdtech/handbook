@@ -340,6 +340,10 @@ You will also want to install the 1Password app, which will add the Chrome
 Extension (and optionally command line tool) as well:
 https://1password.com/downloads
 
+If you're setting up a second device, you will need access to the secret key
+this is a long string, and AirDrop may be your best option to move it (securely)
+between devices, or just carefully typing it out again.
+
 #### Security Training
 
 Upon starting and on a yearly basis you are required to go through our internal
