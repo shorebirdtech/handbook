@@ -266,6 +266,9 @@ before signing up.
   GitHub username to your manager to start this process.
   - Owners of the GitHub organization can add new members via
     [the People View](https://github.com/orgs/shorebirdtech/people).
+- Codecov is used for code coverage reporting. Log in once at
+  [codecov.io](https://codecov.io) using your GitHub account, then let your
+  manager know so they can activate your account.
 - There are roles as part of our Google Cloud setup which you will need to be
   added to manually after joining based on your business need.
 
