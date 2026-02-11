@@ -102,7 +102,7 @@ Code Town Inc. provides up to 4 weeks of 100% salary continuation per rolling
 
 If you reside in a state with mandated disability or paid medical leave (e.g.,
 CA, NY, WA), you must apply for those benefits. Code Town Inc. will "top up"
-state payments to match 100% of your regular salary.  Leave management is all
+state payments to match 100% of your regular salary. Leave management is all
 handled through Rippling and our leave provider, Tilt.
 
 Requests for leave extending beyond 4 weeks are considered on a case-by-case
