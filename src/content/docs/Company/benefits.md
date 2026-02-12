@@ -56,7 +56,7 @@ insurance available through our provider, Beam.
 
 We are unable to offer short or long term disability insurance at this time.
 This will continue to be a review topic when our yearly benefits window opens
-for renwals.
+for renewals.
 
 ## Leave
 
