@@ -3,7 +3,7 @@ title: Labor and Employment Notices
 description: Shorebird labor and employment notices
 template: doc
 sidebar:
-  order: 4
+  order: 5
 ---
 
 Since Shorebird is an
