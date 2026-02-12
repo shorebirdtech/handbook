@@ -1,17 +1,17 @@
 ---
 title: Company Details
-description: Shorebird as a company
+description: Code Town, Inc as a company
 template: doc
 sidebar:
   order: 1
 ---
 
-Shorebird (legally Code Town, Inc) is a Delaware C Corp, founded to foster
+Code Town, Inc (d.b.a Shorebird) is a Delaware C Corp, founded to foster
 adoption of multi-platform development globally. We were founded by some of the
 same team who built Flutter and Dart and use those as our vehicle.
 
-Shorebird is the name of the street on which Flutter was created and is likely a
-placeholder name until we find a better one. Suggestions welcome.
+Shorebird is the name of the street on which Flutter was created and a nod to
+the beginnings of the technology we enjoy to build upon.
 
 ## Purpose
 
