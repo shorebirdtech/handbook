@@ -36,7 +36,8 @@
     "allowScripts": {
       "@lavamoat/preinstall-always-fail": false,
       "astro>esbuild": false,
-      "sharp": false
+      "sharp": false,
+      "astro>vite>esbuild": false
     }
   }
 }
