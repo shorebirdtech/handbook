@@ -1,16 +1,16 @@
 ---
 title: Handbook
-description: Shorebird Handbook
+description: Code Town Inc Handbook
 template: doc
 sidebar:
   order: 1
 ---
 
-Shorebird makes products that help businesses succeed with Flutter. You can
-learn more about our products at https://shorebird.dev/
+Code Town Inc (d.b.a Shorebire) makes products that help businesses succeed with
+Flutter. You can learn more about our products at https://shorebird.dev/
 
-The Shorebird handbook is living document describing how we run our company. We
-welcome your feedback and contributions.
+This handbook is a living document describing how we run the company. We welcome
+your feedback and contributions.
 
 ## Contributing
 
