@@ -1,13 +1,13 @@
 ---
 title: Marketing
-description: Shorebird Marketing
+description: Marketing
 template: doc
 ---
 
 ### Marketing Purpose
 
-Shorebird is on a mission to make portable software the default way to build.
-The marketing organization’s job is to raise awareness and amplify the value of
+We are on a mission to make portable software the default way to build. The
+marketing organization’s job is to raise awareness and amplify the value of
 Shorebird with developers and the community. We help customers along their
 journey as they are exploring and evaluating Shorebird.
 

@@ -1,6 +1,6 @@
 ---
 title: Engineering
-description: Shorebird Engineering
+description: Code Town Inc Engineering
 template: doc
 ---
 
@@ -122,8 +122,8 @@ Examples of when it might be appropriate to be closed:
 
 ### Licensing Philosophy
 
-All Shorebird code is licensed under the Apache 2.0 license OR the MIT license
-at the users discretion. This is done in service of our users.
+All Code Town Inc code is licensed under the Apache 2.0 license OR the MIT
+license at the users discretion. This is done in service of our users.
 
 We wish for our software to be as widely consumable as possible, while also
 protecting our users from patent risk. Apache 2.0 provides patent protections
@@ -148,13 +148,14 @@ necessary license files. Forking it is the easiest way to start a new repo.
 
 ### Forks and Upstreaming
 
-Shorebird is intentionally open source and we use lots of open source software,
-including several projects which we have forked, most notably Flutter. Whenever
-possible we should seek to upstream our changes to these projects. Depending on
-the size of the upstream project, it is generally faster (and recommended) to
-make our changes in our fork, and separately file an issue with the upstream for
-later upstreaming. It's more important for us to move fast and ship our changes
-(and learn from them) than to save total time by upstreaming first.
+Our products are intentionally open source and we use lots of open source
+software, including several projects which we have forked, most notably Flutter.
+Whenever possible we should seek to upstream our changes to these projects.
+Depending on the size of the upstream project, it is generally faster (and
+recommended) to make our changes in our fork, and separately file an issue with
+the upstream for later upstreaming. It's more important for us to move fast and
+ship our changes (and learn from them) than to save total time by upstreaming
+first.
 
 ### Tips and tricks
 
