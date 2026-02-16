@@ -6,7 +6,7 @@ sidebar:
   order: 1
 ---
 
-Code Town Inc (d.b.a Shorebire) makes products that help businesses succeed with
+Code Town Inc (d.b.a Shorebird) makes products that help businesses succeed with
 Flutter. You can learn more about our products at https://shorebird.dev/
 
 This handbook is a living document describing how we run the company. We welcome
