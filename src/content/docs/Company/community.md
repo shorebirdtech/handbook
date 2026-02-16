@@ -1,6 +1,6 @@
 ---
 title: Community
-description: Our philopshipy behind the invovlement in the Flutter Community
+description: Our philosophy behind the involvement in the Flutter Community
 template: doc
 sidebar:
   order: 5
