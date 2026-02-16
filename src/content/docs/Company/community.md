@@ -1,6 +1,6 @@
 ---
 title: Community
-description: Shorebird in the Flutter Community
+description: Our philopshipy behind the invovlement in the Flutter Community
 template: doc
 sidebar:
   order: 5
@@ -52,7 +52,7 @@ involved.
   places where we see a concentration of customers.
 - Mentions - This utilizes [Octolens](https://octolens.com) to search for
   mentions of us as a company/product out on the web and alert us to when we are
-  part of the converstaion.
+  part of the conversation.
 - AutoMod - This is just a built in part of Discord which we have configured. It
   can auto flag messages that trip its spam, flagged words, etc lists and will
   post them to a private channel for our admins to determine if it should be

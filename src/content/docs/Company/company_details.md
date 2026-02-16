@@ -44,7 +44,8 @@ to users.
 
 Someone needs to stand up for portable development. Build amazing, complete
 solutions for developers and businesses of all sizes with the goal to make high
-quality, portable development, the default. That someone is Shorebird.
+quality, portable development, the default. We are that company and Shorebird is
+the product to do it.
 
 ## Our Story
 
@@ -53,7 +54,7 @@ based on the incentives they operate under rather than direction from one
 person. Today, Flutter’s incentives are aligned around Google, not the wide
 world of developers who use Flutter.
 
-Shorebird is about aligning incentives with those we serve in ways existing
+We are about aligning incentives with those we serve in ways existing
 consultancies cannot, big Flutter users cannot, and Google cannot. High quality
 portable software is inevitable. But BigTech, little consultancies, and open
 source alone will not make it the default. The largest problems facing flutter,
@@ -86,18 +87,18 @@ both specific to Flutter and highly integrated within itself. Our value to
 developers is productivity, completeness, quality and alignment with their
 needs.
 
-We serve developers by making them more productive. When they use Shorebird,
+We serve developers by making them more productive. When they use our products,
 they don’t have to build or integrate as much themselves, they get further,
 faster. They can follow our golden path and use our managed solutions for their
 creation, sharing, testing, and deployment.
 
 We serve businesses by making their developers more productive and providing
-them security and assurance to their investments. When they use Shorebird, they
-know they’re using something they can rely on and they can call when they need.
-They know that they’re buying best-in-class solutions. They know they’re buying
-from a business that will be here tomorrow, not just an open source project that
-may not be maintained. They know that their developers are more productive, and
-happier when using our solutions.
+them security and assurance to their investments. When they use our products,
+they know they’re using something they can rely on and they can call when they
+need. They know that they’re buying best-in-class solutions. They know they’re
+buying from a business that will be here tomorrow, not just an open source
+project that may not be maintained. They know that their developers are more
+productive, and happier when using our solutions.
 
 ## Vision
 
@@ -109,13 +110,13 @@ outcomes. Today in the gaming world, developers reach for portable solutions
 first. This is both because those solutions produce the best outcomes the
 fastest and they let developers figure out the fun stuff first and the platforms
 later. In the future, app developers will also reach for Shorebird first,
-because we serve them and their interests, not the platform vendors. Shorebird
-will help them produce the best quality products, and know that they can take
-them to any device or any screen they need to, without needless rewrites.
+because we serve them and their interests, not the platform vendors. We will
+help them produce the best quality products, and know that they can take them to
+any device or any screen they need to, without needless rewrites.
 
 In this future the Flutter ecosystem is rich and robust, not just Shorebird.
-There is a Flutter foundation, which Shorebird is a large part of. Flutter and
-Dart are successful across all the devices businesses care to reach, including
+There is a Flutter foundation, which we are a large part of. Flutter and Dart
+are successful across all the devices businesses care to reach, including
 desktop, web and servers. Shorebird is synonymous with Flutter, just like
 Confluent with Kafka, or Apollo with GraphQL today. Businesses confidently reach
 for portable software development from Shorebird first, knowing it’s the safe
@@ -135,10 +136,10 @@ longer be a just-for-Google solution.
 - Developer productivity matters. Developers are the reason we exist, their
   success is our goal and we will always put them first.
 - Our best work is open by default. We believe in transparency and openness. We
-  live in a big world. Shorebird (and Flutter) serve a global audience. We can't
-  always be in the room and so the best way to "set others up to succeed" is to
-  write things down in the open. Open Source is what made Flutter successful
-  (and web browsers before it) and will be what makes Shorebird successful.
+  live in a big world. We (and Flutter) serve a global audience. We can't always
+  be in the room and so the best way to "set others up to succeed" is to write
+  things down in the open. Open Source is what made Flutter successful (and web
+  browsers before it) and will be what makes us successful.
 - Real artists ship. It's more important to ship, be wrong and learn than to
   ship right the first time.
 - The future is bigger than the past. It's more important to make a better
@@ -147,7 +148,7 @@ longer be a just-for-Google solution.
   probably 100s of millions of developers in the future. We're here to help them
   all.
 
-### What makes us distinctly Shorebird
+### What Makes Us Distinctly Us
 
 - Our developer empathy: Developers are our customers, we must empathize with
   them, talk to them, and solve problems for them.
@@ -172,25 +173,25 @@ more people produce awesome products and go home earlier to spend more time with
 their families, instead of writing a translation of their previous work into
 Kotlin, and then again in Swift, and again in TypeScript or Go or whatever.
 
-Shorebird is a great place for self-starters, who know how to self-manage, and
-enjoy the freedom of remote work. People who like working with strong colleagues
-regardless of their physical location and are excited to solve problems for
-developers and businesses. Birders have a sense of quality, they care about
-their own work product and the tools they’re providing to others. We’re proud to
-empower our customers to do their best work. We’re proud to be a part of a
-larger community. We feel good at the end of the week that we’ve made the world
-a little better by empowering developers who in turn touch billions of lives
-every week.
+This company is a great place for self-starters, who know how to self-manage,
+and enjoy the freedom of remote work. People who like working with strong
+colleagues regardless of their physical location and are excited to solve
+problems for developers and businesses. Birders have a sense of quality, they
+care about their own work product and the tools they’re providing to others.
+We’re proud to empower our customers to do their best work. We’re proud to be a
+part of a larger community. We feel good at the end of the week that we’ve made
+the world a little better by empowering developers who in turn touch billions of
+lives every week.
 
-Users of Shorebird should feel that they’ve picked products designed for their
-use cases and outcomes. That Shorebird is accessible to them in the way any good
-open source project would, and _responds_ to their needs in the way a commercial
+Users of our products should feel that they’ve picked products designed for
+their use cases and outcomes. It is accessible to them in the way any good open
+source project would, and _responds_ to their needs in the way a commercial
 product does. Users should feel safe, knowing that they’ve picked a solution
 that’s reliable and sustainable, that supports them throughout the lifetime of
 their product and they will get promoted for using, not wrist-slapped by their
-boss. Users also know that by betting on Flutter and Shorebird they’ve found
-themselves a career, because they know they can take their skills to any screen
-and any product, not just be limited to a specific mobile framework.
+boss. Users also know that by betting on Shorebird they’ve found themselves a
+career, because they know they can take their skills to any screen and any
+product, not just be limited to a specific mobile framework.
 
 The emotional core of our work is empowerment. We serve developers. They will
 feel like they could build what we’ve built themselves, but they will choose to
@@ -229,10 +230,6 @@ but made us question if async-only remote will work. We're still learning.
   twice 20 years, including major contributions to WebKit, Safari, Blink and
   Chrome.
 
-- Bryan Oltman ([@bryanoltman](https://x.com/bryanoltman)), Founding Engineer --
-  Was previously Tech Lead on Google's internal Flutter team and has extensive
-  experience with enterprise usage of Flutter.
-
 - Tom Arra ([@tom_arra](https://x.com/tom_arra)), Operations Lead -- Tom has
   been a member of the Flutter community since 2018 and has helped scale
   products and teams at companies like BMW and Very Good Ventures before joining
@@ -269,7 +266,7 @@ Flutter started with daily stand-ups (capped to 5 minutes total) and kept those
 all the way until 30-40 people. It was a chance to promote daily coordination
 between members of the team and as we got larger (10+) help make sure
 individuals had resources to be unblocked and didn't accidentally work on the
-same issues. I imagine we'll find something similar for Shorebird (synchronous
+same issues. I imagine we'll find something similar for us (synchronous
 
 <!--- cspell:disable-next-line -->
 
@@ -320,6 +317,6 @@ from existing Flutter enterprise teams are:
 
 # A note on hiring
 
-If you're reading this and think Shorebird sounds like a fun place to work, come
-check out our [open roles](https://shorebird.dev/jobs/) or join our
+If you're reading this and think it sounds like a fun place to work, come check
+out our [open roles](https://shorebird.dev/jobs/) or join our
 [Discord](https://discord.gg/shorebird).
