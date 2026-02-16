@@ -24,28 +24,32 @@ advance the company more than a day forward, that's likely the right call.
    the company. If you're in doubt, just ping Eric.
 3. It is generally easiest and fastest for you to make any purchases for office
    supplies yourself and expense them.
-4. You may privately use Shorebird property, a laptop for example, to check your
+4. You may privately use company property, a laptop for example, to check your
    private e-mails or watch a movie as long as it does not violate the law, harm
-   Shorebird, or interfere with Intellectual Property.
-5. If you make a purchase that will cost Shorebird $1000 USD per item (or over),
-   unless otherwise stated, this is classified as company property, you will be
-   required to return the item(s) if you leave the company.
+   the company, or interfere with Intellectual Property.
+5. If you make a purchase that will cost the company $1000 USD per item (or
+   over), unless otherwise stated, this is classified as company property, you
+   will be required to return the item(s) if you leave the company.
 
 Any non-company expenses should not be paid with a company credit card, but
 sometimes mistakes happen. We use Ramp and it has tools to help you reimburse
 the company for accidental personal expenses.
 
-In my (Eric's) experience, expense value outcomes tend to be binary. Things that
-I use every day end up costing effectively nothing, things that I don't use end
-up costing effectively infinity. I've found the same to be true at Shorebird.
-Spend money on things we are using to provide value to our customers and we'll
-be very happy we spent it.
+:::note
+
+In our experience, expense value outcomes tend to be binary. Things that we use
+every day end up costing effectively nothing, things that we don't use end up
+costing effectively infinity. We've found the same to be true here. Spend money
+on things we are using to provide value to our customers and we'll be very happy
+we spent it.
+
+:::
 
 ### Home Office
 
-Most Shorebird employees work from their homes. We want you to be comfortable
-and productive in your chosen work environment. We will provide you with a
-laptop and a company card to purchase any additional equipment you need.
+Most employees work from their homes. We want you to be comfortable and
+productive in your chosen work environment. We will provide you with a laptop
+and a company card to purchase any additional equipment you need.
 
 Spending guidelines:
 
@@ -73,7 +77,7 @@ of your home office, please consult with a tax professional.
 
 #### Home Office Internet
 
-As part of supporting home office use, Shorebird will pay for the cost of your
+As part of supporting home office use, the company will pay for the cost of your
 internet connection up to $100 USD per month. This is based on
 [GitLab's policy](https://handbook.gitlab.com/handbook/finance/expenses/#internet).
 
@@ -87,7 +91,7 @@ USD (or equivalent local currency) per month. This is based on
 ## Travel
 
 We try to gather for a week, 2-4 times a year as a whole company. For such
-gatherings, of course, Shorebird covers all travel expenses. So far we've
+gatherings, of course, the company covers all travel expenses. So far we've
 traveled to Chicago, San Francisco, Brooklyn, Phoenix and Austin.
 
 ### Tips for booking travel
