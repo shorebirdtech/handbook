@@ -16,7 +16,7 @@
     "@astrojs/starlight": "^0.37.6",
     "@astrojs/starlight-tailwind": "^4.0.2",
     "@lavamoat/preinstall-always-fail": "^2.1.1",
-    "astro": "^5.17.1",
+    "astro": "^5.17.2",
     "sharp": "^0.34.5",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3"
@@ -36,7 +36,8 @@
     "allowScripts": {
       "@lavamoat/preinstall-always-fail": false,
       "astro>esbuild": false,
-      "sharp": false
+      "sharp": false,
+      "astro>vite>esbuild": false
     }
   }
 }
