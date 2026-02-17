@@ -1,6 +1,6 @@
 ---
 title: Process Calendar
-description: Shorebird Process Calendar to help operations team stay on track
+description: Process Calendar to help operations team stay on track
 template: doc
 ---
 

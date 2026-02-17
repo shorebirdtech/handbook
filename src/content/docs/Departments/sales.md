@@ -1,6 +1,6 @@
 ---
 title: Sales
-description: Shorebird Sales
+description: Sales
 template: doc
 ---
 
@@ -20,7 +20,7 @@ other services and/or apps that you typically would to stay organized.
 
 ### Calendly
 
-We do have a Shorebird [Calendly](https://calendly.com/) account. On a personal
+We do have a company [Calendly](https://calendly.com/) account. On a personal
 basis, this is useful for adding a "book time with me" link to your email
 signature. We also use the
 [Round Robin](https://help.calendly.com/hc/en-us/articles/4402432846999-Round-robin-distribution-overview)
@@ -69,11 +69,11 @@ of things are.
 ##### Companies & People
 
 Most of this tracking is done for you by Attio automatically through Email and
-Calendar tracking. If you have connected your Shorebird Google Account to Attio
-then it will view your emails and appointments and auto populate records for
-Companies and People. The tool will also auto-populate some basic company
-information, based on the domain, and create the linking of the people to the
-company for easy tracing.
+Calendar tracking. If you have connected your Google Account to Attio then it
+will view your emails and appointments and auto populate records for Companies
+and People. The tool will also auto-populate some basic company information,
+based on the domain, and create the linking of the people to the company for
+easy tracing.
 
 If you have some interaction with a person or company outside of Email and
 Calendar events then you can also manually add the records needed. The key items
@@ -90,9 +90,9 @@ that need to be entered are:
 ###### Custom Fields
 
 - Companies
-  - Status - This states the status of a company with Code Town/Shorebird. This
-    allows us to run reports on our Companies list and understand who we should
-    be targeting at any given time. See below for a definition of each status.
+  - Status - This states the status of a company with us. This allows us to run
+    reports on our Companies list and understand who we should be targeting at
+    any given time. See below for a definition of each status.
     - Lead - Starting point for any company record. We know that they use
       Flutter and therefore could be a potential customer.
     - Talking - We have had communication with the company and conversations are

@@ -1,6 +1,6 @@
 ---
 title: Mailbox (Stable)
-description: Shorebird Mailbox Overview
+description: Mailbox Overview
 template: doc
 ---
 

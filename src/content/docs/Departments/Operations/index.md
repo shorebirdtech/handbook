@@ -1,11 +1,11 @@
 ---
 title: Operations Overview
-description: Shorebird Operations Team Overview
+description: Operations Team Overview
 template: doc
 ---
 
-The Operations team exists to ensure Shorebird runs smoothly as a business. We
-handle the non-engineering work that keeps the company healthy, compliant,
+The Operations team exists to ensure Code Town Inc runs smoothly as a business.
+We handle the non-engineering work that keeps the company healthy, compliant,
 funded, and growing. Our mission is to remove friction, provide clarity, and
 enable the engineering and product organizations to focus on building and
 shipping great products.

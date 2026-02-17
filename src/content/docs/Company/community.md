@@ -1,6 +1,6 @@
 ---
 title: Community
-description: Shorebird in the Flutter Community
+description: Our philosophy behind the involvement in the Flutter Community
 template: doc
 sidebar:
   order: 5
@@ -10,18 +10,18 @@ The Flutter Community is something that we deeply value and aim to help build
 and grow. We do this by not just building products but also being active members
 in the worldwide community via online and in person mediums.
 
-## Shorebird Discord
+## Discord
 
-Shorebird uses Discord for (almost) all public & private communications. You can
-join it at https://discord.gg/shorebird.
+We use Discord for (almost) all public & private communications. You can join it
+at https://discord.gg/shorebird.
 
-On the Shorebird Discord we group channels:
+On the Discord Server we group channels:
 
 - Public (Publicly read/writeable)
 - Customers (Private between us and individual customers)
 - Partners (Private between us and companies we partner with)
-- External (Publicly readable, Shorebird writeable)
-- Internal (Shorebird private)
+- External (Publicly readable, Employee writeable)
+- Internal (Employee only)
 
 We intentionally co-locate our private communications in the same app as our
 public customers use. This makes it easy to chat with our customers directly
@@ -50,9 +50,9 @@ involved.
   translation from any language to English and back as needed. There are also
   specific language channels in an "Auto-Translate" section which are setup for
   places where we see a concentration of customers.
-- Mentions - This is actually two bots which both post to the #mentions channel.
-  They troll Twitter/X and BlueSky for mentions of Shorebird so we can keep up
-  with whats going on in the community.
+- Mentions - This utilizes [Octolens](https://octolens.com) to search for
+  mentions of us as a company/product out on the web and alert us to when we are
+  part of the conversation.
 - AutoMod - This is just a built in part of Discord which we have configured. It
   can auto flag messages that trip its spam, flagged words, etc lists and will
   post them to a private channel for our admins to determine if it should be

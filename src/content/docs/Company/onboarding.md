@@ -1,6 +1,6 @@
 ---
 title: Onboarding
-description: Shorebird Onboarding
+description: Code Town Inc Onboarding
 template: doc
 sidebar:
   order: 2
@@ -8,7 +8,7 @@ sidebar:
 
 <!-- cspell:words CIIAA Menlo -->
 
-Welcome to Shorebird! We're _extremely_ glad you're here.
+Welcome! We're _extremely_ glad you're here.
 
 This guide is here to walk you through the onboarding process. If you have any
 problems, please reach out to the team or your manager on
@@ -138,8 +138,8 @@ offer to help you with patches, offer to talk at events, ask questions about
 some article they’re writing on Shorebird, etc. You can also use other chat,
 etc. to connect you with other experts (Flutter contributors discord, Flutter
 Slack, Dev Marketing slack, etc). So many people want you/us to succeed and are
-here to help. (Shorebird even now has volunteers now on Discord “Community
-Experts” who help with the support questions while we sleep!)
+here to help. (We even now has volunteers now on Discord “Community Experts” who
+help with the support questions while we sleep!)
 
 It does have potential downsides. It can be distracting (we wake up every
 morning to tens of support requests across all our channels, not all of them
@@ -457,7 +457,7 @@ Week of Offer
 - Reach out to the team and candidate to congratulate on their joining.
 - Start their personal (private) onboarding materials which should link to these
   shared ones, but include details specific to their role.
-- Check if this is a new state or country of operation for Shorebird. If so,
+- Check if this is a new state or country of operation for Code Town Inc. If so,
   work with the operations team to make sure we're registered to do business in
   that state. Registering for a new state currently involves emailing both our
   lawyers (Orrick) as well as our insurance (Next Insurance), otherwise Rippling

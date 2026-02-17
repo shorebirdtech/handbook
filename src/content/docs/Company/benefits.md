@@ -1,21 +1,21 @@
 ---
 title: Benefits
-description: Shorebird benefits
+description: Code Town, Inc Benefits Overview
 template: doc
 sidebar:
   order: 3
 ---
 
-Our benefits are currently written to be US-centric as all Shorebird employees
-currently reside in the US. We may adapt the offered benefits in country/region
-specific manners as we employ people outside of the US.
+Our benefits are currently written to be US-centric as all employees currently
+reside in the US. We may adapt the offered benefits in country/region specific
+manners as we employ people outside of the US.
 
 ## All Remote
 
-Shorebird is an all-remote company. We do not have an office. We aspire to
-eventually hire all over the globe. Currently all employees are based in the US
-and within GMT-5 to GMT-8. With this spread of timezones we do have a more
-flexible working hours setup based on location.
+We are an all-remote company. We do not have an office. We aspire to eventually
+hire all over the globe. Currently all employees are based in the US and within
+GMT-5 to GMT-8. With this spread of timezones we do have a more flexible working
+hours setup based on location.
 
 We do plan for employees to need updates or additions to their home office and
 provide a yearly stipend for this. You can read more on this topic in our
@@ -35,17 +35,17 @@ live within a country.
 
 ## Retirement Savings
 
-Shorebird provides a 401k plan for all US employees with 4% employer match. Our
-current provider is Accrue, brokered through Rippling.com.
+We provide a 401k plan for all US employees with 4% employer match. Our current
+provider is Accrue, brokered through Rippling.com.
 
 ## Insurance
 
 ### Health, Dental, Vision
 
-Shorebird offers competitive healthcare plans for all US employees and
-dependents, including dental and vision. For 2026, we are covering 95% of
-premiums for employees and 50% of premiums for dependents. Our current provider
-is Blue Cross Blue Shield, brokered through Rippling.com.
+We offer competitive healthcare plans for all US employees and dependents,
+including dental and vision. For 2026, we are covering 95% of premiums for
+employees and 50% of premiums for dependents. Our current provider is Blue Cross
+Blue Shield, brokered through Rippling.com.
 
 ### Life
 
@@ -62,8 +62,8 @@ for renewals.
 
 ### Paid Time Off
 
-Shorebird has a flexible PTO policy up to 10 contiguous days without asking and
-we encourage everyone to step away from the keyboard for at least 10 days per
+We have a flexible PTO policy up to 10 contiguous days without asking and we
+encourage everyone to step away from the keyboard for at least 10 days per
 calendar year. We care about impact on the company and our users, not your time
 at keyboard; taking time for ourselves is an important part of ensuring our time
 working can be productive.
@@ -73,13 +73,13 @@ calendar. The official list is kept in Rippling.
 
 ### Parental Leave
 
-Shorebird provides Parental Leave but this may vary depending on local country
-laws. Currently this section is written US-centric as all Shorebird employees
-currently reside in the US.
+We provide Parental Leave but this may vary depending on local country laws.
+Currently this section is written US-centric as all employees currently reside
+in the US.
 
-Shorebird provides 16 weeks of paid parental leave for any active team member
+We provides 16 weeks of paid parental leave for any active team member
 (regardless of gender) who becomes a parent through childbirth or adoption while
-working at Shorebird. The entire 16 week balance must be used within 12 months
+working at the company. The entire 16 week balance must be used within 12 months
 of the birth or adoption.
 
 ### Medical Leave

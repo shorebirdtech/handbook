@@ -1,6 +1,6 @@
 ---
 title: CEO
-description: Shorebird CEO
+description: Code Town, Inc CEO
 template: doc
 sidebar:
   order: 99
@@ -8,26 +8,25 @@ sidebar:
 
 <!-- cspell:words Flutterando -->
 
-The page is about Eric, CEO of Shorebird. The page is intended to be helpful. If
-it sounds pretentious or overbearing, please let me know so I can fix it.
-Thanks.
+The page is about Eric, our CEO. The page is intended to be helpful. If it
+sounds pretentious or overbearing, please let me know so I can fix it. Thanks.
 
 ## CEO bio
 
-Eric is the founder and CEO of Shorebird. Shorebird is the Flutter company.
-Before Shorebird, Eric co-founded the Flutter project and lead Flutter and Dart
-at Google.
+Eric is the founder and CEO of Code Town, Inc. We operate as "Shorebird" and are
+the Flutter company. Eric co-founded the Flutter project and lead Flutter and
+Dart at Google.
 
 ![Eric Seidel Headshot](../../../assets/eseidel_headshot.jpeg)
 
-Before Shorebird, Eric was an Engineering Director at Google responsible for
-Flutter and Dart. Before managing, Eric was an engineer at Google, including
-co-founding the Flutter project in 2014. Previously he was a technical lead on
-Chrome responsible for WebKit. Eric was the first WebKit reviewer at Google,
-helped launch Chrome 1.0 and later instigating Google's fork of WebKit, Blink.
-Prior to Google, Eric lead a small startup for 15 months as part of
-Y-Combinator's Summer 2006 batch, and prior to that worked on Safari at Apple
-where he brought SVG to Safari and helped start the Safari on Windows project.
+In his past, Eric was an Engineering Director at Google responsible for Flutter
+and Dart. Before managing, Eric was an engineer at Google, including co-founding
+the Flutter project in 2014. Previously he was a technical lead on Chrome
+responsible for WebKit. Eric was the first WebKit reviewer at Google, helped
+launch Chrome 1.0 and later instigating Google's fork of WebKit, Blink. Prior to
+Google, Eric lead a small startup for 15 months as part of Y-Combinator's Summer
+2006 batch, and prior to that worked on Safari at Apple where he brought SVG to
+Safari and helped start the Safari on Windows project.
 
 Fun fact: due to my long work on WebKit (including implementing the HTML
 parser), BSD copyright rules, and WebKit's usage on basically every digital
@@ -101,8 +100,8 @@ want similar.
   comments) if you need something from me as once it's in my inbox it's on my
   todo list and will (eventually) get done. Chat is fine if it’s urgent.
 - [My calendly](https://calendly.com/eseidel) is widely shared and open for
-  others to use to get on my schedule. Those at Shorebird have direct access
-  (and currently full visibility of) my calendar.
+  others to use to get on my schedule. Employees have direct access (and
+  currently full visibility of) my calendar.
 
 ## On meetings
 

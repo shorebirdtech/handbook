@@ -1,6 +1,6 @@
 ---
 title: Offboarding
-description: Shorebird Offboarding
+description: Offboarding Procedure Details
 template: doc
 sidebar:
   order: 98

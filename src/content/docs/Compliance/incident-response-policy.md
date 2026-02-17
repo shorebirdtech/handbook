@@ -91,9 +91,9 @@ Incidents will be classified based on their severity, such as:
 All incidents, regardless of severity, must be logged and documented for further
 analysis and reporting.
 
-As a U.S.-based company, Shorebird will escalate incidents to appropriate U.S.
-authorities when necessary. This includes contacting emergency services via 911
-for any incidents involving physical safety or threats, and reporting
+As a U.S.-based company, Code Town Inc will escalate incidents to appropriate
+U.S. authorities when necessary. This includes contacting emergency services via
+911 for any incidents involving physical safety or threats, and reporting
 cyber-related crimes to the
 [Internet Crime Complaint Center (IC3)](https://www.ic3.gov). The decision to
 involve law enforcement or regulatory agencies will be made by the Incident
