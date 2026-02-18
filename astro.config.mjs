@@ -49,6 +49,23 @@ export default defineConfig({
       expressiveCode: {
         themes: ["dark-plus", "github-light"],
       },
+      sidebar: [
+        {
+          label: "Company",
+          collapsed: true,
+          autogenerate: { directory: "Company" },
+        },
+        {
+          label: "Compliance",
+          collapsed: true,
+          autogenerate: { directory: "Compliance" },
+        },
+        {
+          label: "Departments",
+          collapsed: true,
+          autogenerate: { directory: "Departments" },
+        },
+      ],
       plugins: [
         starlightLinksValidator({
           errorOnFallbackPages: false,
