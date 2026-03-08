@@ -276,7 +276,7 @@ channel on Discord to post what we're working on each day.
 
 We don't have much process around this yet. In short, we trust you to make the
 right decisions for the company. I think GitLab has a
-[very sane policy](https://about.gitlab.com/handbook/spending-company-money/) on
+[very sane policy](https://handbook.gitlab.com/handbook/finance/spending-company-money/) on
 this and we'll likely adopt something similar.
 
 ## Future Products / User Pain
