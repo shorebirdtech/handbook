@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
+import starlightAutoSidebar from "starlight-auto-sidebar";
 
 const site = "https://handbook.shorebird.dev/";
 
@@ -49,7 +50,25 @@ export default defineConfig({
       expressiveCode: {
         themes: ["dark-plus", "github-light"],
       },
+      sidebar: [
+        {
+          label: "Company",
+          collapsed: true,
+          autogenerate: { directory: "company" },
+        },
+        {
+          label: "Compliance",
+          collapsed: true,
+          autogenerate: { directory: "compliance" },
+        },
+        {
+          label: "Departments",
+          collapsed: true,
+          autogenerate: { directory: "departments", collapsed: true },
+        },
+      ],
       plugins: [
+        starlightAutoSidebar(),
         starlightLinksValidator({
           errorOnFallbackPages: false,
           errorOnInconsistentLocale: true,
