@@ -140,7 +140,7 @@ scope, along with any rationale for exclusion if applicable.
 **Overall conclusion:**
 
 _Summarize the audit outcome in 1–2 sentences. Example: "The ISMS is operating
-effectively with no major nonconformities identified. One minor observation was
+effectively with no major non-conformities identified. One minor observation was
 noted and assigned for remediation."_
 
 ---
