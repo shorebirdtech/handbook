@@ -28,7 +28,7 @@ Statement of Applicability. This includes:
 
 Shorebird conducts one full internal audit cycle per calendar year. Audit
 activities are scheduled at least eight weeks before any external surveillance
-or recertification audit to allow time for corrective action where needed.
+or re-certification audit to allow time for corrective action where needed.
 
 Audit areas are selected using risk-based prioritization. Higher-risk areas such
 as access control, incident response, and vendor management are prioritized
@@ -163,7 +163,7 @@ Conformant
 
 ### Corrective Actions
 
-All nonconformities require a corrective action plan. Actions are tracked in
+All non-conformities require a corrective action plan. Actions are tracked in
 Shorebird's issue tracker and referenced by finding number.
 
 | Finding Ref | Corrective Action | Owner | Due Date | Status |
