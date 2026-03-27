@@ -302,12 +302,11 @@ with you to get you onboarded to the tools you need.
 
 ### AI Tools
 
-We're not an "AI company", but we use AI tools all day. Most of us use Claude
-as a core part of our workflow. Just like any
-other tool or technological change, we should be aware of them and use them
-when they help us deliver more value to our customers. If you find an AI tool
-that makes you more productive, put it on your Ramp card. In general, use
-whatever services make you maximally productive.
+We're not an "AI company", but we use AI tools all day. Most of us use Claude as
+a core part of our workflow. Just like any other tool or technological change,
+we should be aware of them and use them when they help us deliver more value to
+our customers. If you find an AI tool that makes you more productive, put it on
+your Ramp card. In general, use whatever services make you maximally productive.
 
 ### ISO Compliance
 
@@ -364,8 +363,8 @@ security training. This can be found in the
 
 ### Apple ID
 
-If you're on a Mac, you can use your existing personal Apple ID or create a
-work one. The advantage of using personal is it will play nice with your other
+If you're on a Mac, you can use your existing personal Apple ID or create a work
+one. The advantage of using personal is it will play nice with your other
 devices (AirPods will automatically connect, etc). The advantage of using a
 separate work Apple ID is work/life separation. It's your call.
 
@@ -385,14 +384,14 @@ Drive where others have written friction logs if you wish to feel inspired.
 We've found a pattern that works well for new team members regardless of role:
 
 1. **Use the product.** Set up your machine, get on Discord, and go through our
-   product as a user would. Take notes. Write a friction log. You'll find
-   things you want us to fix — that's the point.
+   product as a user would. Take notes. Write a friction log. You'll find things
+   you want us to fix — that's the point.
 
-2. **Close the loop.** Land a patch (even just a typo fix), do a review, or
-   the equivalent for your role — write a slide deck, write a doc, send an
-   email. This helps you feel productive, but more importantly it illuminates
-   the real blockers — did we forget to give you access to something? Is our
-   process confusing somewhere? It's just good at surfacing what's broken about
+2. **Close the loop.** Land a patch (even just a typo fix), do a review, or the
+   equivalent for your role — write a slide deck, write a doc, send an email.
+   This helps you feel productive, but more importantly it illuminates the real
+   blockers — did we forget to give you access to something? Is our process
+   confusing somewhere? It's just good at surfacing what's broken about
    onboarding.
 
 3. **Focus on one area.** Your scope will grow over time, but finding your feet
@@ -401,12 +400,12 @@ We've found a pattern that works well for new team members regardless of role:
    environment (people, schedule, communication, tooling) at the same time.
 
 4. **Find your stride.** There is so much we can do, and so much we will do
-   together. But finding a thing you feel good at, feel like you're
-   contributing to, is paramount. We have far more to do than people to do it,
-   so as soon as you want more to do or want different areas to work on,
-   they're yours for the learning and taking. Most importantly, get into a
-   pattern where you feel productive, you know how to get the help you need,
-   and you feel like you are part of the team.
+   together. But finding a thing you feel good at, feel like you're contributing
+   to, is paramount. We have far more to do than people to do it, so as soon as
+   you want more to do or want different areas to work on, they're yours for the
+   learning and taking. Most importantly, get into a pattern where you feel
+   productive, you know how to get the help you need, and you feel like you are
+   part of the team.
 
 ## Day to Day Operations
 
@@ -421,35 +420,33 @@ please work with your manager to do so.
 
 Work the hours that make you most productive. Out of experience we recommend
 picking something regular for yourself — remote work can be hard without an
-office to set rhythms and we have to figure out how to build them ourselves.
-The team is spread across US time zones (Pacific, Mountain, Central, and
-Eastern).
+office to set rhythms and we have to figure out how to build them ourselves. The
+team is spread across US time zones (Pacific, Mountain, Central, and Eastern).
 
-For Eric, for example, days typically start with inbox and support, then
-sales or support calls every few days. Your routine will be different — the
-important thing is finding a rhythm that works for you. Most of our
-communication happens via internal text channels (#inc, #eng, #business,
-etc).
+For Eric, for example, days typically start with inbox and support, then sales
+or support calls every few days. Your routine will be different — the important
+thing is finding a rhythm that works for you. Most of our communication happens
+via internal text channels (#inc, #eng, #business, etc).
 
 <!-- cspell:disable-next-line -->
-We try to write down what we did for the day in #standup every afternoon.
-You are encouraged to write your own. One of the hard things about remote
-work is that you don't bump into your colleagues at lunch where they get to
-ask what you're up to. Stand-ups are how we stay visible to each other. It's
-not a contest (no one is grading on results). It's a way of recording
-whether we're moving as we'd like, and if not, asking ourselves why and
-trying to fix the systems that produced that outcome. A couple investors
-tell us they read it too, but it's for us more than anyone else.
 
-We have a weekly staff meeting whose purpose is to make sure we're
-coordinating as a team at least weekly. A typical agenda includes
-announcements, a review of last week's action items (self-rated green,
-yellow, or red), department updates from each team, company alignment topics
-(key decisions, risk callouts, help needed), and one goal for the next week
-per person. One thing we used to use stand-ups for on the Flutter team
-(five-minute stand-ups right after lunch, scaling until about 20 people) was
-to ensure no one got blocked or felt stuck. We expect to find something
-similar for ourselves as we grow.
+We try to write down what we did for the day in #standup every afternoon. You
+are encouraged to write your own. One of the hard things about remote work is
+that you don't bump into your colleagues at lunch where they get to ask what
+you're up to. Stand-ups are how we stay visible to each other. It's not a
+contest (no one is grading on results). It's a way of recording whether we're
+moving as we'd like, and if not, asking ourselves why and trying to fix the
+systems that produced that outcome. A couple investors tell us they read it too,
+but it's for us more than anyone else.
+
+We have a weekly staff meeting whose purpose is to make sure we're coordinating
+as a team at least weekly. A typical agenda includes announcements, a review of
+last week's action items (self-rated green, yellow, or red), department updates
+from each team, company alignment topics (key decisions, risk callouts, help
+needed), and one goal for the next week per person. One thing we used to use
+stand-ups for on the Flutter team (five-minute stand-ups right after lunch,
+scaling until about 20 people) was to ensure no one got blocked or felt stuck.
+We expect to find something similar for ourselves as we grow.
 
 ### Communication
 
@@ -516,17 +513,16 @@ We try to ship whenever we have something ready, typically a couple times a
 week. We don't have strict release schedules. Flutter ships hotfixes on
 Wednesdays
 ([Hotfixes to the Stable Channel](https://github.com/flutter/flutter/wiki/Hotfixes-to-the-Stable-Channel))
-and we try to roll/release a new Flutter soon after they do. The majority of
-our releases are just because we've developed something new or fixed a
-customer bug.
+and we try to roll/release a new Flutter soon after they do. The majority of our
+releases are just because we've developed something new or fixed a customer bug.
 
-We shout about our releases — we blog about them, tweet about them, and
-announce them on Discord. If you have any social presence, you are encouraged
-to help us elevate our wins. The more voices we have sharing what we ship,
-the further it reaches.
+We shout about our releases — we blog about them, tweet about them, and announce
+them on Discord. If you have any social presence, you are encouraged to help us
+elevate our wins. The more voices we have sharing what we ship, the further it
+reaches.
 
-It's much more important that we feel productive (and more productive over
-time) than that we ship on some specific day or time.
+It's much more important that we feel productive (and more productive over time)
+than that we ship on some specific day or time.
 
 #### Code
 
