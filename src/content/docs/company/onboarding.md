@@ -300,6 +300,14 @@ with you to get you onboarded to the tools you need.
 - Plausible - web analytics
 - Loops - Monthly newsletter and customer emails
 
+### AI Tools
+
+We're not an "AI company", but we use AI tools regularly. Just like any other
+tool or technological change, we should be aware of them and use them when they
+help us deliver more value to our customers. If you find an AI tool that makes
+you more productive, put it on your Ramp card. In general, use whatever
+services make you maximally productive.
+
 ### ISO Compliance
 
 As part of our ISO Compliance we have certain procedures that we need to follow
@@ -353,6 +361,13 @@ Upon starting and on a yearly basis you are required to go through our internal
 security training. This can be found in the
 [Security Training section of the Oneleet Portal](https://portal.oneleet.com/tenants/779dfaac-6762-4988-898e-ac8856a459ee/training).
 
+### Apple ID
+
+If you're on a Mac, you can use your existing personal Apple ID or create a
+work one. The advantage of using personal is it will play nice with your other
+devices (AirPods will automatically connect, etc). The advantage of using a
+separate work Apple ID is work/life separation. It's your call.
+
 ### Use The Product
 
 Please try the product, if you haven't already. We are here to build something
@@ -364,14 +379,67 @@ you encounter in the product. Anything you see, likely was seen by 100s of
 customers and ignored, but we should fix it. You'll find a folder in Google
 Drive where others have written friction logs if you wish to feel inspired.
 
+### Your First Weeks
+
+We've found a pattern that works well for new team members regardless of role:
+
+1. **Use the product.** Set up your machine, get on Discord, and go through our
+   product as a user would. Take notes. Write a friction log. You'll find
+   things you want to fix — that's the point.
+
+2. **Close the loop.** Land a patch (even just a typo fix), do a review, file a
+   bug. This helps you feel productive, but more importantly it illuminates the
+   real blockers — did we forget to give you access to something? Is our
+   process confusing somewhere? It's just good at surfacing what's broken about
+   onboarding.
+
+3. **Focus on one area.** Your scope will grow over time, but finding your feet
+   commonly comes from focus. Pick one repository or one area of the product,
+   live in it for a while, and let yourself learn all the rest of this new
+   environment (people, schedule, communication, tooling) at the same time.
+
+4. **Find your stride.** There is so much we can do, and so much we will do
+   together. But finding a thing you feel good at, feel like you're
+   contributing to, is paramount. We have far more to do than people to do it,
+   so as soon as you want more to do or want different areas to work on,
+   they're yours for the learning and taking. Most importantly, get into a
+   pattern where you feel productive, you know how to get the help you need,
+   and you feel like you are part of the team.
+
 ## Day to Day Operations
 
-If your used to a remote first way of working most of this section may be known
-to you already. If this is your first role in this way of working please read
-the following sections carefully to get an understanding of how we work on a day
-to day basis. As usual, these are ever changing and evolving as the team grows
-so if you see something that doesn't make sense or could be improved please work
-with your manager to do so.
+If you're used to a remote-first way of working most of this section may be
+known to you already. If this is your first role in this way of working please
+read the following sections carefully to get an understanding of how we work on
+a day to day basis. As usual, these are ever changing and evolving as the team
+grows so if you see something that doesn't make sense or could be improved
+please work with your manager to do so.
+
+### A Typical Day
+
+Work the hours that make you most productive. Out of experience we recommend
+picking something regular for yourself — remote work can be hard without an
+office to set rhythms and we have to figure out how to build them ourselves.
+The team is spread across US time zones (Pacific, Mountain, Central, and
+Eastern).
+
+Days typically start with inbox and support. Sales or support calls happen
+every few days. Most of our communication happens via internal text channels
+(#inc, #eng, #business, etc).
+
+We try to write down what we did for the day in #standup every afternoon.
+That's for personal accountability (and visibility for others in our
+community). A couple investors tell us they read it, but it's for us more
+than anyone else. You're welcome to write your own if you like. It's not a
+contest (no one is grading on results). It's a way of recording whether we're
+moving as we'd like, and if not, asking ourselves why and trying to fix the
+systems that produced that outcome.
+
+We have a weekly staff meeting whose purpose is to make sure we're
+coordinating as a team at least weekly. One thing we used to use standups for
+on the Flutter team (five-minute standups right after lunch, scaling until
+about 20 people) was to ensure no one got blocked or felt stuck. We expect
+to find something similar for ourselves as we grow.
 
 ### Communication
 
@@ -431,6 +499,23 @@ filed by our customers into our projects boards.
 
 For longer term discussions and design documents we typically store and work on
 these in Google Drive.
+
+#### Releasing
+
+We try to ship whenever we have something ready, typically a couple times a
+week. We don't have strict release schedules. Flutter ships hotfixes on
+Wednesdays
+([Hotfixes to the Stable Channel](https://github.com/flutter/flutter/wiki/Hotfixes-to-the-Stable-Channel))
+and we try to roll/release a new Flutter soon after they do. The majority of
+our releases are just because we've developed something new or fixed a
+customer bug.
+
+One area we continue to improve is "shouting" about our releases — posting on
+social media, Discord, and our blog. Building a cadence around this is
+valuable both for ourselves and our customers.
+
+It's much more important that we feel productive (and more productive over
+time) than that we ship on some specific day or time.
 
 #### Code
 
