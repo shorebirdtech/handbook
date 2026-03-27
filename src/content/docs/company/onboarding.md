@@ -303,7 +303,7 @@ with you to get you onboarded to the tools you need.
 ### AI Tools
 
 We're not an "AI company", but we use AI tools all day. Most of us use Claude
-(Claude Code, Cursor, etc.) as a core part of our workflow. Just like any
+as a core part of our workflow. Just like any
 other tool or technological change, we should be aware of them and use them
 when they help us deliver more value to our customers. If you find an AI tool
 that makes you more productive, put it on your Ramp card. In general, use
