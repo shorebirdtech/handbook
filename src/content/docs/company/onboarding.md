@@ -6,7 +6,7 @@ sidebar:
   order: 2
 ---
 
-<!-- cspell:words CIIAA Menlo -->
+<!-- cspell:words CIIAA Menlo hotfixes Hotfixes -->
 
 Welcome! We're _extremely_ glad you're here.
 
@@ -431,10 +431,11 @@ important thing is finding a rhythm that works for you. Most of our
 communication happens via internal text channels (#inc, #eng, #business,
 etc).
 
+<!-- cspell:disable-next-line -->
 We try to write down what we did for the day in #standup every afternoon.
 You are encouraged to write your own. One of the hard things about remote
 work is that you don't bump into your colleagues at lunch where they get to
-ask what you're up to. Standups are how we stay visible to each other. It's
+ask what you're up to. Stand-ups are how we stay visible to each other. It's
 not a contest (no one is grading on results). It's a way of recording
 whether we're moving as we'd like, and if not, asking ourselves why and
 trying to fix the systems that produced that outcome. A couple investors
@@ -445,8 +446,8 @@ coordinating as a team at least weekly. A typical agenda includes
 announcements, a review of last week's action items (self-rated green,
 yellow, or red), department updates from each team, company alignment topics
 (key decisions, risk callouts, help needed), and one goal for the next week
-per person. One thing we used to use standups for on the Flutter team
-(five-minute standups right after lunch, scaling until about 20 people) was
+per person. One thing we used to use stand-ups for on the Flutter team
+(five-minute stand-ups right after lunch, scaling until about 20 people) was
 to ensure no one got blocked or felt stuck. We expect to find something
 similar for ourselves as we grow.
 
