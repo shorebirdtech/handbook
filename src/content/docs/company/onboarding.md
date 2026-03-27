@@ -386,11 +386,12 @@ We've found a pattern that works well for new team members regardless of role:
 
 1. **Use the product.** Set up your machine, get on Discord, and go through our
    product as a user would. Take notes. Write a friction log. You'll find
-   things you want to fix — that's the point.
+   things you want us to fix — that's the point.
 
-2. **Close the loop.** Land a patch (even just a typo fix), do a review, file a
-   bug. This helps you feel productive, but more importantly it illuminates the
-   real blockers — did we forget to give you access to something? Is our
+2. **Close the loop.** Land a patch (even just a typo fix), do a review, or
+   the equivalent for your role — write a slide deck, write a doc, send an
+   email. This helps you feel productive, but more importantly it illuminates
+   the real blockers — did we forget to give you access to something? Is our
    process confusing somewhere? It's just good at surfacing what's broken about
    onboarding.
 
@@ -424,23 +425,30 @@ office to set rhythms and we have to figure out how to build them ourselves.
 The team is spread across US time zones (Pacific, Mountain, Central, and
 Eastern).
 
-Days typically start with inbox and support. Sales or support calls happen
-every few days. Most of our communication happens via internal text channels
-(#inc, #eng, #business, etc).
+For Eric, for example, days typically start with inbox and support, then
+sales or support calls every few days. Your routine will be different — the
+important thing is finding a rhythm that works for you. Most of our
+communication happens via internal text channels (#inc, #eng, #business,
+etc).
 
 We try to write down what we did for the day in #standup every afternoon.
-That's for personal accountability (and visibility for others in our
-community). A couple investors tell us they read it, but it's for us more
-than anyone else. You're welcome to write your own if you like. It's not a
-contest (no one is grading on results). It's a way of recording whether we're
-moving as we'd like, and if not, asking ourselves why and trying to fix the
-systems that produced that outcome.
+You are encouraged to write your own. One of the hard things about remote
+work is that you don't bump into your colleagues at lunch where they get to
+ask what you're up to. Standups are how we stay visible to each other. It's
+not a contest (no one is grading on results). It's a way of recording
+whether we're moving as we'd like, and if not, asking ourselves why and
+trying to fix the systems that produced that outcome. A couple investors
+tell us they read it too, but it's for us more than anyone else.
 
 We have a weekly staff meeting whose purpose is to make sure we're
-coordinating as a team at least weekly. One thing we used to use standups for
-on the Flutter team (five-minute standups right after lunch, scaling until
-about 20 people) was to ensure no one got blocked or felt stuck. We expect
-to find something similar for ourselves as we grow.
+coordinating as a team at least weekly. A typical agenda includes
+announcements, a review of last week's action items (self-rated green,
+yellow, or red), department updates from each team, company alignment topics
+(key decisions, risk callouts, help needed), and one goal for the next week
+per person. One thing we used to use standups for on the Flutter team
+(five-minute standups right after lunch, scaling until about 20 people) was
+to ensure no one got blocked or felt stuck. We expect to find something
+similar for ourselves as we grow.
 
 ### Communication
 
