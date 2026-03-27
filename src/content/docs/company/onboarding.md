@@ -519,9 +519,10 @@ and we try to roll/release a new Flutter soon after they do. The majority of
 our releases are just because we've developed something new or fixed a
 customer bug.
 
-One area we continue to improve is "shouting" about our releases — posting on
-social media, Discord, and our blog. Building a cadence around this is
-valuable both for ourselves and our customers.
+We shout about our releases — we blog about them, tweet about them, and
+announce them on Discord. If you have any social presence, you are encouraged
+to help us elevate our wins. The more voices we have sharing what we ship,
+the further it reaches.
 
 It's much more important that we feel productive (and more productive over
 time) than that we ship on some specific day or time.
