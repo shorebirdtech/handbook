@@ -14,6 +14,18 @@ This guide is here to walk you through the onboarding process. If you have any
 problems, please reach out to the team or your manager on
 [Discord](https://discord.gg/shorebird) to get unblocked.
 
+## Your Success is Our Success
+
+Getting you onboarded and productive is the most important thing that any of us
+can work on. You represent a significant increase in the total productivity of
+the company. There's essentially nothing else any of us could be spending time
+on that could create that kind of boost. Please do not let yourself get blocked
+by others. If you need a review, ping for it. If you have a "stupid" question,
+ask it. If you need help on something, ping any of us. If you just need a buddy
+to talk through things with, join #vc. You'll get to pay-it-forward many times
+over as we hire, so please err on the side of asking for too much rather than
+not enough. We want to help!
+
 ## Getting Started
 
 Our goal for your first days/weeks is to feel up-to-speed. Since we're still
