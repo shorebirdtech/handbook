@@ -14,6 +14,18 @@ This guide is here to walk you through the onboarding process. If you have any
 problems, please reach out to the team or your manager on
 [Discord](https://discord.gg/shorebird) to get unblocked.
 
+## Your Success is Our Success
+
+Getting you onboarded and productive is the most important thing that any of us
+can work on. You represent a significant increase in the total productivity of
+the company. There's essentially nothing else any of us could be spending time
+on that could create that kind of boost. Please do not let yourself get blocked
+by others. If you need a review, ping for it. If you have a "stupid" question,
+ask it. If you need help on something, ping any of us. If you just need a buddy
+to talk through things with, join #vc. You'll get to pay-it-forward many times
+over as we hire, so please err on the side of asking for too much rather than
+not enough. We want to help!
+
 ## Getting Started
 
 Our goal for your first days/weeks is to feel up-to-speed. Since we're still
@@ -300,6 +312,15 @@ with you to get you onboarded to the tools you need.
 - Plausible - web analytics
 - Loops - Monthly newsletter and customer emails
 
+### AI Tools
+
+We're not an "AI company", but we use AI tools all day. Most of us use Claude as
+a core part of our workflow. Just like any other tool or technological change,
+we should be aware of them and use them when they help us deliver more value to
+our customers. If you find tools — AI or not — that make you more productive,
+put them on your Ramp card and mention them in #business so we can consolidate
+subscriptions where it makes sense.
+
 ### ISO Compliance
 
 As part of our ISO Compliance we have certain procedures that we need to follow
@@ -353,6 +374,13 @@ Upon starting and on a yearly basis you are required to go through our internal
 security training. This can be found in the
 [Security Training section of the Oneleet Portal](https://portal.oneleet.com/tenants/779dfaac-6762-4988-898e-ac8856a459ee/training).
 
+### Apple ID
+
+If you're on a Mac, you can use your existing personal Apple ID or create a work
+one. The advantage of using personal is it will play nice with your other
+devices (AirPods will automatically connect, etc). The advantage of using a
+separate work Apple ID is work/life separation. It's your call.
+
 ### Use The Product
 
 Please try the product, if you haven't already. We are here to build something
@@ -364,14 +392,72 @@ you encounter in the product. Anything you see, likely was seen by 100s of
 customers and ignored, but we should fix it. You'll find a folder in Google
 Drive where others have written friction logs if you wish to feel inspired.
 
+### Your First Weeks
+
+We've found a pattern that works well for new team members regardless of role:
+
+1. **Use the product.** Set up your machine, get on Discord, and go through our
+   product as a user would. Take notes. Write a friction log. You'll find things
+   you want us to fix — that's the point.
+
+2. **Close the loop.** Land a patch (even just a typo fix), do a review, or the
+   equivalent for your role — write a slide deck, write a doc, send an email.
+   This helps you feel productive, but more importantly it illuminates the real
+   blockers — did we forget to give you access to something? Is our process
+   confusing somewhere? It's just good at surfacing what's broken about
+   onboarding.
+
+3. **Focus on one area.** Your scope will grow over time, but finding your feet
+   commonly comes from focus. Pick one repository or one area of the product,
+   live in it for a while, and let yourself learn all the rest of this new
+   environment (people, schedule, communication, tooling) at the same time.
+
+4. **Find your stride.** There is so much we can do, and so much we will do
+   together. But finding a thing you feel good at, feel like you're contributing
+   to, is paramount. We have far more to do than people to do it, so as soon as
+   you want more to do or want different areas to work on, they're yours for the
+   learning and taking. Most importantly, get into a pattern where you feel
+   productive, you know how to get the help you need, and you feel like you are
+   part of the team.
+
 ## Day to Day Operations
 
-If your used to a remote first way of working most of this section may be known
-to you already. If this is your first role in this way of working please read
-the following sections carefully to get an understanding of how we work on a day
-to day basis. As usual, these are ever changing and evolving as the team grows
-so if you see something that doesn't make sense or could be improved please work
-with your manager to do so.
+If you're used to a remote-first way of working most of this section may be
+known to you already. If this is your first role in this way of working please
+read the following sections carefully to get an understanding of how we work on
+a day to day basis. As usual, these are ever changing and evolving as the team
+grows so if you see something that doesn't make sense or could be improved
+please work with your manager to do so.
+
+### A Typical Day
+
+Work the hours that make you most productive. Out of experience we recommend
+picking something regular for yourself — remote work can be hard without an
+office to set rhythms and we have to figure out how to build them ourselves. The
+team is spread across US time zones (Pacific, Mountain, Central, and Eastern).
+
+For Eric, for example, days typically start with inbox and support, then sales
+or support calls every few days. Your routine will be different — the important
+thing is finding a rhythm that works for you. Most of our communication happens
+via internal text channels (#inc, #eng, #business, etc).
+
+We try to write down what we did for the day in #standup every afternoon. You
+are encouraged to write your own. One of the hard things about remote work is
+that you don't bump into your colleagues at lunch where they get to ask what
+you're up to. Stand-ups are how we stay visible to each other. It's not a
+contest (no one is grading on results). It's a way of recording whether we're
+moving as we'd like, and if not, asking ourselves why and trying to fix the
+systems that produced that outcome. A couple investors tell us they read it too,
+but it's for us more than anyone else.
+
+We have a weekly staff meeting whose purpose is to make sure we're coordinating
+as a team at least weekly. A typical agenda includes announcements, a review of
+last week's action items (self-rated green, yellow, or red), department updates
+from each team, company alignment topics (key decisions, risk callouts, help
+needed), and one goal for the next week per person. One thing we used to use
+stand-ups for on the Flutter team (five-minute stand-ups right after lunch,
+scaling until about 20 people) was to ensure no one got blocked or felt stuck.
+We expect to find something similar for ourselves as we grow.
 
 ### Communication
 
@@ -393,7 +479,6 @@ removing Discord visitors.
 - You should consider muting Discord, except for @mentions, if the amount of
   notifications is bothering you.
 - Current patterns have involved a most-days sync over VC and brief end-of-day
-  <!--- cspell:disable-next-line -->
   updates in #standup. We expect these to evolve over time as we grow.
 
 #### Email & Calendar
@@ -431,6 +516,23 @@ filed by our customers into our projects boards.
 
 For longer term discussions and design documents we typically store and work on
 these in Google Drive.
+
+#### Releasing
+
+We try to ship whenever we have something ready, typically a couple times a
+week. We don't have strict release schedules. Flutter ships hotfixes on
+Wednesdays
+([Hotfixes to the Stable Channel](https://github.com/flutter/flutter/wiki/Hotfixes-to-the-Stable-Channel))
+and we try to roll/release a new Flutter soon after they do. The majority of our
+releases are just because we've developed something new or fixed a customer bug.
+
+We shout about our releases — we blog about them, tweet about them, and announce
+them on Discord. If you have any social presence, you are encouraged to help us
+elevate our wins. The more voices we have sharing what we ship, the further it
+reaches.
+
+It's much more important that we feel productive (and more productive over time)
+than that we ship on some specific day or time.
 
 #### Code
 
