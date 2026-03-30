@@ -39,6 +39,7 @@ words:
   - fsqs
   - github
   - headshot
+  - hotfixes
   - hickson
   - iban
   - incentivized
@@ -66,3 +67,5 @@ words:
   - vessa
   - whistleblower
   - xcarchive
+ignoreWords:
+  - standup

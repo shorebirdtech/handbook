@@ -6,7 +6,7 @@ sidebar:
   order: 2
 ---
 
-<!-- cspell:words CIIAA Menlo hotfixes Hotfixes -->
+<!-- cspell:words CIIAA Menlo -->
 
 Welcome! We're _extremely_ glad you're here.
 
@@ -305,8 +305,7 @@ with you to get you onboarded to the tools you need.
 We're not an "AI company", but we use AI tools all day. Most of us use Claude as
 a core part of our workflow. Just like any other tool or technological change,
 we should be aware of them and use them when they help us deliver more value to
-our customers. If you find an AI tool that makes you more productive, put it on
-your Ramp card. In general, use whatever services make you maximally productive.
+our customers. If you find an AI tool that makes you more productive, bring it up to the team so we can determine if it's something we should invest in company wide or if a one off subscription is better.
 
 ### ISO Compliance
 
@@ -428,8 +427,6 @@ or support calls every few days. Your routine will be different — the importan
 thing is finding a rhythm that works for you. Most of our communication happens
 via internal text channels (#inc, #eng, #business, etc).
 
-<!-- cspell:disable-next-line -->
-
 We try to write down what we did for the day in #standup every afternoon. You
 are encouraged to write your own. One of the hard things about remote work is
 that you don't bump into your colleagues at lunch where they get to ask what
@@ -468,7 +465,6 @@ removing Discord visitors.
 - You should consider muting Discord, except for @mentions, if the amount of
   notifications is bothering you.
 - Current patterns have involved a most-days sync over VC and brief end-of-day
-  <!--- cspell:disable-next-line -->
   updates in #standup. We expect these to evolve over time as we grow.
 
 #### Email & Calendar
