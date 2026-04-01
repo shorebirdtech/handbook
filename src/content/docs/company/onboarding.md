@@ -268,6 +268,8 @@ before signing up.
   manager and they will will be able to add to the "Birder" role which will
   allow access to our internal channels.
   - This can be found at `Server Settings > Roles > Birder > Add Member`.
+- Pretty much all our services use Google SSO for sign-in (except Rippling).
+  When signing up for a new service, use Google SSO when available.
 - We utilize Ramp for our expenses. Work with your manager to determine the
   needed level of permissions and they can help get you setup there.
 
