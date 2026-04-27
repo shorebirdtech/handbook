@@ -16,7 +16,7 @@ ignorePaths:
   - node_modules
   - package-lock.json
   - plugins
-  - '**/*.svg'
+  - "**/*.svg"
 words:
   - ahmedabad
   - angelov
