@@ -236,19 +236,24 @@ but made us question if async-only remote will work. We're still learning.
   being an engineering lead, and leading large teams in the product and
   engineering space.
 
-- Dawn Parzych ([@dparzych](https://x.com/dparzych)), Head of Marketing -- Dawn is
-  a developer-focused marketing leader with expertise in developer tools and
+- Dawn Parzych ([@dparzych](https://x.com/dparzych)), Head of Marketing -- Dawn
+  is a developer-focused marketing leader with expertise in developer tools and
   cloud. She has led major events and marketing initiatives at Cloudflare and
   LaunchDarkly, and has served as a volunteer organizer for DevOpsDays.
 
-- Mac Carrithers ([@ezxmac](https://x.com/ezxmac)), Software Engineer -- Mac brings
-  a product-oriented approach and experience building user-facing dashboards at
-  scale. Excited to help developers focus on building better apps instead of
-  building them twice.
+- Mac Carrithers ([@ezxmac](https://x.com/ezxmac)), Software Engineer -- Mac
+  brings a product-oriented approach and experience building user-facing
+  dashboards at scale. Excited to help developers focus on building better apps
+  instead of building them twice.
 
--  Brandon DeRosier ([@algebrandon]https://x.com/algebrandon), Software Engineer -- Brandon built Impeller, Flutter's backend expanding what you can create using Flutter and Dart, and is now helping to reduce friction in the Flutter release process. 
+- Brandon DeRosier ([@algebrandon]https://x.com/algebrandon), Software Engineer
+  -- Brandon built Impeller, Flutter's backend expanding what you can create
+  using Flutter and Dart, and is now helping to reduce friction in the Flutter
+  release process.
 
-- Nick Weatherley, Software Engineer -- Nick specializes in building high performance cloud architectures and scalable data pipelines. He's focused on delivering a reliable and scalable backend for Shorebird. 
+- Nick Weatherley, Software Engineer -- Nick specializes in building high
+  performance cloud architectures and scalable data pipelines. He's focused on
+  delivering a reliable and scalable backend for Shorebird.
 
 ## Management
 
