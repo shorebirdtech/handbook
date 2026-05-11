@@ -54,17 +54,17 @@ export default defineConfig({
         {
           label: "Company",
           collapsed: true,
-          autogenerate: { directory: "company" },
+          items: [{ autogenerate: { directory: "company" } }],
         },
         {
           label: "Compliance",
           collapsed: true,
-          autogenerate: { directory: "compliance" },
+          items: [{ autogenerate: { directory: "compliance" } }],
         },
         {
           label: "Departments",
           collapsed: true,
-          autogenerate: { directory: "departments", collapsed: true },
+          items: [{ autogenerate: { directory: "departments", collapsed: true } }],
         },
       ],
       plugins: [
