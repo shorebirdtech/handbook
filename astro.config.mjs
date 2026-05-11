@@ -64,7 +64,9 @@ export default defineConfig({
         {
           label: "Departments",
           collapsed: true,
-          items: [{ autogenerate: { directory: "departments", collapsed: true } }],
+          items: [
+            { autogenerate: { directory: "departments", collapsed: true } },
+          ],
         },
       ],
       plugins: [
