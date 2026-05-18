@@ -45,6 +45,19 @@ processes identified in the BIA. These plans include:
 - **Resource Requirements**: Details of resources (staff, equipment, facilities)
   required to execute the plan.
 
+#### Business Continuity Plan Documents
+
+Individual continuity plans have been developed for each critical system
+identified in the BIA. These plans document recovery time objectives, recovery
+point objectives, step-by-step recovery procedures, and responsible personnel
+for each system. Current plans are maintained without our Shared Google Drive.
+This includes:
+
+- Code Push / Update Delivery Infrastructure
+- Shorebird Console
+- Billing & Stripe
+- Internal Tooling & Communications
+
 ### Disaster Recovery Planning
 
 Disaster recovery plans (DRPs) are developed for all critical IT systems and

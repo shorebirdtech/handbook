@@ -12,22 +12,22 @@
     "format:check": "prettier --check ."
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.8",
-    "@astrojs/starlight": "^0.38.2",
+    "@astrojs/check": "^0.9.9",
+    "@astrojs/starlight": "^0.39.2",
     "@astrojs/starlight-tailwind": "^5.0.0",
     "@lavamoat/preinstall-always-fail": "^3.0.0",
-    "astro": "^6.0.8",
+    "astro": "^6.3.3",
     "sharp": "^0.34.5",
-    "starlight-auto-sidebar": "^0.2.0",
-    "tailwindcss": "^4.2.2",
-    "typescript": "^5.9.3"
+    "starlight-auto-sidebar": "^0.4.0",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^6.0.3"
   },
   "devDependencies": {
-    "@lavamoat/allow-scripts": "^4.0.0",
-    "prettier": "^3.8.1",
+    "@lavamoat/allow-scripts": "^5.0.2",
+    "prettier": "^3.8.3",
     "prettier-plugin-astro": "^0.14.1",
-    "prettier-plugin-tailwindcss": "^0.7.2",
-    "starlight-links-validator": "^0.20.1"
+    "prettier-plugin-tailwindcss": "^0.8.0",
+    "starlight-links-validator": "^0.24.0"
   },
   "prettier": {
     "printWidth": 80,

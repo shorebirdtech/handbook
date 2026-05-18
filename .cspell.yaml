@@ -11,8 +11,14 @@ dictionaryDefinitions:
     path: https://raw.githubusercontent.com/verygoodopensource/very_good_dictionaries/main/forbidden.txt
     description: Forbidden spellings
 useGitignore: false
-ignorePaths: [dist, node_modules, plugins]
+ignorePaths:
+  - dist
+  - node_modules
+  - package-lock.json
+  - plugins
+  - "**/*.svg"
 words:
+  - algebrandon
   - ahmedabad
   - angelov
   - arra
@@ -39,11 +45,13 @@ words:
   - fsqs
   - github
   - headshot
+  - hotfixes
   - hickson
   - iban
   - incentivized
   - inclusivity
   - kouzes
+  - lavamoat
   - lockdowns
   - mortem
   - mortems
@@ -64,5 +72,8 @@ words:
   - tsconfigs
   - upstreaming
   - vessa
+  - weatherley
   - whistleblower
   - xcarchive
+ignoreWords:
+  - standup

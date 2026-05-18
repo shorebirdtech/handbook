@@ -229,22 +229,31 @@ but made us question if async-only remote will work. We're still learning.
   working on helping the world stop writing everything twice 20 years, including
   major contributions to WebKit, Safari, Blink and Chrome.
 
-- Tom Arra ([@tom_arra](https://x.com/tom_arra)), Operations Lead -- Tom has
+- Tom Arra ([@tom_arra](https://x.com/tom_arra)), Head of Operations -- Tom has
   been a member of the Flutter community since 2018 and has helped scale
   products and teams at companies like BMW and Very Good Ventures before
   joining. He has over 15 years of experience in the software industry including
   being an engineering lead, and leading large teams in the product and
   engineering space.
 
-- Dawn Parzych ([@dparzych](https://x.com/dparzych)), Marketing Lead -- Dawn is
-  a developer-focused marketing leader with expertise in developer tools and
+- Dawn Parzych ([@dparzych](https://x.com/dparzych)), Head of Marketing -- Dawn
+  is a developer-focused marketing leader with expertise in developer tools and
   cloud. She has led major events and marketing initiatives at Cloudflare and
   LaunchDarkly, and has served as a volunteer organizer for DevOpsDays.
 
-- Mac Carrithers ([@ezxmac](https://x.com/ezxmac)), Software Engineer -- brings
-  a product-oriented approach and experience building user-facing dashboards at
-  scale. Excited to help developers focus on building better apps instead of
-  building them twice.
+- Mac Carrithers ([@ezxmac](https://x.com/ezxmac)), Software Engineer -- Mac
+  brings a product-oriented approach and experience building user-facing
+  dashboards at scale. Excited to help developers focus on building better apps
+  instead of building them twice.
+
+- Brandon DeRosier ([@algebrandon]https://x.com/algebrandon), Software Engineer
+  -- Brandon built Impeller, Flutter's backend expanding what you can create
+  using Flutter and Dart, and is now helping to reduce friction in the Flutter
+  release process.
+
+- Nick Weatherley, Software Engineer -- Nick specializes in building high
+  performance cloud architectures and scalable data pipelines. He's focused on
+  delivering a reliable and scalable backend for Shorebird.
 
 ## Management
 

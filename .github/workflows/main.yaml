@@ -19,7 +19,7 @@ jobs:
       - name: 📚 Git Checkout
         uses: actions/checkout@v6
 
-      - name: 📦 Build Docs
+      - name: 📦 Build Handbook
         uses: ./.github/actions/astro_site
 
   deploy:
@@ -36,7 +36,7 @@ jobs:
     steps:
       - name: 🚀 Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
   spell-check:
     name: 🔤 Spell Check
