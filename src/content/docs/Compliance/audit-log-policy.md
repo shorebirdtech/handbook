@@ -29,7 +29,7 @@ occur on the platform.
    dedicated audit log datastore
 
 3. The dedicated audit log datastore must have sufficient storage capacity to
-   retain audit logs for the required duration.
+   retain audit logs for at minimum of 12 calendar months.
 
 4. All audit logs must be handled according to any Privacy regulation that
    covers the data collected by the audit log system.
