@@ -36,3 +36,9 @@ occur on the platform.
 
 5. High-risk audit events must be regularly reviewed and any indications of a
    security incident identified in accordance with the Incident Response Policy.
+
+### Review Log
+
+| **Review Date** | **Approver** |
+| --------------- | ------------ |
+| June 10, 2026   | Eric Seidel  |
