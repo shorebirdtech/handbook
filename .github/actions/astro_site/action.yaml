@@ -34,3 +34,4 @@ runs:
       with:
         path: ${{ inputs.working_directory }}
         node-version: ${{ inputs.node_version }}
+        cache: false

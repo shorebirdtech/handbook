@@ -1,7 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
-import starlightAutoSidebar from "starlight-auto-sidebar";
 
 const site = "https://handbook.shorebird.dev/";
 
@@ -65,12 +64,35 @@ export default defineConfig({
           label: "Departments",
           collapsed: true,
           items: [
-            { autogenerate: { directory: "departments", collapsed: true } },
+            { label: "Engineering", link: "/departments/engineering/" },
+            { label: "Marketing", link: "/departments/marketing/" },
+            {
+              label: "Operations",
+              collapsed: true,
+              items: [
+                { label: "Overview", link: "/departments/operations/" },
+                { label: "Finance", link: "/departments/operations/finance/" },
+                {
+                  label: "Process Calendar",
+                  link: "/departments/operations/process-calendar/",
+                },
+                {
+                  label: "Tools/Processes",
+                  collapsed: true,
+                  items: [
+                    {
+                      label: "Mailbox",
+                      link: "/departments/operations/tools-processes/mailbox/",
+                    },
+                  ],
+                },
+              ],
+            },
+            { label: "Sales", link: "/departments/sales/" },
           ],
         },
       ],
       plugins: [
-        starlightAutoSidebar(),
         starlightLinksValidator({
           errorOnFallbackPages: false,
           errorOnInconsistentLocale: true,
