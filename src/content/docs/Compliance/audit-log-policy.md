@@ -26,7 +26,7 @@ occur on the platform.
    d. Major application lifecycle events (crashes, startup, shutdown)
 
 2. All logs must be securely transmitted from the production system to a
-   dedicated audit log datastore
+   dedicated tamper evident audit log datastore.
 
 3. The dedicated audit log datastore must have sufficient storage capacity to
    retain audit logs for at minimum of 12 calendar months.
