@@ -30,7 +30,8 @@ runs:
       working-directory: ${{ inputs.working_directory }}
 
     - name: 📦 Build Site
-      uses: withastro/action@v5
+      uses: withastro/action@v6
       with:
         path: ${{ inputs.working_directory }}
         node-version: ${{ inputs.node_version }}
+        cache: false
