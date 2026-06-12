@@ -78,35 +78,3 @@ other Flutter Discords which might be of use:
 We try to participate in various Flutter community events and conferences. We
 are willing and able to sponsor events. Please reach out to
 marketing@shorebird.dev if interested.
-
-The list of events below include ones that we have participated in and/or
-sponsored.
-
-### Upcoming Events
-
-- DevFest Ahmedabad, Ahmedabad, November 15, 2025
-- FlutterCon, Bangalore, December 14, 2025
-
-### Past Events
-
-- FlutterBytes, Nigeria, October 31 - November 1, 2025
-- FlutterCon Europe 2025, Berlin, September 24-26
-- FlutterCon USA 2025, New York, June 25-26 2025
-- Google Cloud Next 2025, Las Vegas, April 9-11 2025
-- Flutteristas Conference 2025, Online, April 5 2025
-- Flutter Conf LatAM 2024, Arequipa, Peru, October 29-30 2024
-- FlutterCon USA 2024, New York, September 19-20 2024
-- Observable Flutter #46, Online, June 27 2024
-  - [Recording](https://www.youtube.com/watch?v=HVRRUY0f0ko)
-- Full Stack Flutter 2024, Online, May 28-29 2024
-  - [Recording](https://www.youtube.com/watch?v=LPS0V3RbxDg)
-  - [Slides](https://docs.google.com/presentation/d/1CLHTg94HIFZ41mj9EeQ-wW7bbMXSdoG4LSBNiUpFO20/edit)
-- Google I/O 2024 Meetup, Mountain View
-- Sao Paulo Flutter Meetup April 2024
-  - [Slides](https://docs.google.com/presentation/d/1cr80azyQqhZSP6UfHJG6w1ZncTWPSpsumjUOqv3DBx0/edit)
-- FlutterCon EU 2023
-  - [Slides](https://docs.google.com/presentation/d/1MlJut_BIdqY6VjR-ota5pZ2lGw7ROWX-wRwTERKiRnQ/edit)
-- Flutter & Friends 2023
-  - [Slides](https://github.com/felangel/flutter_friends_talk)
-- Flutter Chicago August 2023
-- Google I/O 2023 Meetup
