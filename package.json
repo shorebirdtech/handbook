@@ -16,8 +16,8 @@
     "@astrojs/starlight": "^0.40.0",
     "@astrojs/starlight-tailwind": "^5.0.0",
     "@lavamoat/preinstall-always-fail": "^3.0.0",
-    "astro": "^6.4.4",
-    "sharp": "^0.35.1",
+    "astro": "^6.4.8",
+    "sharp": "^0.35.2",
     "starlight-auto-sidebar": "^0.4.0",
     "tailwindcss": "^4.3.1",
     "typescript": "^6.0.3"
