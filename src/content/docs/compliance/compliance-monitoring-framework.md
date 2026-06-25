@@ -30,7 +30,7 @@ specific signal we track to assess whether that policy's controls are working.
 | Business continuity       | [Business Continuity and Disaster Recovery Policy](/compliance/business-continuity-and-disaster-recovery/) | BCP/DR test completion; recovery objectives met during tests                                            |
 | HR security               | [Human Resource Security Policy](/compliance/hr-security-policy/)                                          | % of onboarding/offboarding checklists completed on schedule; security training completion rate         |
 | Secure development        | [Secure Development Policy](/compliance/secure-development/)                                               | % of releases with completed security review; open findings from code review                            |
-| Internal audit            | [Internal Audit Program](/compliance/internal-audit-program/)                                              | Annual audit completed on schedule; open nonconformities resolved within SLA                            |
+| Internal audit            | [Internal Audit Program](/compliance/internal-audit-program/)                                              | Annual audit completed on schedule; open non-conformities resolved within SLA                           |
 
 ## Monitoring Cadence
 
