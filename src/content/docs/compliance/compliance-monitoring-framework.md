@@ -69,15 +69,15 @@ Monitoring results are recorded in our compliance platform. Each completed
 monitoring activity should capture: the date, method used, person responsible,
 result against target, and any findings or exceptions.
 
-Findings that indicate a control gap or failure are logged as nonconformities
+Findings that indicate a control gap or failure are logged as non-conformities
 per the [Compliance Policy](/compliance/compliance-policy/) and tracked to
-resolution. Open nonconformities are reviewed at the annual management review.
+resolution. Open non-conformities are reviewed at the annual management review.
 
 ## Management Review
 
 The Leadership team reviews an aggregated summary of monitoring results at least
-annually. The review covers performance trends, open nonconformities, changes in
-risk posture, and any proposed updates to controls or objectives.
+annually. The review covers performance trends, open non-conformities, changes
+in risk posture, and any proposed updates to controls or objectives.
 
 ## Policy Review and Maintenance
 
