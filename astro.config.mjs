@@ -1,12 +1,16 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
+import tailwindcss from "@tailwindcss/vite";
 
 const site = "https://handbook.shorebird.dev/";
 
 // https://astro.build/config
 export default defineConfig({
   site,
+  vite: {
+    plugins: [tailwindcss()],
+  },
   integrations: [
     starlight({
       title: "Shorebird Handbook",

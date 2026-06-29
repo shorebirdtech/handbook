@@ -1,6 +1,5 @@
 @import "tailwindcss";
-
-@plugin '@astrojs/starlight-tailwind';
+@import "@astrojs/starlight-tailwind";
 
 @theme {
   --color-accent-200: #8bd8de;
