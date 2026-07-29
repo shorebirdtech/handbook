@@ -52,8 +52,10 @@ internal team documentation.
 
 ### Sharing and Communication
 
-Relevant threat intelligence findings will be shared with the team via a
-designated Discord channel. The monthly review summary should include:
+Relevant threat intelligence findings will be shared with the team via the
+`#security-announcements` Discord channel, as described in the Security
+Communication section of the Information Security Policy. The monthly review
+summary should include:
 
 - A brief summary of sources checked
 - Any notable findings and their assessed relevance to Code Town
@@ -99,6 +101,7 @@ Reviews must consider changes in the regulatory landscape.
 
 ### Review Log
 
-| Review Date  | Approver    |
-| ------------ | ----------- |
-| June 9, 2026 | Eric Seidel |
+| Review Date   | Approver    |
+| ------------- | ----------- |
+| July 29, 2026 | Eric Seidel |
+| June 9, 2026  | Eric Seidel |
