@@ -116,9 +116,10 @@ Code Town maintains multiple channels for internal security communication so
 that all employees stay informed about security practices, current threats, and
 compliance obligations:
 
-- Security hub: This handbook is the canonical source for security policies,
-  standards, and procedures. Every policy in the Compliance section is published
-  here and is available to all employees and contractors.
+- Security hub: Security policies, standards, and procedures are authored and
+  version controlled in this handbook and kept in sync with the Oneleet portal,
+  so employees and contractors can review them in either location. Employees
+  review and sign the policies that apply to their role in Oneleet.
 - Security announcements: The `#security-announcements` Discord channel carries
   security alerts, advisories, incident notifications, and notices of policy
   changes. All employees and contractors are members.
@@ -130,7 +131,7 @@ The Security Officer (or designated security-responsible employee) posts a
 security update to `#security-announcements` on at least a monthly cadence. Each
 update covers:
 
-- Changes to security policies published in this handbook.
+- Changes to security policies since the previous update.
 - Emerging threats relevant to Code Town's stack, drawn from the review
   described in the Threat Intelligence Policy.
 - Changes to compliance obligations that affect employee responsibilities.
