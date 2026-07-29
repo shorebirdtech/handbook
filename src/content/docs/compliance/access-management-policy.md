@@ -46,11 +46,21 @@ In addition, the following access control commitments are applicable:
 User registration and de-registration follow formal processes. Role-Based Access
 Control (RBAC) or a similar system is used for all resource access.
 
-Access to critical systems requires approval from both the user's manager and a
-security team member. User access reviews occur annually or after role changes.
-Unneeded access is revoked promptly.
+All new access is granted through a formal request process. Access requests are
+submitted via a dedicated #access-requests Discord channel and must be endorsed
+by at least one authorized approver before access is provisioned.
 
-Upon termination, all access is revoked within 24 hours or one business day.
+Approval authority is defined as follows:
+
+- Standard (non-critical) access: requires approval from the requester's
+  manager.
+- Critical systems and production/administrative access: requires approval from
+  both the requester's manager and a senior member of the engineering team.
+
+All access is granted on the principle of least privilege, limited to the
+minimum necessary for the individual's role. User access reviews occur annually
+or after role changes, and unneeded access is revoked promptly. Upon
+termination, all access is revoked within 24 hours or one business day.
 
 ### Shared Secrets Management
 
@@ -97,4 +107,5 @@ Reviews must consider changes in the regulatory landscape.
 
 | **Review Date**   | **Approver** |
 | ----------------- | ------------ |
+| July 29, 2026     | Eric Seidel  |
 | November 25, 2025 | Eric Seidel  |
