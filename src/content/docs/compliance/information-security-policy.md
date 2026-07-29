@@ -55,6 +55,9 @@ Code Town will implement and maintain organizational controls by:
   and standards to protect information.
 - Documented procedures: Maintaining clear procedures for security incident
   management, business continuity, and disaster recovery.
+- Security communication: Keeping employees informed of security practices,
+  emerging threats, and compliance obligations through the channels and cadence
+  described in Security Communication below.
 
 ### People Controls
 
@@ -107,6 +110,37 @@ assets by:
 - Backup and recovery: Conducting regular backups of critical data and testing
   recovery procedures to ensure business continuity.
 
+### Security Communication
+
+Code Town maintains multiple channels for internal security communication so
+that all employees stay informed about security practices, current threats, and
+compliance obligations:
+
+- Security hub: Security policies, standards, and procedures are authored and
+  version controlled in this handbook and kept in sync with the Oneleet portal,
+  so employees and contractors can review them in either location. Employees
+  review and sign the policies that apply to their role in Oneleet.
+- Security announcements: The `#security-announcements` Discord channel carries
+  security alerts, advisories, incident notifications, and notices of policy
+  changes. All employees and contractors are members.
+- Direct notification: For findings that require prompt action, the Security
+  Officer notifies affected team members directly and initiates response per the
+  Incident Response Policy.
+
+The Security Officer (or designated security-responsible employee) posts a
+security update to `#security-announcements` on at least a monthly cadence. Each
+update covers:
+
+- Changes to security policies since the previous update.
+- Emerging threats relevant to Code Town's stack, drawn from the review
+  described in the Threat Intelligence Policy.
+- Changes to compliance obligations that affect employee responsibilities.
+- Lessons learned from any security incident since the previous update.
+
+Updates prioritize material reflecting recent incidents, newly published or
+revised policies, and changes in assessed risk. Announcements remain in the
+channel history, which serves as the record of security communication.
+
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
@@ -130,4 +164,5 @@ Reviews must consider changes in the regulatory landscape.
 
 | **Review Date**   | **Approver** |
 | ----------------- | ------------ |
+| July 29, 2026     | Eric Seidel  |
 | November 25, 2025 | Eric Seidel  |
