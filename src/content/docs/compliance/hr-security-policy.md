@@ -22,7 +22,31 @@ practices and regulatory requirements.
 ### Recruitment and Onboarding
 
 Appropriate reference checks on all prospective employees, contractors, and
-third parties who will have access to Code Town’s data or systems are conducted.
+third parties who will have access to Code Town's data or systems are conducted.
+
+Reference checks verify a candidate's qualifications, experience, and
+suitability before access to Code Town's data or systems is granted, and follow
+this process:
+
+- **Owner.** The hiring manager owns the reference check for their candidate,
+  and may delegate the outreach to another employee involved in the hiring
+  process.
+- **Timing.** Reference checks are performed late in the hiring process, after
+  final interviews and before a binding offer. Any offer made beforehand is
+  contingent on a satisfactory result, and access to company data and systems is
+  not provisioned until the check is complete.
+- **Method.** The hiring manager asks the candidate for at least two
+  professional references, contacts each by phone or email, confirms their
+  relationship to the candidate, and works through the standard Reference Check
+  Question Template.
+- **Records.** The reference contacted, date of contact, and a summary of
+  responses are recorded in the candidate's hiring file and retained in line
+  with our
+  [Data Management and Retention Policy](https://handbook.shorebird.dev/compliance/data-management-retention-policy/).
+- **Exceptions.** Where a standard reference check is impractical (for example,
+  confidential prior work or the re-hire of a former employee), the CEO may
+  approve an alternative form of verification, documented in the candidate's
+  hiring file.
 
 Information security roles and responsibilities are clearly defined,
 communicated, and maintained for all employees and contractors.
@@ -75,6 +99,7 @@ Reviews must consider changes in the regulatory landscape.
 
 | **Review Date**   | **Approver** |
 | ----------------- | ------------ |
+| July 31, 2026     | Eric Seidel  |
 | November 25, 2025 | Eric Seidel  |
 
 ## Appendix A: Process for Disciplinary Process
