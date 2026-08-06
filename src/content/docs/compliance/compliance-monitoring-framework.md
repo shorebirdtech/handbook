@@ -75,9 +75,55 @@ resolution. Open non-conformities are reviewed at the annual management review.
 
 ## Management Review
 
-The Leadership team reviews an aggregated summary of monitoring results at least
-annually. The review covers performance trends, open non-conformities, changes
-in risk posture, and any proposed updates to controls or objectives.
+The Leadership Team conducts a formal management review of the ISMS at least
+annually. The review assesses whether the ISMS remains suitable, adequate, and
+effective, and stays aligned with Code Town's objectives, risks, and regulatory
+obligations. Additional reviews may be convened when a significant change occurs
+— for example a major security incident, a substantial change in risk, or a new
+regulatory requirement.
+
+The review is chaired by the CEO.
+
+### Review Inputs
+
+| Input                                                      | Source                                                                                          |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Status of actions from previous management reviews         | Action log in the previous review minutes                                                       |
+| Monitoring and measurement results                         | [What We Monitor](#what-we-monitor) and [Recording Results](#recording-results) above           |
+| Internal and external audit results                        | [Internal Audit Program](https://handbook.shorebird.dev/compliance/internal-audit-program/)     |
+| Non-conformities and corrective actions                    | [Compliance Policy](https://handbook.shorebird.dev/compliance/compliance-policy/)               |
+| Risk assessment and risk treatment status                  | [Risk Management Policy](https://handbook.shorebird.dev/compliance/risk-manangement-policy/)    |
+| Security incidents since the last review                   | [Incident Response Policy](https://handbook.shorebird.dev/compliance/incident-response-policy/) |
+| Fulfilment of information security objectives              | Objectives tracked in the compliance platform                                                   |
+| Changes in internal/external issues and interested parties | Compliance Register and Leadership Team input                                                   |
+| Feedback from interested parties                           | Customer, partner, and employee feedback                                                        |
+| Opportunities for continual improvement                    | Raised by any participant during the review                                                     |
+
+### Review Outputs
+
+The review produces documented decisions and actions covering, at minimum:
+
+- Opportunities for continual improvement of the ISMS
+- Any changes needed to the ISMS, including policies, controls, and objectives
+- Resource needs and allocation decisions
+- Changes to the risk treatment plan, where applicable
+
+Each output is recorded as a decision or action item with an owner and due date,
+tracked to completion in our issue tracker, and carried forward to the next
+review if still open.
+
+### Process
+
+1. **Preparation** — The ISMS Manager compiles the inputs above and circulates
+   the agenda and pre-read at least five business days before the meeting.
+2. **Conduct** — The Leadership Team reviews each input and agrees decisions and
+   actions.
+3. **Record** — Minutes are captured and stored in Google Drive.
+4. **Approve** — The minutes are approved by the review chair.
+5. **Track** — Actions are tracked to completion; open items are carried to the
+   next review.
+6. **Retain** — Minutes are retained as ISMS evidence for a minimum of three
+   years. Completed minutes are an internal document and are not published here.
 
 ## Policy Review and Maintenance
 
