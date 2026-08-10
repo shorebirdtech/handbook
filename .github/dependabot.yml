@@ -9,7 +9,20 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    open-pull-requests-limit: 10
+    labels:
+      - "dependencies"
+    # Wait for a release to age before we ever see the PR, so the ecosystem has
+    # time to flag a broken or compromised version first. Security updates
+    # bypass the cooldown automatically.
+    cooldown:
+      default-days: 5
     groups:
+      # Actions are referenced by floating major tags (e.g. @v6), which already
+      # track minor/patch silently. We deliberately do NOT request minor/patch
+      # updates here: doing so makes Dependabot pin the ref (@v6 -> @v6.4.0)
+      # instead of leaving the floating tag alone. We only want a PR when a new
+      # major ships.
       gha-deps:
         patterns:
           - "*"
@@ -17,7 +30,22 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    open-pull-requests-limit: 10
+    labels:
+      - "dependencies"
+    cooldown:
+      default-days: 5
+      semver-major-days: 14
+      semver-minor-days: 7
+      semver-patch-days: 3
     groups:
+      # Minor/patch only, so a major arrives as its own PR instead of riding
+      # along in the group. A single incompatible major (e.g. typescript 7 vs
+      # the @astrojs/check peer range) otherwise fails `npm install` and blocks
+      # every other update in the group.
       npm-deps:
         patterns:
           - "*"
+        update-types:
+          - "minor"
+          - "patch"
