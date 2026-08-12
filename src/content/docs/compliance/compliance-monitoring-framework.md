@@ -94,7 +94,7 @@ The review is chaired by the CEO.
 | Non-conformities and corrective actions                    | [Compliance Policy](https://handbook.shorebird.dev/compliance/compliance-policy/)               |
 | Risk assessment and risk treatment status                  | [Risk Management Policy](https://handbook.shorebird.dev/compliance/risk-manangement-policy/)    |
 | Security incidents since the last review                   | [Incident Response Policy](https://handbook.shorebird.dev/compliance/incident-response-policy/) |
-| Fulfilment of information security objectives              | Objectives tracked in the compliance platform                                                   |
+| Fulfillment of information security objectives             | Objectives tracked in the compliance platform                                                   |
 | Changes in internal/external issues and interested parties | Compliance Register and Leadership Team input                                                   |
 | Feedback from interested parties                           | Customer, partner, and employee feedback                                                        |
 | Opportunities for continual improvement                    | Raised by any participant during the review                                                     |
