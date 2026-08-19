@@ -19,68 +19,43 @@ right call.
 ### Opportunity Cost
 
 We're small, and not yet profitable, so it's important we be frugal. But at this
-phase, our largest expense almost never shows up on an invoice. It's the feature
-we didn't build, the customer we didn't reach, the month we spent on something
-that turned out not to matter.
+phase, our largest expense is time / opportunity cost. Not all of the things we
+try work out, but we try, learn and keep trying until we find the things that
+do.
 
-We believe the future is bigger than the past. There are far more developers who
-should be using Shorebird than are using it today, and the distance between
-where we are and where we could be is enormous. Nearly all of the value of this
-company is still ahead of us. That belief is what should shape your spending.
+The future is bigger than the past. There are far more businesses who should be
+using Shorebird than are using it today, and the distance between where we are
+and where we could be is enormous. Nearly all of the value of this company is
+still ahead of us.
 
-So the question to ask is rarely "can we afford this?" It's "is this the thing
-most likely to grow the company right now?" A thousand dollars spent on the
-wrong thing costs us a thousand dollars. A week spent on the wrong thing costs
-us the week and everything the right thing would have earned in it. The second
-number is almost always the bigger one.
+The question to ask is rarely "can we afford this?" It's "is this the thing most
+likely to grow the company right now?" A thousand dollars spent on the wrong
+thing costs us a thousand dollars. A week spent on the wrong thing costs us the
+week and everything the right thing would have earned in it. The second number
+is almost always the bigger one.
 
-Most of the bets we will make are wrong. Hopefully all of them we will learn
-from, and over time that learning will help us find the right ones.
-
-The rest of this page is policies to help us use the cash we have from investors
-most impactfully, and arithmetic for the costs you can see. Don't let it
-distract you from the one you can't.
+The rest of this page is policies to help us use the cash we have from customers
+and investors most impactfully, and arithmetic for the dollar costs we can
+measure.
 
 ### Fixed Costs and Scaling Costs
 
-Not every dollar saved is worth the same. Consider two ways to spend the same
-day of engineering:
+Scaling costs matter more than fixed costs. Two ways to spend the same day of
+engineering, each saving $1,000/month today:
 
-- Tuning infrastructure to save $30/month in cloud spend takes nearly three
-  years to break even.
-- Cutting $1,000/month off a cost that grows with our customer count pays for
-  itself in a month and returns 12x in the first year.
+- Tuning our build infrastructure saves $12,000 this year, and $12,000 again
+  next year.
+- Cutting the same $1,000/month off a cost that grows with our customer count
+  saves $1,000 in January and two or three times that by December.
 
-Same day of work. They are not the same decision, and the difference matters
-more than the size of either number.
+Same day of work, same line on this month's invoice. The second cut a slope
+instead of a number.
 
-Some of our costs are fixed. We spend ~$2,000/month on build infrastructure.
-We'll probably spend ~$2,000/month a year from now. It doesn't move much with
-the size of the team, and it doesn't move at all with the number of customers we
-have. Cutting a fixed cost saves us a number, once.
-
-Other costs scale with customers: storage and patch delivery. Those have a
-multiplier attached to them. Cutting one doesn't just lower this month's bill,
-it lowers what every future customer costs us, and the savings grow as we grow.
-These are much more impactful.
-
-So a day spent shaving 10% off a per-customer cost is almost always worth more
-than a day spent on the fixed side, even when this month's dollar savings look
-identical on the invoice. Before deciding whether something is worth your time,
-look at whether the line is flat or climbing.
-
-Storage is our clearest climbing line. It's our dominant infrastructure cost
-today, and it's the one that compounds: every byte we pay to store this month,
-we pay for again next month, and every month after that. Adding a gigabyte isn't
-a purchase, it's a subscription. Deleting one pays us back every month forever,
-which makes retention policies and cleanup work worth considerably more than the
-first month's savings suggest.
-
-Egress is the counterexample. GCP charges real money to serve bytes, so we serve
-the large majority of ours through Cloudflare, where egress is effectively free.
-That choice is why egress doesn't show up as a cost that shapes our decisions,
-and it's worth remembering before anyone moves delivery back onto a metered
-path.
+Storage is our biggest scaling cost, and it compounds. Adding a gigabyte isn't a
+purchase, it's a subscription: we pay for it again every month until we delete
+it. Egress would be the other big one, but we serve the large majority of ours
+through Cloudflare where it's free, which is worth remembering before anyone
+moves delivery onto a metered path.
 
 ## Spending Guidelines
 
@@ -165,10 +140,11 @@ traveled to Chicago, San Francisco, Brooklyn, Phoenix and Austin.
 As a rough guideline, we expect flights to cost up to $2,500 USD for
 international travel and up to $700 USD for domestic travel. These are
 guidelines, not limits. Book what makes sense for the trip: for your own health,
-for your sleep, and for being useful when you land. Your time on the trip is
-typically the most expensive part of the trip. A week together costs the company
-about $5,000 of your time, so a few hundred dollars that gets you there rested
-isn't a close call.
+for your sleep, and for being useful when you land.
+
+Domestically the fare is about what the travel time costs. Six hours in the air
+is $600 of your time against a $700 ticket, so money and hours trade roughly one
+for one. Take the nonstop.
 
 If your flight is going to cost meaningfully more than that, just give Eric a
 heads up before booking. This isn't for approval, it's so no one is surprised
