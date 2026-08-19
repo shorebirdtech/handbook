@@ -12,59 +12,33 @@ We will pay for the items you need to excel at your work. We will provide you
 equipment when you start and you will also be provided a company card through
 which to order things needed to advance the company.
 
-In most cases, your time is by far the companies largest expense. So if you're
-spending <1k to advance the company more than a day forward, that's likely the
-right call.
+This page talks about time as well as money, because they're related. Your time
+costs money, and our cash on hand buys us runway, which is time. We're all
+trying to move the company towards our mission. Your time is roughly $1k a day,
+so if you're spending <1k to advance the company more than a day's work forward,
+that's likely the right call.
 
 ### Opportunity Cost
 
-We're small, and not yet profitable, so it's important we be frugal. But at this
-phase, our largest expense is time / opportunity cost. Not all of the things we
-try work out, but we try, learn and keep trying until we find the things that
-do.
+We're not yet profitable, so it's important we be frugal. But at this phase, our
+largest expense is time / opportunity cost.
 
-The future is bigger than the past. There are far more businesses who should be
-using Shorebird than are using it today, and the distance between where we are
-and where we could be is enormous. Nearly all of the value of this company is
-still ahead of us.
+The question to ask is rarely "can we afford this?" It's "is this helping us
+move faster?" We doubled last year, and intend to do the same this year. That's
+also why our payback horizons are months, not years: something that breaks even
+two years out is being sized against a company we won't be by then.
 
-The question to ask is rarely "can we afford this?" It's "is this the thing most
-likely to grow the company right now?" A thousand dollars spent on the wrong
-thing costs us a thousand dollars. A week spent on the wrong thing costs us the
-week and everything the right thing would have earned in it. The second number
-is almost always the bigger one.
-
-The rest of this page is policies to help us use the cash we have from customers
-and investors most impactfully, and arithmetic for the dollar costs we can
-measure.
-
-### Fixed Costs and Scaling Costs
-
-Scaling costs matter more than fixed costs. Two ways to spend the same day of
-engineering, each saving $1,000/month today:
-
-- Tuning our build infrastructure saves $12,000 this year, and $12,000 again
-  next year.
-- Cutting the same $1,000/month off a cost that grows with our customer count
-  saves $1,000 in January and two or three times that by December.
-
-Same day of work, same line on this month's invoice. The second cut a slope
-instead of a number.
-
-Storage is our biggest scaling cost, and it compounds. Adding a gigabyte isn't a
-purchase, it's a subscription: we pay for it again every month until we delete
-it. Egress would be the other big one, but we serve the large majority of ours
-through Cloudflare where it's free, which is worth remembering before anyone
-moves delivery onto a metered path.
+The rest of this page is policies to help us get the most out of what we do
+spend, and arithmetic for the dollar costs we can measure.
 
 ## Spending Guidelines
 
-1. Spend company money like it is your own money. No, really. We hired you
-   because we believe you make good decisions. That includes with money.
+1. Spend company money like it is your own money. We hired you because we
+   believe you make good decisions. That includes with money.
 2. You don't have to ask permission before making purchases in the interest of
    the company. If you're in doubt, just ping Eric.
-3. It is generally easiest and fastest for you to make any purchases for office
-   supplies yourself and expense them.
+3. It is easiest and fastest for you to buy what you need on the card you have
+   and expense it.
 4. You may privately use company property, a laptop for example, to check your
    private e-mails or watch a movie as long as it does not violate the law, harm
    the company, or interfere with Intellectual Property.
@@ -133,80 +107,68 @@ USD (or equivalent local currency) per month. This is based on
 
 We try to gather for a week, 2-4 times a year as a whole company. For such
 gatherings, of course, the company covers all travel expenses. So far we've
-traveled to Chicago, San Francisco, Brooklyn, Phoenix and Austin.
+traveled to Chicago, Palo Alto, Brooklyn, Phoenix, Austin and Orlando.
 
-### Flight Guidelines
+### Flights
 
-As a rough guideline, we expect flights to cost up to $2,500 USD for
-international travel and up to $700 USD for domestic travel. These are
-guidelines, not limits. Book what makes sense for the trip: for your own health,
-for your sleep, and for being useful when you land.
+The test for most spending is whether it helps us move faster. Flying nicer
+rarely does. The exception is long-haul international, especially overnight or
+when you're working the next day, where premium economy can buy a more
+functional first day. Beyond that, if flight class is important to you, the
+economy fare goes on the company card and the upgrade on yours.
 
-Domestically the fare is about what the travel time costs. Six hours in the air
-is $600 of your time against a $700 ticket, so money and hours trade roughly one
-for one. Take the nonstop.
-
-If your flight is going to cost meaningfully more than that, just give Eric a
-heads up before booking. This isn't for approval, it's so no one is surprised
-when the charge shows up.
+In practice most bought-ahead flights are under $700 for domestic and under
+$2,500 for international. Those are rough guides, not budgets to hit. Book what
+makes sense for the trip: for your own health, for your sleep, for being useful
+when you land, and moving us all forward.
 
 ### Tips for booking travel
 
-- Use your company card for all travel expenses when possible.
-- Rental cars are rarely worth it. Uber/Lyft is usually cheaper/better (even for
-  1+ hour rides).
-- Book hotels and flights _directly_ with the hotel/airline. It's usually
-  cheaper and you get better service. The various booking sites are sometimes
-  cheaper but non-refundable. (Most are effectively SEO/marketing companies that
-  take a majority cut of the booking and result in the hotel/airline not being
-  able to adjust your reservation or refund you since they themselves only got a
-  small cut of the booking.)
-- Book refundable flights. It's usually only $100 more for US travel and allows
-  us to adjust plans without losing the entire ticket cost.
-- Airbnb can often get a nice place for cheaper than individual hotel rooms if
-  you're interested in sharing a house with others.
+- Use your company card for all travel expenses when possible. For company trips
+  we will also have a budget associated in Ramp so we can see our overall spend
+  as a group.
+- Rental cars are rarely worth it. Uber/Lyft is usually better and cheaper (even
+  for 1+ hour rides).
+- Book hotels and flights _directly_ with the hotel/airline. It's better service
+  and usually cheaper. The various booking sites are sometimes cheaper but
+  non-refundable. (Most are effectively SEO/marketing companies that take a
+  majority cut of the booking and result in the hotel/airline not being able to
+  adjust your reservation or refund you since they themselves only got a small
+  cut of the booking.)
+- Book refundable flights. It's usually only $100 more for domestic travel and
+  allows you to adjust plans without losing the entire ticket cost.
 
 ## What Things Cost
 
 Some spending decisions compare things that aren't obviously comparable: dollars
-of storage against dollars of egress against hours of engineering time against
-seats of a product we sell. It's hard to reason about those in the abstract, so
-here they all are in the same unit.
+of storage against dollars of egress against hours of employee time against
+accounts of a product we sell. It's hard to reason about those in the abstract,
+so here they all are in the same unit.
 
-### What $1,000 Buys
+### What $1,000 is worth
 
 | Thing                | $1,000                                |
 | -------------------- | ------------------------------------- |
 | Employee time        | 10 hours, ~1 workday                  |
 | Legal                | 2 hours with our contract lawyer      |
-| Patch installs       | 2.5 million (at our Pro overage rate) |
 | Standard storage     | ~50 TiB for a month                   |
 | GCP egress           | ~11 TiB                               |
-| Cloudflare egress    | Infinite (Free for non-China)         |
+| Cloudflare egress    | Free (outside China)                  |
 | Shorebird Pro        | 50 accounts for one month             |
 | Shorebird Business   | 2.5 accounts for one month            |
 | Shorebird Enterprise | ~1 basic account for one month        |
+| Patch installs       | 2.5 million (at our Pro overage rate) |
 
-US employee time costs about ~$100 per hour, so a thousand dollars is roughly a
-day of your time. (Slightly more than that all-up, but close enough.)
+US employee time costs about $100 per hour. (Slightly more than that all-up, but
+$100 is easy math.) So when you're looking at a $2,000 purchase, the question
+isn't "is $2,000 a lot of money?" It's "would I trade two days of work for
+this?" Framed that way, most decisions answer themselves:
 
-| Eng time | Roughly  |
-| -------- | -------- |
-| 1 hour   | $100     |
-| 1 day    | $1,000   |
-| 1 week   | $5,000   |
-| 1 month  | $20,000  |
-| 1 year   | $240,000 |
-
-So when you're looking at a $2,000 purchase, the question isn't "is $2,000 a lot
-of money?" It's "would I trade two days of engineering for this?" Framed that
-way, most decisions answer themselves:
-
-- A $2,000 machine that makes your builds 10 minutes faster pays for itself in
+- A $2,000 machine that saves you 10 minutes, 5 times a day pays for itself in
   about a month.
-- Two engineers spending a week hand-rolling something to avoid a $5,000/year
-  vendor is a bad trade, twice over.
 - A $50/month tool that saves you an hour a month pays for itself twice over.
+- Two people spending a week to avoid a $5,000/year vendor takes two years to
+  break even.
 
 ### Caveats and Sources
 
