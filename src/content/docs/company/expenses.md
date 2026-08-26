@@ -29,7 +29,7 @@ also why our payback horizons are months, not years: something that breaks even
 two years out is being sized against a company we won't be by then.
 
 The rest of this page is policies to help us get the most out of what we do
-spend, and arithmetic for the dollar costs we can measure.
+spend.
 
 ## Spending Guidelines
 
