@@ -33,22 +33,28 @@ spend, and arithmetic for the dollar costs we can measure.
 
 ## Spending Guidelines
 
-1. Spend company money like it is your own money. We hired you because we
-   believe you make good decisions. That includes with money.
-2. You don't have to ask permission before making purchases in the interest of
-   the company. If you're in doubt, just ping Eric.
-3. It is easiest and fastest for you to buy what you need on the card you have
-   and expense it.
-4. You may privately use company property, a laptop for example, to check your
-   private e-mails or watch a movie as long as it does not violate the law, harm
-   the company, or interfere with Intellectual Property.
-5. If you make a purchase that will cost the company $1000 USD per item (or
-   over), unless otherwise stated, this is classified as company property, you
-   will be required to return the item(s) if you leave the company.
+Two questions before you spend:
 
-Any non-company expenses should not be paid with a company credit card, but
-sometimes mistakes happen. We use Ramp and it has tools to help you reimburse
-the company for accidental personal expenses.
+1. Can you explain how this is in Shorebird's best interest?
+2. Would you be comfortable explaining it to the whole team?
+
+If both are yes, buy it. You don't need to ask anyone first. If you're unsure,
+ping Eric for context rather than permission.
+
+The second question does most of the work. We default to doing things in the
+open, so assume any expense could be discussed openly, because it probably will
+be.
+
+### Mechanics
+
+- Buy what you need on the card you have and expense it.
+- Non-company expenses shouldn't go on a company card, but mistakes happen. Ramp
+  has tools to pay us back.
+- You may privately use company property, a laptop for example, to check your
+  private e-mails or watch a movie as long as it does not violate the law, harm
+  the company, or interfere with Intellectual Property.
+- Anything over $1000 USD per item is company property, and we'll ask you to
+  return it if you leave.
 
 :::note
 
@@ -109,18 +115,26 @@ We try to gather for a week, 2-4 times a year as a whole company. For such
 gatherings, of course, the company covers all travel expenses. So far we've
 traveled to Chicago, Palo Alto, Brooklyn, Phoenix, Austin and Orlando.
 
+Travel is a funny category. What the company gets is that you showed up, and
+that's the same however you got there. The seat, the meal and the bed can vary
+enormously in price, and the difference is consumed by the individual rather
+than by all of us. That's why the second question matters more here than the
+first: book what you'd be comfortable telling everyone you booked.
+
+Travel is also hard. It's exciting to get everyone in one place, but it can be
+exhausting, and it takes you away from your home and your family for a week.
+That's a real cost, and it's why the goal here isn't the cheapest possible trip.
+
 ### Flights
 
-The test for most spending is whether it helps us move faster. Flying nicer
-rarely does. The exception is long-haul international, especially overnight or
-when you're working the next day, where premium economy can buy a more
-functional first day. Beyond that, if flight class is important to you, the
-economy fare goes on the company card and the upgrade on yours.
+For most trips that means economy, and premium economy on a long overnight when
+you're working the next day. More than that should be easy to explain. If you
+simply want a nicer seat, the economy fare goes on the company card and the
+upgrade on yours.
 
-In practice most bought-ahead flights are under $700 for domestic and under
-$2,500 for international. Those are rough guides, not budgets to hit. Book what
-makes sense for the trip: for your own health, for your sleep, for being useful
-when you land, and moving us all forward.
+Book what makes sense for the trip: for your health, your sleep, and for being
+able to move the company forward effectively while you're there. If your trip
+doesn't fit any of this, say so before you book rather than after.
 
 ### Tips for booking travel
 
