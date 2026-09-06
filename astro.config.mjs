@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
+import starlightThemeNova from "starlight-theme-nova";
 import tailwindcss from "@tailwindcss/vite";
 
 const site = "https://handbook.shorebird.dev/";
@@ -38,6 +39,16 @@ export default defineConfig({
       favicon: "favicon.svg",
       head: [
         {
+          tag: "link",
+          attrs: {
+            rel: "preload",
+            href: "/fonts/GeneralSans-Variable.woff2",
+            as: "font",
+            type: "font/woff2",
+            crossorigin: "",
+          },
+        },
+        {
           tag: "meta",
           attrs: { property: "og:image", content: site + "open-graph.png?v=1" },
         },
@@ -49,10 +60,11 @@ export default defineConfig({
           },
         },
       ],
-      customCss: ["./src/tailwind.css"],
-      expressiveCode: {
-        themes: ["dark-plus", "github-light"],
+      components: {
+        ThemeSelect: "./src/components/ThemeSelect.astro",
       },
+      customCss: ["./src/styles/custom.css"],
+      expressiveCode: false,
       sidebar: [
         {
           label: "Company",
@@ -97,6 +109,7 @@ export default defineConfig({
         },
       ],
       plugins: [
+        starlightThemeNova(),
         starlightLinksValidator({
           errorOnFallbackPages: false,
           errorOnInconsistentLocale: true,
