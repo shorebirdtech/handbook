@@ -1,0 +1,162 @@
+---
+import MoonIcon from "./icons/tabler-moon-filled.svg";
+import SunIcon from "./icons/tabler-sun-high-filled.svg";
+---
+
+<div class="size-8 overflow-visible">
+  <shorebird-theme-toggle
+    class="flex size-8 rounded-md p-2 text-(--sl-color-text) transition hover:bg-gray-400/30 focus-visible:outline-offset-1 active:scale-90"
+    tabindex="0"
+    role="button"
+  >
+    <div class="shorebird-theme-toggle-icon-light">
+      <SunIcon class="size-4" />
+    </div>
+    <div class="shorebird-theme-toggle-icon-dark">
+      <MoonIcon class="size-4" />
+    </div>
+  </shorebird-theme-toggle>
+</div>
+
+<script>
+  import { getTheme, setTheme } from "astro-theme-toggle/client";
+
+  function toggleTheme() {
+    const theme = getTheme();
+    setTheme(theme === "light" ? "dark" : "light");
+  }
+
+  const STYLE_ID = "shorebird-theme-toggle-temporary-styles";
+  const STYLE_CONTENT =
+    "::view-transition-old(root), ::view-transition-new(root) { animation: none; mix-blend-mode: normal; }";
+
+  function removeTemporaryStyles() {
+    const style = document.getElementById(STYLE_ID);
+    style?.remove();
+  }
+
+  function injectTemporaryStyles() {
+    removeTemporaryStyles();
+    const style = document.createElement("style");
+    style.id = STYLE_ID;
+    style.textContent = STYLE_CONTENT;
+    document.head.appendChild(style);
+  }
+
+  async function startCircleAnimation(
+    callback: () => void,
+    x: number,
+    y: number,
+  ) {
+    const doc = document as unknown as {
+      startViewTransition?: (updateCallback?: () => unknown) => {
+        ready?: Promise<void>;
+        finished?: Promise<void>;
+      };
+    };
+
+    if (typeof doc.startViewTransition !== "function") {
+      callback();
+      return;
+    }
+
+    injectTemporaryStyles();
+
+    const transition = doc.startViewTransition(() => {
+      callback();
+    });
+
+    await transition?.ready;
+    void transition?.finished?.then(removeTemporaryStyles);
+
+    const gradientOffset = 0.99;
+    const maskSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8"><defs><radialGradient id="toggle-theme-gradient"><stop offset="${gradientOffset}"/><stop offset="1" stop-opacity="0"/></radialGradient></defs><circle cx="4" cy="4" r="4" fill="url(#toggle-theme-gradient)"/></svg>`;
+    const maskUrl = `data:image/svg+xml;base64,${window.btoa(maskSvg)}`;
+
+    const w = window.innerWidth;
+    const h = window.innerHeight;
+
+    const maxRadius = Math.ceil(
+      Math.hypot(Math.max(x, w - x), Math.max(y, h - y)) / gradientOffset,
+    );
+
+    document.documentElement.animate(
+      {
+        maskImage: [`url('${maskUrl}')`, `url('${maskUrl}')`],
+        maskRepeat: ["no-repeat", "no-repeat"],
+        maskPosition: [
+          `${x}px ${y}px`,
+          `${x - maxRadius}px ${y - maxRadius}px`,
+        ],
+        maskSize: ["0", `${2 * maxRadius}px`],
+      },
+      {
+        duration: 650,
+        easing: "cubic-bezier(0.76, 0, 0.24, 1)",
+        pseudoElement: "::view-transition-new(root)",
+      },
+    );
+  }
+
+  function handleToggleClick(event: { clientX: number; clientY: number }) {
+    void startCircleAnimation(toggleTheme, event.clientX, event.clientY);
+  }
+
+  class ShorebirdThemeToggle extends HTMLElement {
+    connectedCallback() {
+      if (!this.hasAttribute("tabindex")) {
+        this.setAttribute("tabindex", "0");
+      }
+      if (!this.hasAttribute("role")) {
+        this.setAttribute("role", "button");
+      }
+      this.addEventListener("click", handleToggleClick);
+      this.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          const rect = this.getBoundingClientRect();
+          const clientX = rect.left + rect.width / 2;
+          const clientY = rect.top + rect.height / 2;
+          handleToggleClick({ clientX, clientY });
+        }
+      });
+    }
+  }
+
+  customElements.define("shorebird-theme-toggle", ShorebirdThemeToggle);
+</script>
+
+<style is:global>
+  shorebird-theme-toggle {
+    display: block;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+  }
+
+  .shorebird-theme-toggle-icon-light,
+  .shorebird-theme-toggle-icon-dark {
+    width: 100%;
+    height: 100%;
+
+    & * {
+      display: block;
+    }
+  }
+
+  .shorebird-theme-toggle-icon-light {
+    display: block;
+
+    .dark & {
+      display: none;
+    }
+  }
+
+  .shorebird-theme-toggle-icon-dark {
+    display: none;
+
+    .dark & {
+      display: block;
+    }
+  }
+</style>
