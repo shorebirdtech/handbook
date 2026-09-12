@@ -6,9 +6,9 @@ sidebar:
   order: 5
 ---
 
-Since we are an [all remote](/company/company_details#a-note-on-remote-only)
-company we don't have a physical worksite or breakroom wall upon which to post
-important labor and employment notices, so this page is our version of that.
+Most of our team is [remote](/company/company_details#a-note-on-remote-only)
+and has no breakroom wall upon which to post important labor and employment
+notices, so this page is our version of that.
 
 ### California
 

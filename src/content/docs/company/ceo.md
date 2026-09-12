@@ -80,8 +80,9 @@ lines of communication and I expect you will want similar. I recognize you may
 not have the same values as I do, but I will start from that assumption.
 
 My autonomy value (and assumption that you share such) means I have historically
-had trouble telling people what to do. I do much better to align on where we’re
-going and trust your autonomy and decision making to get us there. I will
+had trouble telling people what to do. I'm getting better at giving direct
+direction, but my preference is still to align on where we’re going and trust
+your autonomy and decision making to get us there. I will
 respect your time and expect you to respect mine. Getting home to family and
 making space for my own health and wellbeing are crucial and I will assume you
 want similar.
@@ -105,7 +106,9 @@ want similar.
 
 ## On meetings
 
-- We're a small company, so we shouldn't have many/any internal meetings yet.
+- We're a small company, so we have few internal meetings, far fewer than most
+  companies. The standing company-wide ones are the weekly staff meeting, the
+  weekly cross-functional, and TGIF.
 - Meetings should have an agenda.
 - I prepare for my 1:1s. I keep 1:1 docs with anyone who has a regular 1:1. I
   take notes in that doc between meetings.
