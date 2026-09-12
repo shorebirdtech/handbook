@@ -16,7 +16,7 @@ sounds pretentious or overbearing, please let me know so I can fix it. Thanks.
 Eric is the founder and CEO of Code Town, Inc. We operate as "Shorebird" and are
 the Flutter company. Our aim is to make multi-platform the default way to build,
 and increasingly that means making Flutter the best way for an agent to build
-for mobile. Eric co-founded the Flutter project and lead Flutter and Dart at
+for mobile. Eric co-founded the Flutter project and led Flutter and Dart at
 Google.
 
 ![Eric Seidel Headshot](../../../assets/eseidel_headshot.jpeg)
@@ -26,7 +26,7 @@ and Dart. Before managing, Eric was an engineer at Google, including co-founding
 the Flutter project in 2014. Previously he was a technical lead on Chrome
 responsible for WebKit. Eric was the first WebKit reviewer at Google, helped
 launch Chrome 1.0 and later instigating Google's fork of WebKit, Blink. Prior to
-Google, Eric lead a small startup for 15 months as part of Y-Combinator's Summer
+Google, Eric led a small startup for 15 months as part of Y-Combinator's Summer
 2006 batch, and prior to that worked on Safari at Apple where he brought SVG to
 Safari and helped start the Safari on Windows project.
 
@@ -45,6 +45,8 @@ there.
 
 ### Talks
 
+- [Why AI Makes Flutter More Important, Not Less, FlutterCon USA, July 2026](https://www.youtube.com/watch?v=KT399tupCn8)
+- [The Future is Written in Dart, FlutterCon EU keynote, Sept 2025](https://www.youtube.com/watch?v=aphP_Hc7KiI)
 - [Serving 1k QPS, Google Cloud Next, April 2025](https://www.youtube.com/watch?v=h1CJoauhPaE)
 - [Flutter at 10 years, FlutterCon, Sept 2024](https://www.youtube.com/watch?v=DgEplfkrYWQ)
 - [Before Flutter, Rubber Duck Engineering, May 2022](https://www.youtube.com/watch?v=xqGAC5QCYuQ)
@@ -55,6 +57,10 @@ there.
 
 ### Appearances
 
+- [The Story of Flutter, Leaving Google & Building Shorebird, The Flutter Way, Sept 2026](https://www.youtube.com/watch?v=FcGRuc6JwGI)
+- [Conquering Chaos at Scale (panel), FlutterCon USA, July 2026](https://www.youtube.com/watch?v=v0JJ1vc6Jkg)
+- [Flutter, Shorebird, devtools.fm, Dec 2025](https://www.youtube.com/watch?v=cH1ZXCQ_qxg)
+- [The Evolution of Flutter and the Future of Shorebird, FlutterCon EU, Sept 2025](https://www.youtube.com/watch?v=GHYRWBV2RB8)
 - [Creator of Flutter, May 2025](https://www.youtube.com/watch?v=J3cjqU0HbaA)
 - [Shorebird, Flying high with Flutter, April 2025](https://www.youtube.com/watch?v=UO_Q2M2odWc)
 - [App Frameworks, Accel, Oct 2024](https://www.youtube.com/watch?v=yX7hwHPdhyU)
@@ -84,10 +90,9 @@ not have the same values as I do, but I will start from that assumption.
 My autonomy value (and assumption that you share such) means I have historically
 had trouble telling people what to do. I'm getting better at giving direct
 direction, but my preference is still to align on where we’re going and trust
-your autonomy and decision making to get us there. I will
-respect your time and expect you to respect mine. Getting home to family and
-making space for my own health and wellbeing are crucial and I will assume you
-want similar.
+your autonomy and decision making to get us there. I will respect your time and
+expect you to respect mine. Getting home to family and making space for my own
+health and wellbeing are crucial and I will assume you want similar.
 
 ## On management
 

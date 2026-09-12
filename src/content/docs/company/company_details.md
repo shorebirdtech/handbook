@@ -111,13 +111,13 @@ for everyone.
 We are most successful when we build things that only we can build. There are
 many things big tech cannot build due to incentives, and other companies cannot
 build due to know how. Our first product was Code Push, one of the most
-requested features in Flutter. We then built CI for Flutter, something many have
-built before, but most have built more generically than just Flutter. Our
-advantage is focus: we build for one stack, which lets us fit our products to it
-exactly rather than generically. Over time our product suite will grow to be
-both specific to Flutter and highly integrated within itself. Our value to
-developers is productivity, completeness, quality and alignment with their
-needs.
+requested features in Flutter. We then built CI for Flutter (since retired),
+something many have built before, but most have built more generically than just
+Flutter. Our advantage is focus: we build for one stack, which lets us fit our
+products to it exactly rather than generically. Over time our product suite will
+grow to be both specific to Flutter and highly integrated within itself. Our
+value to developers is productivity, completeness, quality and alignment with
+their needs.
 
 A mobile app needs more than a framework. It has to be built, tested, shipped,
 updated, and watched once it is out in the world. We intend to sell all of it:
@@ -293,6 +293,12 @@ learning.
   cloud. She has led major events and marketing initiatives at Cloudflare and
   LaunchDarkly, and has served as a volunteer organizer for DevOpsDays.
 
+- Wesley Peck, Product Manager
+
+- Josh Owens, Sales Lead
+
+- Abhishek Doshi, Developer Relations and Support
+
 - Mac Carrithers ([@ezxmac](https://x.com/ezxmac)), Software Engineer -- Mac
   brings a product-oriented approach and experience building user-facing
   dashboards at scale. Excited to help developers focus on building better apps
@@ -330,10 +336,8 @@ channel on Discord to post what we're working on each day.
 
 ## Spending company money
 
-We don't have much process around this yet. In short, we trust you to make the
-right decisions for the company. I think GitLab has a
-[very sane policy](https://handbook.gitlab.com/handbook/finance/spending-company-money/)
-on this and we'll likely adopt something similar.
+In short, we trust you to make the right decisions for the company. The details
+are on the [Expenses](/company/expenses/) page.
 
 ## Future Products / User Pain
 
@@ -343,7 +347,7 @@ from existing Flutter enterprise teams are:
 
 - Mobile releasing is hard. Mobile releasing is harder than web. Maintaining
   lots of versions of apps (and associated backends) is hard. "Code Push" is one
-  solution, but Google's Flutter team has chosen not to invest in it. We should.
+  solution, but Google's Flutter team has chosen not to invest in it. We did.
 - Keeping product and other stakeholders abreast of latest changes is hard. Some
   would like something akin to Vercel's "Deploy Previews" for Flutter apps.
 - Teams share mobile code, would like to share backend code. Most shops write in
