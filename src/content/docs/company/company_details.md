@@ -21,6 +21,33 @@ toolkit, Flutter has answered some of this need and made it possible to deliver
 high quality UIs to multiple screens at once. Other offerings, e.g. React
 Native, Cordova, Xamarin have also tried to solve part of this problem.
 
+But possible has never been the same thing as default. Defaults get set by
+whoever is holding the keyboard, and who that is has started to change. More and
+more, the answer to "what should I build this with?" comes from an agent rather
+than from a developer reading a comparison. The next ten million developers will
+ship mobile apps without ever picking a framework, and many of them will never
+read the code.
+
+Mobile is the hardest place for an agent to work. Agents run in the cloud, and
+the cloud is Linux. Apple's licensing and hardware requirements mean most mobile
+toolchains don't run there at all. And an agent mostly cannot see what it built:
+it changes a screen and has no fast way to know whether the change worked.
+
+Flutter is how we get through that. It brings its own stack top to bottom, which
+is what makes it possible to build for iOS from Linux, and what makes it
+possible to give an agent a fast, deterministic, Mac-free answer to "did my
+change work?" The properties that made Flutter good for people writing once
+instead of twice matter more, not less, when an agent is doing the writing. For
+a person, writing it twice is tedium. For an agent it is twice the tokens, twice
+the context, and twice the surface to verify.
+
+So the job is the job we have always had, reached through a new channel. Humans
+decide, humans pay, and humans are who we serve. But humans increasingly decide
+by delegating, so we also have to convince the tools they delegate to. Over time
+that gets easier: what we convince humans of today ends up in the training data,
+and eventually the models just know. Right now we are in the transition, and we
+have to do both.
+
 Today, developers receive an incomplete offering, one “thrown over the wall” by
 Google. Today, Flutter is constrained by Google’s development model and internal
 politics. JSON is the most popular way to talk over the network, yet Google’s
@@ -62,14 +89,19 @@ and high quality portable software writ-large, are ones that cannot be solved
 within any Big Tech, or large users of Flutter, but have to be done by a new
 upstart who is commercializing Flutter.
 
-We’re doing this now, because Flutter is big enough. Most of the foundational
-technical problems are solved (language performance and tooling, graphics
-performance, ecosystem bootstrapping etc.) and what’s missing now is the
-critical relationships and commercial alignment with the interests of the common
-Flutter user. We are starting this journey by filling the gaps that we can best
-fill. That doesn’t mean we fill all the gaps ourselves. We become synonymous
-with Flutter by democratic means, because we’re the best and most aligned with
-developers, not by fiat.
+We’re doing this now for two reasons. Flutter is big enough: most of the
+foundational technical problems are solved (language performance and tooling,
+graphics performance, ecosystem bootstrapping etc.) and what’s missing now is
+the critical relationships and commercial alignment with the interests of the
+common Flutter user. And the way software gets started is changing faster than
+at any point in our careers. The habits forming right now -- what gets reached
+for when someone says "make me an app for my phone" -- will be much harder to
+change later. Defaults are stickiest right after they get set.
+
+We are starting this journey by filling the gaps that we can best fill. That
+doesn’t mean we fill all the gaps ourselves. We become synonymous with Flutter
+by democratic means, because we’re the best and most aligned with developers,
+not by fiat.
 
 ## Mission
 
@@ -80,17 +112,31 @@ We are most successful when we build things that only we can build. There are
 many things big tech cannot build due to incentives, and other companies cannot
 build due to know how. Our first product was Code Push, one of the most
 requested features in Flutter. We then built CI for Flutter, something many have
-built before, but most have built more generically than just Flutter. We are
-unique in that we sell only to Flutter developers and thus can build things
-specifically fit to their purposes. Over time our product suite will grow to be
+built before, but most have built more generically than just Flutter. Our
+advantage is focus: we build for one stack, which lets us fit our products to it
+exactly rather than generically. Over time our product suite will grow to be
 both specific to Flutter and highly integrated within itself. Our value to
 developers is productivity, completeness, quality and alignment with their
 needs.
+
+A mobile app needs more than a framework. It has to be built, tested, shipped,
+updated, and watched once it is out in the world. We intend to sell all of it:
+free to get started, paid once you have something real, in one place and on one
+invoice.
 
 We serve developers by making them more productive. When they use our products,
 they don’t have to build or integrate as much themselves, they get further,
 faster. They can follow our golden path and use our managed solutions for their
 creation, sharing, testing, and deployment.
+
+Increasingly developers work through agents, and some of the next ten million
+developers will not open the code at all. That does not change who we serve. A
+person still decides, still pays, and still has to live with what ships. It
+changes what serving them requires, because now our products have to work well
+for the agent in the middle: a feedback loop tight enough that an agent can tell
+whether a change worked, no Mac required in the middle of it, and few enough
+tokens spent that running the loop stays affordable. Agents are the channel.
+People are still the point.
 
 We serve businesses by making their developers more productive and providing
 them security and assurance to their investments. When they use our products,
@@ -112,7 +158,10 @@ fastest and they let developers figure out the fun stuff first and the platforms
 later. In the future, app developers will also reach for Shorebird first,
 because we serve them and their interests, not the platform vendors. We will
 help them produce the best quality products, and know that they can take them to
-any device or any screen they need to, without needless rewrites.
+any device or any screen they need to, without needless rewrites. The same logic
+holds with more force when an agent is doing the reaching: platforms are exactly
+the part of the problem it is worst at, and portable is the fastest way past
+them.
 
 In this future the Flutter ecosystem is rich and robust, not just Shorebird.
 There is a Flutter foundation, which we are a large part of. Flutter and Dart
@@ -120,7 +169,10 @@ are successful across all the devices businesses care to reach, including
 desktop, web and servers. Shorebird is synonymous with Flutter, just like
 Confluent with Kafka, or Apollo with GraphQL today. Businesses confidently reach
 for portable software development from Shorebird first, knowing it’s the safe
-and supported choice.
+and supported choice. Many of the people shipping Flutter apps in that future
+will not have chosen Flutter on purpose. They will have asked for an app that
+works everywhere, and Flutter will be how they got one. That is what winning
+looks like.
 
 In the future, the world around us has also shifted. We’re far from alone in
 this journey. There will be more platforms, there will be more OS vendors. The
@@ -145,13 +197,18 @@ longer be a just-for-Google solution.
 - The future is bigger than the past. It's more important to make a better
   tomorrow than worry about our present or past. At time of writing, there are
   only a few million Flutter developers. There are billions of people, and
-  probably 100s of millions of developers in the future. We're here to help them
-  all.
+  probably 100s of millions of developers in the future. Many of them will not
+  look much like today's developers -- they will describe what they want more
+  often than they type it. We're here to help them all.
 
 ### What Makes Us Distinctly Us
 
 - Our developer empathy: Developers are our customers, we must empathize with
-  them, talk to them, and solve problems for them.
+  them, talk to them, and solve problems for them. That now includes watching
+  how they work through agents. We cannot interview an agent, but we can read
+  the transcript: where it got stuck, what it guessed at, what it had to try
+  three times. That is product feedback we did not used to have access to, and
+  we should be greedy about it.
 - Our belief in high-quality, portable software: Many today accept what the
   platform vendors offer, we don’t. We know software development can be better,
   and that developers shouldn’t repeat themselves, businesses shouldn’t spend
@@ -322,6 +379,25 @@ from existing Flutter enterprise teams are:
   something like [Mobile.dev](https://mobile.dev/) for Flutter apps. Particular
   trouble around testing "invasive" apps, such as ones which use system
   accessibility events.
+
+### Agent pain
+
+The list above came from talking to human teams. There is a second list, which
+comes from watching agents try to build mobile apps. It is mostly about the
+loop:
+
+- Agents cannot see what they built. An agent changes a screen and has no fast,
+  reliable way to know whether the change did what it intended. This is the
+  single biggest reason agents are bad at mobile today.
+- Mobile toolchains do not run where agents run. Agents run in the cloud, the
+  cloud is Linux, and much of mobile development assumes a Mac sitting
+  somewhere.
+- Setup is long and failure-prone. Every minute of environment setup gets spent
+  again on every fresh machine, and agents get fresh machines constantly.
+- Getting a build in front of a person is slow. The gap between "the agent
+  finished" and "I can tap on it" is where most of the frustration lives.
+- Feedback is expensive. Screenshots and long logs cost a lot of tokens. Cheap,
+  structured, deterministic answers are worth more than rich ones.
 
 # A note on hiring
 

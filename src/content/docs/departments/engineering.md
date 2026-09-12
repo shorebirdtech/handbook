@@ -6,6 +6,29 @@ template: doc
 
 ## Best Practices
 
+### Working with agents
+
+We are trying to build the best way for agents to develop for mobile, so we
+should be among the heaviest agent users we know. Use them for real work, not
+demos.
+
+Two things follow from that.
+
+Dogfood the loop we sell. If it is painful for an agent to build, test, and ship
+one of our own Flutter apps, that is a product bug and it is ours. Notice it,
+write it down, file it. Our repos should be the best example anywhere of a
+codebase an agent can work in productively.
+
+Write for two readers. Our code, docs, and error messages get read by people and
+by agents. An error message that says what to do next saves a person one search
+and saves an agent an entire failed round trip. The same goes for READMEs, CLI
+help, and the instructions we check into our repos.
+
+We don't have a policy on how much of our code agents write, and I don't expect
+to add one. You're responsible for what you land regardless of how it got
+written. Review it the way you'd review your own work, because that's what it
+is.
+
 ### Code Review
 
 We code review most things, but it's not required. We'd rather move fast than
@@ -37,6 +60,12 @@ writing good docs we help our customers do theirs.
 We use [dartdoc](https://dart.dev/tools/dartdoc) for all Dart documentation and
 [rustdoc](https://doc.rust-lang.org/rustdoc/) for Rust documentation.
 
+Docs are also how we reach agents. What an agent knows about our products when
+it starts a task is whatever landed in its context, and a lot of that comes from
+our docs, examples, and templates. Documentation isn't only support material, it
+is one of our main distribution surfaces, and it should be written knowing a
+machine will read it about as often as a person does.
+
 ### Testing
 
 We write tests. They're not required (yet), since we're still finding the
@@ -50,6 +79,12 @@ For code which has found its purpose (i.e. we expect to have it still in use in
 a few months), we do expect testing. The first test is always the hardest.
 Senior team members/founders have a responsibility to write these first tests
 and unlock the rest of the team to write tests for new areas.
+
+There's a second reason to care about tests now. A test is how an agent finds
+out whether it succeeded. Code with good tests is code an agent can work in
+productively; code without them is code an agent is guessing about. The tests we
+write for ourselves are a small version of the feedback loop we're trying to
+sell.
 
 ### Coverage
 
