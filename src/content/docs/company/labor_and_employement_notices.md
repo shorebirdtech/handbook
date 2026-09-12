@@ -6,9 +6,9 @@ sidebar:
   order: 5
 ---
 
-Most of our team is [remote](/company/company_details#a-note-on-remote-only)
-and has no breakroom wall upon which to post important labor and employment
-notices, so this page is our version of that.
+Most of our team is [remote](/company/company_details#a-note-on-remote-only) and
+has no breakroom wall upon which to post important labor and employment notices,
+so this page is our version of that.
 
 ### California
 
