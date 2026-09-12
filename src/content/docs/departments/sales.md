@@ -4,9 +4,9 @@ description: Sales
 template: doc
 ---
 
-We estimate that as of March 2025, less than 3% of all Flutter developers have
-ever tried Shorebird. Maybe as many as 5-10% of all Flutter developers have ever
-heard of Shorebird. Our primary goal for the next year is to grow usage and
+We estimate that as of September 2026, less than 2% of all Flutter developers
+have ever tried Shorebird. Maybe as many as 5-10% of all Flutter developers have
+ever heard of Shorebird. Our primary goal for the next year is to grow usage and
 awareness of the product. Through such, revenues and thus sustainability of the
 business will also grow.
 
@@ -44,25 +44,13 @@ our main repository for answering questions if/when they arise.
 
 ### CRM
 
-We use [Attio](https://app.attio.com) to track our customer interactions and
+We use [HubSpot](https://app.hubspot.com) to track our customer interactions and
 sales flow. Anyone that regularly interacts with customers, especially via
-email, should have an Attio account. This will ensure that our communication
-flow is automatically tracked and viewable by other team members to avoid the
-cross talk problem of multiple people having multiple conversations with the
-same person/company. This tracking is done via the
-[Email and Calendar Sync](https://attio.com/help/reference/email-calendar/email-and-calendar-syncing),
-(setup details are on the
-[Attio reference site](https://attio.com/help/reference/attio-101/syncing-people-and-companies))
-that Attio provides along with manual & workflow entry of
-[Tasks](https://attio.com/help/reference/productivity-collaborating/tasks) on
-Companies and Deals.
-
-#### Useful Links
-
-- [Attio 101](https://attio.com/help/reference/attio-101) - Simple place to
-  start with a lot of good video's to watch on how the tool works.
-- [Attio Community](https://www.attio.community) - A lot of good how-to's and an
-  active posting board for questions.
+email, should have a HubSpot account with email and calendar sync turned on.
+This will ensure that our communication flow is automatically tracked and
+viewable by other team members to avoid the cross talk problem of multiple
+people having multiple conversations with the same person/company. Tasks are
+tracked on Companies and Deals.
 
 #### Data We Track
 
@@ -73,12 +61,12 @@ of things are.
 
 ##### Companies & People
 
-Most of this tracking is done for you by Attio automatically through Email and
-Calendar tracking. If you have connected your Google Account to Attio then it
-will view your emails and appointments and auto populate records for Companies
-and People. The tool will also auto-populate some basic company information,
-based on the domain, and create the linking of the people to the company for
-easy tracing.
+Most of this tracking is done for you by HubSpot automatically through Email and
+Calendar tracking. If you have connected your Google Account to HubSpot it will
+view your emails and appointments and auto populate records for Companies and
+People. The tool will also auto-populate some basic company information, based
+on the domain, and create the linking of the people to the company for easy
+tracing.
 
 If you have some interaction with a person or company outside of Email and
 Calendar events then you can also manually add the records needed. The key items
@@ -117,7 +105,7 @@ that need to be entered are:
 
 ##### Deals
 
-Deal tracking is done in Attio as it makes it easy to track deals by
+Deal tracking is done in HubSpot as it makes it easy to track deals by
 company/associated people and it will give us automated reports based on the
 pipeline.
 
@@ -146,8 +134,7 @@ Business or Enterprise plan, Pro plans do not get tracked here.
 
 ###### Custom Fields
 
-- Weighted Deal Value - This is an automatically tracked field via a
-  [workflow that runs when a Deal's stage changes](https://app.attio.com/shorebird/automations/workflows/ff949cfd-fc3b-4347-94d7-456a771f12c7/editor).
+- Weighted Deal Value - This is set automatically when a Deal's stage changes.
   Given a stage, the deal value is multiplied by a percentage that is tied to
   the stage essentially giving us a confidence number. This means that if we
   have a lot of deals in the "Lead" stage we won't oversell the value of the
@@ -158,11 +145,10 @@ Business or Enterprise plan, Pro plans do not get tracked here.
   - Stalled - 15%
   - Won - 100%
   - Lost - 0%
-- Close Date - This is an automatically tracked field via
-  [a workflow that runs when a Deal's stage changes to Won or Lost](https://app.attio.com/shorebird/automations/workflows/78027e45-4455-42e9-b4c1-072fe02362e9/editor).
-  This is set to the date that the deal moves into the Won or Lost stage. It can
-  be manually set as well if needed. This field allows us to track our win/lost
-  deals over a set period of time (i.e. 30 days).
+- Close Date - This is set automatically when a Deal's stage changes to Won or
+  Lost. This is set to the date that the deal moves into the Won or Lost stage.
+  It can be manually set as well if needed. This field allows us to track our
+  win/lost deals over a set period of time (i.e. 30 days).
 
 #### Tasks/Action Items
 
@@ -191,10 +177,10 @@ doesn't.
 **Price is not intended to be an obstacle for adoption at this time.** We want
 to grow our user base so if we have the ability to apply coupons, discounts, etc
 for a prospective customer to meet their pricing limits please come up with a
-proposal and run it by the Operations lead before approaching a customer with
-options. We want to ensure that we are not losing money on a deal/customer and
-will need to more then likely have some agreement and documentation in place
-before any pricing changes are communicated or applied.
+proposal and run it by Eric before approaching a customer with options. We want
+to ensure that we are not losing money on a deal/customer and will need to more
+then likely have some agreement and documentation in place before any pricing
+changes are communicated or applied.
 
 Our prices, as we have currently set them, are low relative to our costs of
 providing the service. Although we price based on usage, 90% of our costs do not
