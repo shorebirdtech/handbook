@@ -18,8 +18,11 @@ ignorePaths:
   - plugins
   - "**/*.svg"
 words:
+  - abhishek
   - ahmedabad
+  - algebrandon
   - angelov
+  - arra
   - astro
   - astrojs
   - attio
@@ -28,21 +31,26 @@ words:
   - bryanoltman
   - buildroot
   - canva
+  - carrithers
   - ccpa
   - cisa
   - codeowners
   - dartdoc
   - deel
   - dogfood
+  - doshi
+  - dparzych
   - eseidel
   - evenodd
+  - ezxmac
   - felangel
   - flutteristas
   - fsqs
   - github
   - headshot
-  - hotfixes
   - hickson
+  - hotfixes
+  - hubspot
   - iban
   - incentivized
   - inclusivity
@@ -51,11 +59,12 @@ words:
   - lockdowns
   - mortem
   - mortems
-  - nonconformities
   - octolens
   - oltman
   - oneleet
   - orrick
+  - palo
+  - parzych
   - pdf
   - peru
   - posner
@@ -68,6 +77,7 @@ words:
   - tsconfigs
   - upstreaming
   - vessa
+  - weatherley
   - whistleblower
   - xcarchive
 ignoreWords:
