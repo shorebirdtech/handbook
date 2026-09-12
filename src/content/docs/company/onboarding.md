@@ -118,10 +118,10 @@ support and camaraderie as is useful to you. One of the lessons I’ve been
 (re-?)learning of late is how easy it is to get stuck when working remote,
 having easy access to coworkers hopefully helps make getting unstuck easier.
 
-We have few scheduled meetings outside of ~monthly scheduled 1:1 check-ins and
-the occasional customer support call. I don’t know how your days will break
-down, but I encourage you to try and protect your make time as much as needed:
-https://www.paulgraham.com/makersschedule.html
+We have few scheduled meetings: a weekly staff meeting, a weekly
+cross-functional, TGIF, 1:1s, and the occasional customer call. I don’t know how
+your days will break down, but I encourage you to try and protect your make time
+as much as needed: https://www.paulgraham.com/makersschedule.html
 
 ### On being a public project
 
@@ -207,9 +207,9 @@ transition from the phase from “making the business possible” to “making t
 business grow”. But it means we still haven’t found product market fit, and most
 of what we’re doing as a team is identifying a problem, dividing responsibility,
 trying lots of things (often being wrong) and trying again. We have things that
-have worked for the current team for the last 2 years, but I’m excited to figure
-out what this new team does together and how we figure out how to serve our
-customers together.
+have worked for the current team over the last few years, but I’m excited to
+figure out what this new team does together and how we figure out how to serve
+our customers together.
 
 None of us are experts in all the areas we have to touch. But we’re all here to
 help each other. Even if that’s just being a “rubber duck”.
@@ -309,7 +309,7 @@ your manager to determine and get onboarded to the systems you believe you need.
 
 **Business/Sales**
 
-- Attio - Sales CRM
+- HubSpot - Sales CRM
 - Stripe - Payment Platform
 
 **Finance**
@@ -375,8 +375,8 @@ a yearly basis for updates and signatures.
 #### Set up 1Password
 
 You should have gotten an email from 1Password about joining our 1Password
-vaults. Once you sign in (Google SSO), Eric or Tom will need to confirm your
-account on the 1Password side so that you can have full access.
+vaults. Once you sign in (Google SSO), Eric will need to confirm your account on
+the 1Password side so that you can have full access.
 
 You will also want to install the 1Password app, which will add the Chrome
 Extension (and optionally command line tool) as well:
@@ -503,8 +503,8 @@ removing Discord visitors.
   allow you to have moderation capabilities.
 - You should consider muting Discord, except for @mentions, if the amount of
   notifications is bothering you.
-- Current patterns have involved a most-days sync over VC and brief end-of-day
-  updates in #standup. We expect these to evolve over time as we grow.
+- Current patterns involve a weekly staff meeting and brief end-of-day updates
+  in #standup. We expect these to evolve over time as we grow.
 
 #### Email & Calendar
 
@@ -526,18 +526,15 @@ using Google Drive.
 - For US employees, paychecks are delivered every 2 weeks. Rippling should have
   offered you direct deposits. Let your manager know if you have any trouble
   getting set up.
-- For EOR employees, paychecks vary according to the country you are in. Check
-  [Deel's FAQ](https://help.letsdeel.com/hc/en-gb/articles/4413976907025-When-Do-I-Get-Paid)
-  to check the specific payment schedule for your country.
+- For employees outside the US, we use Rippling's EOR. Pay schedules vary by
+  country; Rippling will show yours.
 
 ### Engineering
 
 #### Planning
 
-So far we've been working out of
-[GitHub projects](https://github.com/orgs/shorebirdtech/projects) for our
-planning. This is extremely useful given that we can easily pull in tickets
-filed by our customers into our projects boards.
+We plan in [Linear](https://linear.app) and work in cycles. Customer-filed
+issues live on GitHub.
 
 For longer term discussions and design documents we typically store and work on
 these in Google Drive.
@@ -586,9 +583,7 @@ Week of Offer
   shared ones, but include details specific to their role.
 - Check if this is a new state or country of operation for Code Town Inc. If so,
   work with the operations team to make sure we're registered to do business in
-  that state. Registering for a new state currently involves emailing both our
-  lawyers (Orrick) as well as our insurance (Next Insurance), otherwise Rippling
-  will handle the rest.
+  that state. Rippling handles new state registrations.
 - Order SWAG to be delivered to their home. Currently we send some sort of
   [plush sandpiper](https://www.etsy.com/search?q=plush+sandpiper) off of Etsy,
   depending on availability.

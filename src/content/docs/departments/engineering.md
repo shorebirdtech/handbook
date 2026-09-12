@@ -38,7 +38,7 @@ wait for a review, especially as a global team.
 
 We currently use a monorepo for most of our code `shorebird`. Unfortunately it's
 not possible to keep all of Flutter's code in a monorepo so we have separate
-`engine`, `flutter`, `buildroot`, etc. forked repos for Flutter.
+forks of `flutter` (which now includes the engine) and `dart-sdk`.
 
 Part of the theory in having a monorepo ourselves is to use a codebase like what
 we believe best practices for enterprises should be. Dart/Flutter do not have
@@ -68,17 +68,16 @@ machine will read it about as often as a person does.
 
 ### Testing
 
-We write tests. They're not required (yet), since we're still finding the
-product and tests are best at making sure we don't have to fix the same bug
-twice. However fixing the same bug twice is a "problem of success" (something
-that can only occur when you have built something worth breaking twice). So go
-make something people want, we'll worry about keeping it working once we know
-it's something people want.
-
-For code which has found its purpose (i.e. we expect to have it still in use in
-a few months), we do expect testing. The first test is always the hardest.
-Senior team members/founders have a responsibility to write these first tests
-and unlock the rest of the team to write tests for new areas.
+We write tests. For code which has found its purpose (i.e. we expect to have it
+still in use in a few months), we expect tests, and most of our Dart code
+enforces 100% coverage in CI. For something experimental or exploratory, tests
+are best at making sure we don't have to fix the same bug twice, and fixing the
+same bug twice is a "problem of success" (something that can only occur when you
+have built something worth breaking twice). So go make something people want,
+we'll worry about keeping it working once we know it's something people want.
+The first test is always the hardest. Senior team members/founders have a
+responsibility to write these first tests and unlock the rest of the team to
+write tests for new areas.
 
 There's a second reason to care about tests now. A test is how an agent finds
 out whether it succeeded. Code with good tests is code an agent can work in
@@ -93,9 +92,8 @@ you're writing something experimental or exploratory, we don't expect coverage.
 We have a CodeCov license and it's very easy to set up on new code when it's
 ready for coverage.
 
-Almost all of our Dart code is at 100% line coverage. There are likely many
-branches that are not covered, but we've not tried to turn on branch coverage
-yet.
+Almost all of our Dart code is at 100% line coverage, and some of it (e.g. the
+auth service) also enforces 100% branch coverage.
 
 ### Time management & Focus
 
@@ -116,9 +114,7 @@ argument as to why something else should be higher on the list. Adam Barth
 list of what we saw was the most important things for the project and pick
 things off the list and do them.
 
-For now we've been planning via GitHub project boards and syncing every few days
-or so on what we think is most important.
-https://github.com/orgs/shorebirdtech/projects
+We plan in [Linear](https://linear.app) and work in cycles.
 
 ### Languages
 
@@ -128,10 +124,7 @@ us to use a bunch of unfinished parts of the Dart ecosystem and find ourselves
 building out parts where we need, but that's OK.
 
 We're also practical and when Dart isn't the best choice (e.g. for parts of the
-engine, or our website) we'll use languages we need to get the job done. We will
-prefer to use languages built in the last decade (e.g. rust, zig, etc) rather
-than older less-safe/harder-to-use languages (e.g. c, c++), but we're not
-dogmatic about this.
+engine, or our website) we'll use languages we need to get the job done.
 
 Rarely, we will write in the single-system languages (e.g. Kotlin, Swift, Java,
 etc.) that don't port to other places. We do that to save time for our
@@ -177,9 +170,6 @@ sharing this philosophy. Although I was unable to find official Rust
 documentation of this philosophy, I did find
 [commentary](https://internals.rust-lang.org/t/rationale-of-apache-dual-licensing/8952/3)
 from the core team.
-
-[Shorebird Template](https://github.com/shorebirdtech/template) contains the
-necessary license files. Forking it is the easiest way to start a new repo.
 
 ### Forks and Upstreaming
 
