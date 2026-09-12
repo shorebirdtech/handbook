@@ -10,12 +10,13 @@ Our benefits are currently written to be US-centric as all employees currently
 reside in the US. We may adapt the offered benefits in country/region specific
 manners as we employ people outside of the US.
 
-## All Remote
+## Where we work
 
-We are an all-remote company. We do not have an office. We aspire to eventually
-hire all over the globe. Currently all employees are based in the US and within
-GMT-5 to GMT-8. With this spread of timezones we do have a more flexible working
-hours setup based on location.
+We are remote by default. Most of the team works from home, all in the US and
+within GMT-5 to GMT-8, with flexible working hours based on location. We also
+have a small office in Palo Alto and are building a concentration of the team
+there: new roles are posted as hybrid, three days a week in the office, unless
+the posting says otherwise. We aspire to eventually hire all over the globe.
 
 We do plan for employees to need updates or additions to their home office and
 provide a yearly stipend for this. You can read more on this topic in our
@@ -27,11 +28,8 @@ We have used a variety of benchmarking services, examples being pave.com and
 levels.fyi, to help us match market rates. We expect this balance will
 necessarily shift as we grow as a company.
 
-In alignment with our remote-only approach, we have currently chosen to adjust
-pay based only on country rather than city level location. The belief being that
-different countries have different "social contracts" for who pays for what, but
-that the work we are doing is the same regardless of where one might chose to
-live within a country.
+Posted salary bands are for Palo Alto. For remote hires, base pay is adjusted
+regionally.
 
 ## Retirement Savings
 
