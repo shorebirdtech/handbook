@@ -7,7 +7,9 @@ sidebar:
 ---
 
 Code Town Inc (d.b.a Shorebird) makes products that help businesses succeed with
-Flutter. You can learn more about our products at
+Flutter. We're working to make multi-platform the default way to build software,
+and as more code gets written by agents, to make Flutter the best way for an
+agent to build for mobile. You can learn more about our products at
 [https://shorebird.dev/](https://shorebird.dev/).
 
 This handbook is a living document describing how we run the company. It's
@@ -48,7 +50,9 @@ over ceremony. A few principles guide how we operate:
   communicate openly, document decisions, and share context broadly.
 - **Developer velocity is our north star.** This applies to our products and to
   how we run the company. We move fast, ship often, and iterate based on real
-  feedback.
+  feedback. Increasingly the developer at the keyboard is an agent working on
+  someone's behalf. The goal doesn't change: get the person who asked for the
+  app to a good result faster.
 - **Trust and accountability.** We hire experienced people, give them ownership,
   and trust them to deliver. In return, we hold ourselves to a high bar.
 - **Customers come first.** We're building infrastructure that teams depend on.
