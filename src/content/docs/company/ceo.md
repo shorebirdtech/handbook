@@ -58,6 +58,7 @@ there.
 ### Appearances
 
 - [The Story of Flutter, Leaving Google & Building Shorebird, The Flutter Way, Sept 2026](https://www.youtube.com/watch?v=FcGRuc6JwGI)
+- [Why Flutter matters more in the AI world, Flutter (Google) at FlutterCon USA, Aug 2026](https://www.youtube.com/watch?v=8OUcGUiKj8M)
 - [Conquering Chaos at Scale (panel), FlutterCon USA, July 2026](https://www.youtube.com/watch?v=v0JJ1vc6Jkg)
 - [Flutter, Shorebird, devtools.fm, Dec 2025](https://www.youtube.com/watch?v=cH1ZXCQ_qxg)
 - [The Evolution of Flutter and the Future of Shorebird, FlutterCon EU, Sept 2025](https://www.youtube.com/watch?v=GHYRWBV2RB8)
