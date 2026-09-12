@@ -14,8 +14,10 @@ sounds pretentious or overbearing, please let me know so I can fix it. Thanks.
 ## CEO bio
 
 Eric is the founder and CEO of Code Town, Inc. We operate as "Shorebird" and are
-the Flutter company. Eric co-founded the Flutter project and lead Flutter and
-Dart at Google.
+the Flutter company. Our aim is to make multi-platform the default way to build,
+and increasingly that means making Flutter the best way for an agent to build
+for mobile. Eric co-founded the Flutter project and lead Flutter and Dart at
+Google.
 
 ![Eric Seidel Headshot](../../../assets/eseidel_headshot.jpeg)
 
