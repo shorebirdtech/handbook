@@ -66,7 +66,7 @@ there.
 - [App Frameworks, Accel, Oct 2024](https://www.youtube.com/watch?v=yX7hwHPdhyU)
 - [Harnessing innovation, Build to succeed, Aug 2024](https://www.youtube.com/watch?v=k-yeCAqiRV4)
 - [Flutter: Pain points and challenges, July 2024](https://www.youtube.com/watch?v=X1hKABMoGuI)
-- [Code Push for Flutter, June 2024](https://www.youtube.com/watch?v=LPS0V3RbxDg)
+- [Code Push for Flutter, Full Stack Flutter, June 2024](https://www.youtube.com/watch?v=LPS0V3RbxDg)
 - [It's all widgets, July 2024](https://www.flutterpro.dev/podcast/episodes/50/eric-seidel)
 - [Multi-platform development, Feb 2024](https://www.youtube.com/watch?v=lSu-Ht0BfSE)
 - [Q&A, Silicon Valley Flutter, April 2022](https://www.youtube.com/watch?v=dALbvocAiG4)
