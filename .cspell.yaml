@@ -18,8 +18,9 @@ ignorePaths:
   - plugins
   - "**/*.svg"
 words:
-  - algebrandon
+  - abhishek
   - ahmedabad
+  - algebrandon
   - angelov
   - arra
   - astro
@@ -37,6 +38,7 @@ words:
   - dartdoc
   - deel
   - dogfood
+  - doshi
   - dparzych
   - eseidel
   - evenodd
@@ -46,8 +48,9 @@ words:
   - fsqs
   - github
   - headshot
-  - hotfixes
   - hickson
+  - hotfixes
+  - hubspot
   - iban
   - incentivized
   - inclusivity
@@ -60,6 +63,7 @@ words:
   - oltman
   - oneleet
   - orrick
+  - palo
   - parzych
   - pdf
   - peru
