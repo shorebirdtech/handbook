@@ -219,8 +219,10 @@ in the same room regularly? GitLab and others have written extensively on these
 don't know, but we sure as heck are gonna try. The world is simply too big and
 too filled with talented people to limit our hiring to one location.
 
-So far our (very early) learnings have reinforced our believe in remote-only,
-but made us question if async-only remote will work. We're still learning.
+Three years in, we are remote by default but no longer remote-only. We have a
+small office in Palo Alto and are building a concentration of the team there;
+new roles are posted as hybrid, three days a week in the office. We're still
+learning.
 
 ## Management
 
