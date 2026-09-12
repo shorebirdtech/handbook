@@ -61,6 +61,22 @@ twice” problem. Platform vendors want you to build for Platforms. I want peopl
 to build for users. And as a user I want businesses to build for me, regardless
 of what hardware I happen to be in front of at the time.
 
+What has changed since I wrote that is not the mission but who we have to
+convince. Agents are making more and more of the technical decisions, including
+which stack an app gets built on, and mobile is the place they struggle most. So
+the work now is to make Flutter the best way for an agent to build for mobile.
+That is an evolution of the mission, not a replacement of it: portable was
+always the goal and Flutter was always the vehicle. Agents are the channel we
+reach it through.
+
+I want to be precise about who we serve, because it is easy to get confused
+here. People are the point. A person decides, a person pays, and a person has to
+live with the app that ships. But that person increasingly gets there by
+delegating, so we have to win with the thing they delegate to. Today that means
+convincing humans, who then tell their agents. Over time what we convince humans
+of ends up in the training data and the agents come to know it on their own. We
+are in the middle of that transition and have to work both sides of it.
+
 Point 2. above about velocity is something I learned from my time in my past
 startup and from onboarding many at Google. I care that team members are trying
 to make value for users, and that they’re getting better at it. I care less
@@ -393,6 +409,13 @@ While your eyes are still fresh, you are encouraged to write down any frictions
 you encounter in the product. Anything you see, likely was seen by 100s of
 customers and ignored, but we should fix it. You'll find a folder in Google
 Drive where others have written friction logs if you wish to feel inspired.
+
+Then do it a second time with an agent. Point your favorite coding agent at our
+product and ask it to build and ship something small, and keep a friction log of
+that run too. Where did it get stuck? What did it guess wrong about? What did it
+have to try three times? Agents are how a growing share of our users will reach
+us, so their frictions are our frictions. This is one of the fastest ways to
+understand what we are actually building and why.
 
 ### Your First Weeks
 

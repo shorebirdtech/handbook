@@ -6,9 +6,14 @@ template: doc
 
 We estimate that as of March 2025, less than 3% of all Flutter developers have
 ever tried Shorebird. Maybe as many as 5-10% of all Flutter developers have ever
-heard of Shorebird. Our primary goal for the next several years is to grow usage
-and awareness of the product. Through such, revenues and thus sustainability of
-the business will also grow.
+heard of Shorebird. Our primary goal for the next year is to grow usage and
+awareness of the product. Through such, revenues and thus sustainability of the
+business will also grow.
+
+Worth noting that the denominator is moving. Flutter developers are the market
+we can measure today, but a growing share of mobile apps get started by someone
+asking an agent, and those people aren't counted anywhere in the numbers above.
+Expect these figures to get re-based as we learn how to measure that.
 
 ## Tools
 
@@ -93,8 +98,10 @@ that need to be entered are:
   - Status - This states the status of a company with us. This allows us to run
     reports on our Companies list and understand who we should be targeting at
     any given time. See below for a definition of each status.
-    - Lead - Starting point for any company record. We know that they use
-      Flutter and therefore could be a potential customer.
+    - Lead - Starting point for any company record. Usually this means we know
+      they use Flutter and therefore could be a potential customer. It can also
+      be a company shipping mobile apps built largely by agents, whether or not
+      they know what those apps are built with.
     - Talking - We have had communication with the company and conversations are
       ongoing.
     - Stalled - There was some communication but they have stopped responding. A
