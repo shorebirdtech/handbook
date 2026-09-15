@@ -15,7 +15,6 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Shorebird Handbook",
-      tagline: "How we run our company and build our products",
       logo: {
         light: "./src/assets/shorebird-light.svg",
         dark: "./src/assets/shorebird-dark.svg",
