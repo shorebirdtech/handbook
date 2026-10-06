@@ -1,22 +1,23 @@
 ---
 title: Information Security Policy
-description: Code Town Information Security Policy
+description: Shorebird Information Security Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 The purpose of this Information Security Policy is to protect all information
-within Code Town from unauthorized access, use, disclosure, modification, or
-destruction. This policy outlines the principles and practices to safeguard the
-confidentiality, integrity, and availability of Code Town’s information assets.
+within Code Town, Inc. (D/B/A “Shorebird”) from unauthorized access, use,
+disclosure, modification, or destruction. This policy outlines the principles
+and practices to safeguard the confidentiality, integrity, and availability of
+Shorebird’s information assets.
 
 It applies to all employees, contractors, and third-party Vendors who access or
-process information on behalf of Code Town.
+process information on behalf of Shorebird.
 
 ## Policy Statements: Our Commitments
 
-Code Town is committed to:
+Shorebird is committed to:
 
 - Protecting information from unauthorized access, disclosure, alteration, or
   destruction.
@@ -31,7 +32,7 @@ Code Town is committed to:
 
 ### Information Security Objectives
 
-Code Town’s information security objectives include:
+Shorebird’s information security objectives include:
 
 - Maintaining customer trust through strong data protection practices.
 - Protecting the confidentiality, integrity, and availability of our
@@ -42,7 +43,7 @@ Code Town’s information security objectives include:
 
 ### Organizational Controls
 
-Code Town will implement and maintain organizational controls by:
+Shorebird will implement and maintain organizational controls by:
 
 - Defining policies and procedures: Establishing and communicating policies
   (e.g., Acceptable Use Policy, Data Management and Retention Policy) that
@@ -61,7 +62,7 @@ Code Town will implement and maintain organizational controls by:
 
 ### People Controls
 
-Code Town is committed to protecting information through people-focused controls
+Shorebird is committed to protecting information through people-focused controls
 by:
 
 - Training and awareness programs: Providing mandatory security awareness
@@ -75,7 +76,7 @@ by:
 
 ### Physical Controls
 
-Code Town will safeguard its information assets through effective physical
+Shorebird will safeguard its information assets through effective physical
 controls by:
 
 - Securing remote workspaces and devices: Employees must secure their workspaces
@@ -90,7 +91,7 @@ controls by:
 
 ### Technological Controls
 
-Code Town will employ technological controls to protect its digital information
+Shorebird will employ technological controls to protect its digital information
 assets by:
 
 - Access control and authentication: Enforcing role-based access control (RBAC)
@@ -112,7 +113,7 @@ assets by:
 
 ### Security Communication
 
-Code Town maintains multiple channels for internal security communication so
+Shorebird maintains multiple channels for internal security communication so
 that all employees stay informed about security practices, current threats, and
 compliance obligations:
 
@@ -132,7 +133,7 @@ security update to `#security-announcements` on at least a monthly cadence. Each
 update covers:
 
 - Changes to security policies since the previous update.
-- Emerging threats relevant to Code Town's stack, drawn from the review
+- Emerging threats relevant to Shorebird's stack, drawn from the review
   described in the Threat Intelligence Policy.
 - Changes to compliance obligations that affect employee responsibilities.
 - Lessons learned from any security incident since the previous update.
@@ -144,14 +145,14 @@ channel history, which serves as the record of security communication.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 
@@ -159,10 +160,3 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| July 29, 2026     | Eric Seidel  |
-| November 25, 2025 | Eric Seidel  |

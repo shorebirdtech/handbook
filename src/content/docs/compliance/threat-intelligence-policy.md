@@ -1,18 +1,18 @@
 ---
 title: Threat Intelligence Policy
-description: Code Town Threat Intelligence Policy
+description: Shorebird Threat Intelligence Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
-This policy establishes how Code Town gathers, analyzes, and acts on threat
-intelligence to protect our information systems and customer data. Its goal is
-to ensure we stay informed about the evolving threat landscape relevant to our
-infrastructure, dependencies, and services.
+This policy establishes how Code Town, Inc. (D/B/A “Shorebird”) gathers,
+analyzes, and acts on threat intelligence to protect our information systems and
+customer data. Its goal is to ensure we stay informed about the evolving threat
+landscape relevant to our infrastructure, dependencies, and services.
 
 This policy applies to all employees and contractors with responsibility for
-information security at Code Town.
+information security at Shorebird.
 
 ## Policy Statements: Our Commitments
 
@@ -21,7 +21,7 @@ collect it, what we do with it, and how it feeds our broader security posture.
 
 ### Threat Intelligence Sources
 
-Code Town will maintain awareness of threats relevant to our stack and operating
+Shorebird will maintain awareness of threats relevant to our stack and operating
 environment by monitoring a defined set of sources. These include:
 
 - **Government and public sources:** CISA Known Exploited Vulnerabilities (KEV)
@@ -40,7 +40,7 @@ The Security Officer (or designated security-responsible employee) is
 responsible for reviewing threat intelligence sources on at least a **monthly
 cadence**. Each review should assess:
 
-- Whether any disclosed vulnerabilities apply to Code Town's systems,
+- Whether any disclosed vulnerabilities apply to Shorebird's systems,
   dependencies, or third-party services.
 - Whether any active threat campaigns are relevant to our customer base,
   industry, or infrastructure profile.
@@ -58,7 +58,7 @@ Communication section of the Information Security Policy. The monthly review
 summary should include:
 
 - A brief summary of sources checked
-- Any notable findings and their assessed relevance to Code Town
+- Any notable findings and their assessed relevance to Shorebird
 - Actions taken or recommended as a result
 
 For findings that require prompt action (e.g., actively exploited
@@ -67,7 +67,7 @@ members directly and initiate response per the Incident Response Policy.
 
 ### Integration with Risk Management
 
-Threat intelligence findings inform Code Town's ongoing risk assessment process.
+Threat intelligence findings inform Shorebird's ongoing risk assessment process.
 When a new threat or vulnerability is identified, it should be evaluated against
 our existing risk register and security controls. Significant findings may
 trigger updates to risk assessments, changes to security controls, or revisions
@@ -83,14 +83,14 @@ they encounter to the Security Officer.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees and contractors at
-Code Town.
+Shorebird.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 
@@ -98,10 +98,3 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-### Review Log
-
-| Review Date   | Approver    |
-| ------------- | ----------- |
-| July 29, 2026 | Eric Seidel |
-| June 9, 2026  | Eric Seidel |

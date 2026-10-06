@@ -1,14 +1,14 @@
 ---
 title: Vendor Policy
-description: Code Town Vendor Policy
+description: Shorebird Vendor Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 This Vendor Risk Management Policy establishes guidelines for identifying,
-assessing, and mitigating risks associated with Code Towns's engagement of
-third-party Vendors.
+assessing, and mitigating risks associated with Code Town, Inc. (D/B/A
+“Shorebird”)'s engagement of third-party Vendors, including Cloud providers.
 
 This policy applies to all employees involved in selecting, contracting, or
 managing third-party relationships.
@@ -21,15 +21,15 @@ regulatory compliance.
 
 ### Vendor Risk Management Principles
 
-Code Town is committed to:
+Shorebird is committed to:
 
 - Conducting due diligence before engaging with third party vendors
 - Maintaining a vendor inventory, incl. what data they have access to, what
-  their risk level is and who the account owner from Code Towns’s side is
+  their risk level is and who the account owner from Shorebird’s side is
 - Continuously monitoring and reassessing vendor risks throughout the
   relationship lifecycle
 - Maintaining appropriate controls to mitigate identified risks
-- Ensuring vendor compliance with applicable laws, regulations, and Code Town's
+- Ensuring vendor compliance with applicable laws, regulations, and Shorebird's
   policies
 
 ### Vendor Risk Assessment
@@ -46,6 +46,22 @@ similar vendors that do not:
   company data from other customers.
 - The vendor has a support function and documentation available, including
   support for data management and deletion.
+
+### Cloud Service Providers
+
+Cloud service providers, including Google Cloud Platform and Google Workspace,
+are managed as vendors under this policy, with the following additional
+requirements:
+
+- **Acquisition:** Cloud services that store or process company or customer data
+  are classified as High Risk and must provide evidence of an independent
+  security attestation (ISO 27001 or SOC 2 at minimum).
+- **Use and management:** Shorebird is responsible for the secure configuration
+  and use of cloud services, including access management, data protection, and
+  monitoring, in line with each provider's shared responsibility model.
+- **Exit:** Before adopting a cloud service, Shorebird confirms that its data
+  can be exported and deleted when the service is discontinued. On exit, data is
+  migrated or retrieved, and its deletion by the provider is confirmed.
 
 ### Risk Categorization
 
@@ -92,14 +108,14 @@ to appropriate management and security teams is required.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 
@@ -107,9 +123,3 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| November 25, 2025 | Eric Seidel  |

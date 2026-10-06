@@ -1,16 +1,16 @@
 ---
 title: Internal Audit Program
 description:
-  Code Town's internal audit program for evaluating the effectiveness of its
+  Shorebird's internal audit program for evaluating the effectiveness of its
   Information Security Management System (ISMS)
 template: doc
 ---
 
-Code Town, Inc maintains an internal audit program to evaluate the effectiveness
-and compliance of its Information Security Management System (ISMS) in
-accordance with ISO/IEC 27001. The program ensures we systematically review
-security controls, identify gaps, and drive continuous improvement — without
-building unnecessary process overhead for a small team.
+Code Town, Inc. (D/B/A “Shorebird”) maintains an internal audit program to
+evaluate the effectiveness and compliance of its Information Security Management
+System (ISMS) in accordance with ISO/IEC 27001. The program ensures we
+systematically review security controls, identify gaps, and drive continuous
+improvement — without building unnecessary process overhead for a small team.
 
 ## Scope
 
@@ -78,12 +78,6 @@ This program will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-## Review Log
-
-| **Review Date** | **Approver** |
-| --------------- | ------------ |
-| March 26, 2025  | Eric Seidel  |
 
 his template is completed once per audit cycle and retained as internal evidence
 for Shorebird's ISO/IEC 27001 certification. Completed reports are not
@@ -182,11 +176,11 @@ recommendations for improving the audit program._
 
 ### Sign-Off
 
-| Role                | Name     | Date |
-| ------------------- | -------- | ---- |
-| Lead Auditor        |          |      |
-| ISMS Manager        | Tom Arra |      |
-| Management Reviewer |          |      |
+| Role                | Name | Date |
+| ------------------- | ---- | ---- |
+| Lead Auditor        |      |      |
+| ISMS Manager        |      |      |
+| Management Reviewer |      |      |
 
 ---
 

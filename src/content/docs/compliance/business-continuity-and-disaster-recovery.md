@@ -1,15 +1,15 @@
 ---
 title: Business Continuity and Disaster Recovery Policy
-description: Code Town Business Continuity and Disaster Recovery Policy
+description: Shorebird Business Continuity and Disaster Recovery Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 The Business Continuity and Disaster Recovery (BCDR) Policy establishes
-procedures that will enable Code Town to restore business operations expediently
-following disruptions such as cyber incidents, system failures, or other
-unforeseen challenges
+procedures that will enable Code Town, Inc. (D/B/A “Shorebird”) to restore
+business operations expediently following disruptions such as cyber incidents,
+system failures, or other unforeseen challenges
 
 This policy applies to all employees, contractors, and third-party providers
 involved in business continuity and disaster recovery activities.
@@ -96,14 +96,14 @@ responsibilities.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 
@@ -111,12 +111,6 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| November 25, 2025 | Eric Seidel  |
 
 ## Appendix
 

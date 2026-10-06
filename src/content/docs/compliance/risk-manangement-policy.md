@@ -1,13 +1,13 @@
 ---
 title: Risk Management Policy
-description: Code Town Risk Management Policy
+description: Shorebird Risk Management Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 This policy establishes guidelines for identifying, assessing, and managing
-information security risks at Code Town.
+information security risks at Code Town, Inc. (D/B/A “Shorebird”).
 
 This policy outlines our approach to identifying, assessing, and managing risks
 related to information security.
@@ -20,7 +20,7 @@ covering all aspects from risk identification to treatment and monitoring.
 ### Risk Tolerance
 
 Risk Tolerance defines the acceptable variation in performance relative to the
-company’s risk appetite. Code Town sets thresholds based on the severity of risk
+company’s risk appetite. Shorebird sets thresholds based on the severity of risk
 impact:
 
 - **High residual risks** (e.g., regulatory non-compliance, major financial
@@ -36,7 +36,7 @@ senior management for review and action.
 
 ### Risk Management Framework
 
-Code Town adopts a structured risk management framework to proactively identify,
+Shorebird adopts a structured risk management framework to proactively identify,
 evaluate, and address risks. The framework includes:
 
 - **Risk identification**: Identifying risks that could affect company
@@ -61,7 +61,8 @@ Each risk is evaluated based on:
   regulatory penalties).
 
 Risks are rated as high, medium, or low, based on the likelihood and impact
-combined.
+combined. See Appendix A for the likelihood and impact scales, the risk matrix,
+the scoring formula, and the residual risk acceptance criteria.
 
 ### Risk Treatment and Mitigation
 
@@ -89,14 +90,14 @@ communicated to senior management.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 
@@ -105,8 +106,65 @@ maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
 
-### Review Log
+## Appendix A: Risk Scoring Methodology
 
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| November 25, 2025 | Eric Seidel  |
+Shorebird scores each risk using a qualitative 3×3 model:
+
+**Risk Score = Likelihood × Impact**
+
+### Likelihood Scale
+
+| Score | Rating      | Description                                             |
+| ----- | ----------- | ------------------------------------------------------- |
+| 3     | Very likely | Expected to occur frequently if not actively managed    |
+| 2     | Likely      | Could occur occasionally under normal circumstances     |
+| 1     | Unlikely    | Rare or exceptional circumstances needed for occurrence |
+
+### Impact Scale
+
+| Score | Rating   | Description                                                                    |
+| ----- | -------- | ------------------------------------------------------------------------------ |
+| 3     | Major    | Significant impact on strategic objectives, financial stability, or reputation |
+| 2     | Moderate | Noticeable operational, financial, or reputational effects                     |
+| 1     | Minor    | Minimal impact; easily managed with routine processes                          |
+
+### Risk Matrix (Likelihood × Impact)
+
+| Likelihood ↓ / Impact → | 1 (Minor)  | 2 (Moderate) | 3 (Major)  |
+| ----------------------- | ---------- | ------------ | ---------- |
+| 3 (Very likely)         | 3 (Medium) | 6 (High)     | 9 (High)   |
+| 2 (Likely)              | 2 (Low)    | 4 (Medium)   | 6 (High)   |
+| 1 (Unlikely)            | 1 (Low)    | 2 (Low)      | 3 (Medium) |
+
+### Risk Rating
+
+| Risk Score | Rating |
+| ---------- | ------ |
+| 6–9        | High   |
+| 3–5        | Medium |
+| 1–2        | Low    |
+
+### Residual Risk and Acceptance Criteria
+
+Residual risk is the risk remaining after existing controls have been applied,
+calculated as:
+
+**Residual Risk Score = Likelihood (after controls) × Impact (after controls)**
+
+Residual risks are evaluated against Shorebird's defined risk tolerance to
+determine whether additional treatment is required:
+
+- **Low residual risk (score 1–2)**: Acceptable. May be accepted by the assigned
+  Risk Owner, subject to ongoing monitoring.
+- **Medium residual risk (score 3–5)**: May be accepted where justified,
+  documented in the risk register, and approved by the relevant Department Head
+  or Senior Management. Additional treatment should be considered where
+  practical and cost-effective.
+- **High residual risk (score 6–9)**: Exceeds Shorebird's normal acceptance
+  threshold and must be treated with priority through mitigation, avoidance, or
+  transfer. Acceptance is permitted only in exceptional circumstances with
+  documented business justification and formal approval from Senior Management.
+
+All accepted residual risks must be recorded in the risk register, including the
+reason for acceptance, the approval authority, the assigned risk owner, and the
+review date.

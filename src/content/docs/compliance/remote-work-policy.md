@@ -1,29 +1,29 @@
 ---
 title: Remote Work Policy
-description: Code Town Remote Work Policy
+description: Shorebird Remote Work Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
-This Remote Work Policy establishes guidelines for securing Code Town's assets
-and sensitive information in remote work environments. This is a key policy
-given that we are a remote first company. It aims to maintain security and
-confidentiality while employees work from various locations outside of
-traditional office spaces.
+This Remote Work Policy establishes guidelines for securing Code Town, Inc.
+(D/B/A “Shorebird”)'s assets and sensitive information in remote work
+environments. This is a key policy given that we are a remote first company. It
+aims to maintain security and confidentiality while employees work from various
+locations outside of traditional office spaces.
 
-This policy applies to all Code Town employees, contractors, and authorized
+This policy applies to all Shorebird employees, contractors, and authorized
 third parties engaged in remote work activities.
 
 ## Policy Statements: Our Commitments
 
-The following policy statements outline how Code Town manages physical security
+The following policy statements outline how Shorebird manages physical security
 measures in remote work environments to protect its assets and information.
 
 ### Work Environment and Equipment
 
 Employees working remotely are responsible for maintaining a professional and
-secure workspace to protect company assets and data. Code Town will provide the
+secure workspace to protect company assets and data. Shorebird will provide the
 necessary tools and resources for remote work.
 
 Key requirements:
@@ -77,14 +77,14 @@ and regularly updated.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 
@@ -92,9 +92,3 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| November 25, 2025 | Eric Seidel  |

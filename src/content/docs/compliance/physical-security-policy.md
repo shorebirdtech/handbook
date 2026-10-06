@@ -1,21 +1,21 @@
 ---
 title: Physical Security Policy
-description: Code Town Physical Security Policy
+description: Shorebird Physical Security Policy
 template: doc
 ---
 
 ## Overview
 
-All access to Code Town's physical locations are governed by this policy and
-managed by the leadership team. The policy aims to ensure that access to the
-office is secured and restricted to authorized individuals to protect our
-employees, data, and assets from unauthorized access or potential security
-breaches.
+All access to Code Town, Inc. (D/B/A “Shorebird”)'s physical locations are
+governed by this policy and managed by the leadership team. The policy aims to
+ensure that access to the office is secured and restricted to authorized
+individuals to protect our employees, data, and assets from unauthorized access
+or potential security breaches.
 
-The entirety of the Code Town application is hosted on Cloud Services such as
+The entirety of the Shorebird application is hosted on Cloud Services such as
 Google Cloud. These cloud providers maintain documentation surrounding their
-physical security controls, and the Code Town team reviews this documentation
-yearly to ensure it is compliant with Code Town security requirements.
+physical security controls, and the Shorebird team reviews this documentation
+yearly to ensure it is compliant with Shorebird security requirements.
 
 ## Policy Statements: Our Commitments
 
@@ -37,10 +37,10 @@ yearly to ensure it is compliant with Code Town security requirements.
 
 ### Pandemic Readiness
 
-In the event of a pandemic, Code Town will follow the guidance and
+In the event of a pandemic, Shorebird will follow the guidance and
 recommendations provided by local, state, and federal health authorities to
 ensure the safety and well-being of our employees. As a fully remote company,
-Code Town is well-positioned to maintain business continuity during a pandemic.
+Shorebird is well-positioned to maintain business continuity during a pandemic.
 However, we recognize that our employees may face additional challenges, such as
 increased family responsibilities or potential health concerns.
 
@@ -62,9 +62,3 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| November 25, 2025 | Eric Seidel  |

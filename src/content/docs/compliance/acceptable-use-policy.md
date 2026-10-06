@@ -1,21 +1,21 @@
 ---
 title: Acceptable Use Policy
-description: Code Town Acceptable Use Policy
+description: Shorebird Acceptable Use Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
-Security is a shared responsibility across Code Town. All employees are expected
-to act with professional judgment based on standards and prior experience. In
-uncertain situations, seek guidance.
+Security is a shared responsibility across Code Town, Inc. (D/B/A “Shorebird”).
+All employees are expected to act with professional judgment based on standards
+and prior experience. In uncertain situations, seek guidance.
 
 This policy applies to all employees, contractors, and third-party users who
-access Code Town's information systems and data.
+access Shorebird's information systems and data.
 
 ## Policy Statements: Our Commitments
 
-The following sections outline key expectations for protecting Code Town's data,
+The following sections outline key expectations for protecting Shorebird's data,
 systems, and security, covering guidelines for handling information, securing
 accounts, devices, and communications, and maintaining both physical and digital
 security.
@@ -81,14 +81,14 @@ authorization.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 
@@ -96,9 +96,3 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| November 25, 2025 | Eric Seidel  |

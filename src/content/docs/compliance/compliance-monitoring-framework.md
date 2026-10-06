@@ -1,18 +1,18 @@
 ---
 title: Compliance Monitoring Framework
 description:
-  How Code Town monitors and measures the performance and effectiveness of its
+  How Shorebird monitors and measures the performance and effectiveness of its
   ISMS
 template: doc
 sidebar:
   order: 2
 ---
 
-This page describes how Code Town evaluates whether its Information Security
-Management System (ISMS) is performing effectively, in accordance with ISO/IEC
-27001 Clause 9.1. It is the connective layer between our individual security
-policies and our management review process. It defines what we measure, how
-often, and what we do with the results.
+This page describes how Code Town, Inc. (D/B/A “Shorebird”) evaluates whether
+its Information Security Management System (ISMS) is performing effectively, in
+accordance with ISO/IEC 27001 Clause 9.1. It is the connective layer between our
+individual security policies and our management review process. It defines what
+we measure, how often, and what we do with the results.
 
 ## What We Monitor
 
@@ -77,7 +77,7 @@ resolution. Open non-conformities are reviewed at the annual management review.
 
 The Leadership Team conducts a formal management review of the ISMS at least
 annually. The review assesses whether the ISMS remains suitable, adequate, and
-effective, and stays aligned with Code Town's objectives, risks, and regulatory
+effective, and stays aligned with Shorebird's objectives, risks, and regulatory
 obligations. Additional reviews may be convened when a significant change occurs
 — for example a major security incident, a substantial change in risk, or a new
 regulatory requirement.
@@ -129,9 +129,3 @@ review if still open.
 
 This framework is reviewed annually or when significant changes occur to the
 scope, technology environment, or regulatory requirements.
-
-### Review Log
-
-| **Review Date** | **Approver** |
-| --------------- | ------------ |
-| June 25, 2026   | Eric Seidel  |

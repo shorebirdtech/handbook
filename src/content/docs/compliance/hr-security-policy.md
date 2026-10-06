@@ -1,17 +1,17 @@
 ---
 title: Human Resource Security Policy
-description: Code Town Human Resource Security Policy
+description: Shorebird Human Resource Security Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 This Human Resource Security Policy establishes guidelines and procedures for
-safeguarding Code Town's information assets through effective human resource
-management practices.
+safeguarding Code Town, Inc. (D/B/A “Shorebird”)'s information assets through
+effective human resource management practices.
 
 This policy applies to all employees, contractors, and third parties who have
-access to Code Town's systems and data.
+access to Shorebird's systems and data.
 
 ## Policy Statements: Our Commitments
 
@@ -22,10 +22,10 @@ practices and regulatory requirements.
 ### Recruitment and Onboarding
 
 Appropriate reference checks on all prospective employees, contractors, and
-third parties who will have access to Code Town's data or systems are conducted.
+third parties who will have access to Shorebird's data or systems are conducted.
 
 Reference checks verify a candidate's qualifications, experience, and
-suitability before access to Code Town's data or systems is granted, and follow
+suitability before access to Shorebird's data or systems is granted, and follow
 this process:
 
 - **Owner.** The hiring manager owns the reference check for their candidate,
@@ -57,7 +57,7 @@ agreements before accessing company data or systems.
 ### During Employment
 
 All employees and contractors must participate in mandatory security awareness
-and training programs to promote a strong security culture within Code Town.
+and training programs to promote a strong security culture within Shorebird.
 
 Performance management includes security practices reviews, such as recognition
 of good security behavior and prompt and fair addressing of security mistakes or
@@ -68,7 +68,7 @@ maintained.
 
 ### Offboarding and Access Termination
 
-When employment or contractual relationships end, all access to Code Town’s
+When employment or contractual relationships end, all access to Shorebird’s
 systems, data, and physical assets must be revoked promptly, and company
 property returned.
 
@@ -79,14 +79,26 @@ termination of employment.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
+
+## Competence
+
+Shorebird determines the competence necessary for personnel performing work that
+affects information security performance under the ISMS. Competence is evidenced
+through appropriate education, training, or experience, and documented evidence
+(such as CVs, certifications, training records, or references) is retained for
+each individual assigned to an ISMS role.
+
+Competence records are reviewed and updated when role responsibilities change or
+on an annual basis, and gaps in competence are addressed through additional
+training, mentoring, or reassignment of duties.
 
 ## Policy Review and Maintenance
 
@@ -95,26 +107,19 @@ maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
 
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| July 31, 2026     | Eric Seidel  |
-| November 25, 2025 | Eric Seidel  |
-
 ## Appendix A: Process for Disciplinary Process
 
 In case of non-compliance, the following high-level process is followed:
 
-1. Workforce members report non-compliance of Code Town's policies and
+1. Workforce members report non-compliance of Shorebird's policies and
    procedures to the Security Officer or other individual as assigned by the
    Security Officer. Individuals that report violations in good faith may not be
    subjected to intimidation, threats, coercion, discrimination against, or any
    other retaliatory action as a consequence.
 2. The Security Officer promptly facilitates a thorough investigation of all
-   reported violations of Code Town's security policies and procedures. The
+   reported violations of Shorebird's security policies and procedures. The
    Security Officer may request the assistance from others.
-3. Any individual found to be in violation of Code Town policies may be
+3. Any individual found to be in violation of Shorebird policies may be
    subjected to disciplinary actions, up to and including termination. Violation
    of this policy and procedures by others, including customers, and partners
    may result in termination of the relationship and/or associated privileges.

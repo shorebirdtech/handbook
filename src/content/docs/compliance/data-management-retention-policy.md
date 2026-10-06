@@ -1,21 +1,21 @@
 ---
 title: Data Management and Retention Policy
-description: Code Town Data Management and Retention Policy
+description: Shorebird Data Management and Retention Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
-This policy details the protocols and measures that Code Town employs to oversee
-the entire data lifecycle, from the point of creation or acquisition through to
-retention and eventual deletion.
+This policy details the protocols and measures that Code Town, Inc. (D/B/A
+“Shorebird”) employs to oversee the entire data lifecycle, from the point of
+creation or acquisition through to retention and eventual deletion.
 
 This policy applies to all employees, contractors, and third parties who have
 access to our organization's data, regardless of its format or storage location.
 
 ## Policy Statements: Our Commitments
 
-The following commitments outline how Code Town will manage data throughout its
+The following commitments outline how Shorebird will manage data throughout its
 lifecycle.
 
 ### Data Classification and Labeling
@@ -23,7 +23,7 @@ lifecycle.
 All data must be classified based on its sensitivity and labeled accordingly to
 ensure proper handling and retention.
 
-Code Town classifies data into the following categories:
+Shorebird classifies data into the following categories:
 
 | **Data Classification Level** | **Description**                                                                                       | **Examples**                                                                                        | **Handling Requirements**                                                                                                                                                                                                                                        |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ Code Town classifies data into the following categories:
 ### Inventory Creation and Maintenance
 
 A data inventory must be created and maintained for all types of data processed
-by Code Town, covering both structured (databases, CRM systems) and unstructured
+by Shorebird, covering both structured (databases, CRM systems) and unstructured
 data (documents, emails).
 
 The inventory should include key details such as:
@@ -111,21 +111,21 @@ unnecessary storage of outdated or incorrect information.
 
 ### Breach Notification Procedures
 
-Code Town has established a clear process for identifying, reporting, and
+Shorebird has established a clear process for identifying, reporting, and
 responding to data breaches. Affected individuals and relevant authorities are
 notified within required timeframes.
 
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 
@@ -133,9 +133,3 @@ This policy will be reviewed annually or when significant changes occur to
 maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
-
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| November 25, 2025 | Eric Seidel  |
