@@ -1,16 +1,16 @@
 ---
 title: Internal Audit Program
 description:
-  Code Town's internal audit program for evaluating the effectiveness of its
+  Shorebird's internal audit program for evaluating the effectiveness of its
   Information Security Management System (ISMS)
 template: doc
 ---
 
-Code Town, Inc maintains an internal audit program to evaluate the effectiveness
-and compliance of its Information Security Management System (ISMS) in
-accordance with ISO/IEC 27001. The program ensures we systematically review
-security controls, identify gaps, and drive continuous improvement — without
-building unnecessary process overhead for a small team.
+Code Town, Inc. (D/B/A “Shorebird”) maintains an internal audit program to
+evaluate the effectiveness and compliance of its Information Security Management
+System (ISMS) in accordance with ISO/IEC 27001. The program ensures we
+systematically review security controls, identify gaps, and drive continuous
+improvement — without building unnecessary process overhead for a small team.
 
 ## Scope
 
@@ -182,11 +182,11 @@ recommendations for improving the audit program._
 
 ### Sign-Off
 
-| Role                | Name     | Date |
-| ------------------- | -------- | ---- |
-| Lead Auditor        |          |      |
-| ISMS Manager        | Tom Arra |      |
-| Management Reviewer |          |      |
+| Role                | Name | Date |
+| ------------------- | ---- | ---- |
+| Lead Auditor        |      |      |
+| ISMS Manager        |      |      |
+| Management Reviewer |      |      |
 
 ---
 

@@ -1,18 +1,18 @@
 ---
 title: Code of Conduct
-description: Code Town Code of Conduct
+description: Shorebird Code of Conduct
 template: doc
 ---
 
 ## Overview
 
-At Code Town, we prioritize creating a secure, respectful, and inclusive
-environment for all our team members, customers, and partners. This Code of
-Conduct (CoC) establishes the foundation for behaviors, decisions, and actions
-that reflect our values and commitment to excellence.
+At Code Town, Inc. (D/B/A “Shorebird”), we prioritize creating a secure,
+respectful, and inclusive environment for all our team members, customers, and
+partners. This Code of Conduct (CoC) establishes the foundation for behaviors,
+decisions, and actions that reflect our values and commitment to excellence.
 
 This CoC applies to all team members, contractors, interns, stakeholders, and
-anyone who engages with Code Town, whether in person, online, during events, or
+anyone who engages with Shorebird, whether in person, online, during events, or
 in any other capacity related to our services.
 
 ## Respect and Inclusivity
@@ -68,7 +68,7 @@ in any other capacity related to our services.
 
 ## Conclusion
 
-At Code Town, our strength lies in our diversity, dedication to security, and
+At Shorebird, our strength lies in our diversity, dedication to security, and
 commitment to excellence. Upholding this CoC ensures that we maintain a culture
 of integrity and respect. Together, let's create a brighter, safer, and more
 inclusive future for everyone involved.

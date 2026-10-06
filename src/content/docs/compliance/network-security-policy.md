@@ -1,17 +1,18 @@
 ---
 title: Network Security Policy
-description: Code Town Network Security Policy
+description: Shorebird Network Security Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 This Network Security Policy establishes guidelines and requirements for
-securing Code Town's network infrastructure, protecting it from unauthorized
-access, misuse, modification, or denial of service.
+securing Code Town, Inc. (D/B/A “Shorebird”)'s network infrastructure,
+protecting it from unauthorized access, misuse, modification, or denial of
+service.
 
 This policy applies to all employees, contractors, and third parties who use or
-manage Code Town's network resources.
+manage Shorebird's network resources.
 
 ## Policy Statements: Our Commitments
 
@@ -22,7 +23,7 @@ response.
 
 ### Network Architecture and Security Controls
 
-Code Town implements:
+Shorebird implements:
 
 - A secure network architecture with clearly defined security zones per our
   cloud service providers recommendations.
@@ -69,14 +70,14 @@ current and projected demand.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 

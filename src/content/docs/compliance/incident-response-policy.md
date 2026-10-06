@@ -1,18 +1,18 @@
 ---
 title: Incident Response Policy
-description: Code Town Incident Response Policy
+description: Shorebird Incident Response Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 This Incident Response Policy establishes a framework for detecting, reporting,
-assessing, and responding to information security incidents at Code Town. It
-aims to minimize the impact of security incidents on business operations, data
-integrity, and stakeholder trust.
+assessing, and responding to information security incidents at Code Town, Inc.
+(D/B/A “Shorebird”). It aims to minimize the impact of security incidents on
+business operations, data integrity, and stakeholder trust.
 
 This policy applies to all employees, contractors, and third parties who have
-access to Code Town's information systems and data.
+access to Shorebird's information systems and data.
 
 ## Policy Statements: Our Commitments
 
@@ -22,7 +22,7 @@ incident detection to post-incident review.
 
 ### Incident Response Framework
 
-Code Town will implement a structured incident response framework that includes
+Shorebird will implement a structured incident response framework that includes
 the following phases:
 
 - **Preparation**: Establishing and maintaining the tools, processes,
@@ -46,7 +46,7 @@ the following phases:
 
 ### Incident Response Procedures
 
-To support the incident response framework, Code Town will maintain detailed
+To support the incident response framework, Shorebird will maintain detailed
 incident response procedures to guide the organization through each phase of
 incident handling. These procedures must include:
 
@@ -91,9 +91,9 @@ Incidents will be classified based on their severity, such as:
 All incidents, regardless of severity, must be logged and documented for further
 analysis and reporting.
 
-As a U.S.-based company, Code Town Inc will escalate incidents to appropriate
-U.S. authorities when necessary. This includes contacting emergency services via
-911 for any incidents involving physical safety or threats, and reporting
+As a U.S.-based company, Shorebird will escalate incidents to appropriate U.S.
+authorities when necessary. This includes contacting emergency services via 911
+for any incidents involving physical safety or threats, and reporting
 cyber-related crimes to the
 [Internet Crime Complaint Center (IC3)](https://www.ic3.gov). The decision to
 involve law enforcement or regulatory agencies will be made by the Incident
@@ -113,7 +113,7 @@ review.
 
 ### Recovery and Restoration
 
-After the incident has been contained and eradicated, Code Town will work to
+After the incident has been contained and eradicated, Shorebird will work to
 restore normal operations based on the relevant Incident Response Plan. This
 includes:
 
@@ -145,14 +145,14 @@ drive continuous improvement.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 

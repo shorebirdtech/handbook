@@ -1,20 +1,20 @@
 ---
 title: Audit Log Management Policy
-description: Code Town Audit Log Management Policy
+description: Shorebird Audit Log Management Policy
 template: doc
 ---
 
 ## Overview
 
-Code Town employs a robust logging system, tracking detailed information on
-actions within production systems, including the initiator, timing, and origin
-of each action. This is the foundation of a comprehensive audit system that
-allows Code Town employees to identify and remediate any security incidents that
-occur on the platform.
+Code Town, Inc. (D/B/A “Shorebird”) employs a robust logging system, tracking
+detailed information on actions within production systems, including the
+initiator, timing, and origin of each action. This is the foundation of a
+comprehensive audit system that allows Shorebird employees to identify and
+remediate any security incidents that occur on the platform.
 
 ## Policy Statements
 
-1. All Code Town production systems must log any security related events. This
+1. All Shorebird production systems must log any security related events. This
    includes but is not limited to:
 
    a. Login attempts

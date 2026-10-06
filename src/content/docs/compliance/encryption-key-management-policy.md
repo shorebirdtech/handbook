@@ -1,6 +1,6 @@
 ---
 title: Encryption & Key Management Policy
-description: Code Town Encryption & Key Management Policy
+description: Shorebird Encryption & Key Management Policy
 template: doc
 ---
 
@@ -64,14 +64,14 @@ ensure compliance.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Code Town, Inc. (D/B/A “Shorebird”)'s data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 

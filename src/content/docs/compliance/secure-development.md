@@ -1,15 +1,15 @@
 ---
 title: Secure Development Policy
-description: Code Town Secure Development Policy
+description: Shorebird Secure Development Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 This Secure Development Policy establishes guidelines and requirements for
-secure software development practices at Code Town. It aims to integrate
-security throughout the software development lifecycle (SDLC) to minimize
-vulnerabilities and protect company and customer data.
+secure software development practices at Code Town, Inc. (D/B/A “Shorebird”). It
+aims to integrate security throughout the software development lifecycle (SDLC)
+to minimize vulnerabilities and protect company and customer data.
 
 This policy applies to all employees, contractors, and third parties involved in
 software development activities.
@@ -84,14 +84,14 @@ practices and emerging threats.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 

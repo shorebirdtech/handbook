@@ -1,15 +1,15 @@
 ---
 title: Compliance Policy
-description: Code Town Compliance Policy
+description: Shorebird Compliance Policy
 template: doc
 ---
 
 ## Purpose
 
-The purpose of this policy is to ensure that Code Town systematically
-identifies, documents, investigates, and addresses all applicable legal,
-regulatory, contractual, and information security obligations. This policy
-establishes a structured framework for compliance management, including
+The purpose of this policy is to ensure that Code Town, Inc. (D/B/A “Shorebird”)
+systematically identifies, documents, investigates, and addresses all applicable
+legal, regulatory, contractual, and information security obligations. This
+policy establishes a structured framework for compliance management, including
 corrective action procedures that prevent recurrence of non-conformities and
 drive continuous improvement.
 
@@ -18,13 +18,13 @@ drive continuous improvement.
 This policy applies to
 
 - All employees, contractors, and temporary staff.
-- Third-party vendors and service providers with access to Code Town systems or
+- Third-party vendors and service providers with access to Shorebird systems or
   data.
 - All business units and subsidiaries, where applicable.
 
 ## Policy Statement
 
-Code Town is committed to:
+Shorebird is committed to:
 
 - Identifying all relevant legal, regulatory, and contractual obligations
 - Maintaining an up-to-date compliance register
@@ -63,7 +63,7 @@ The Compliance Team shall:
 
 ## Non-Conformity Management and Corrective Actions
 
-Code Town shall maintain a structured Non-Conformity and Corrective Action
+Shorebird shall maintain a structured Non-Conformity and Corrective Action
 Procedure that includes:
 
 - Identification and Reporting
@@ -95,7 +95,7 @@ Procedure that includes:
   - If actions are found ineffective, further corrective steps will be taken.
 - Continual Improvement
   - Findings from non-conformities will be reviewed periodically and used to
-    strengthen Code Town’s security and compliance programs.
+    strengthen Shorebird’s security and compliance programs.
 
 ## Monitoring and Review
 
@@ -140,7 +140,7 @@ Reviews must consider changes in the regulatory landscape.
 
 ### Non-Conformity Report Form
 
-The Code Town approved
+The Shorebird approved
 [Non-Conformity Report Form](https://docs.google.com/document/d/1-sbyHUgpoFEGX2xcFaXKpcUkbaUCPf5H-UVdF-v0Ipo/edit?tab=t.0)
 can be found in our Shared Google Drive. To use this form, create a copy of this
 document, fill out all relevant sections to the best of your abilities and

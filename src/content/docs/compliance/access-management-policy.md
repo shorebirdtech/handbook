@@ -1,16 +1,17 @@
 ---
 title: Access Management Policy
-description: Code Town Access Management Policy
+description: Shorebird Access Management Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
-Access to Code Town's systems is governed by the principle of least privilege -
-all users are to be granted only the minimum necessary access and privileges.
+Access to Code Town, Inc. (D/B/A “Shorebird”)'s systems is governed by the
+principle of least privilege - all users are to be granted only the minimum
+necessary access and privileges.
 
 This policy applies to all employees, contractors, and third-party users who
-have access to Code Town's information systems and data.
+have access to Shorebird's information systems and data.
 
 ## Policy Statements: Our Commitments
 
@@ -77,7 +78,7 @@ follow the principle of least privilege.
 Third-party access is reviewed quarterly, and they must comply with this policy
 and other security requirements.
 
-As of May 2025 Code Town does not currently allow third-party access.
+As of May 2025 Shorebird does not currently allow third-party access.
 
 ### Monitoring and Logging
 
@@ -87,14 +88,14 @@ unauthorized activity. Logs must be protected from tampering.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 

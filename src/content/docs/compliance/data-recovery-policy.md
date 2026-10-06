@@ -1,17 +1,18 @@
 ---
 title: Data Recovery Policy
-description: Code Town Data Recovery Policy
+description: Shorebird Data Recovery Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 This Data Recovery Policy outlines the requirements for the backup and recovery
-of Code Town’s critical data and systems to maintain business continuity and
-protect data from accidental loss, corruption, or disasters.
+of Code Town, Inc. (D/B/A “Shorebird”)’s critical data and systems to maintain
+business continuity and protect data from accidental loss, corruption, or
+disasters.
 
 This policy applies to all systems, applications, and data owned, managed, or
-controlled by Code Town, including systems hosted by third-party providers.
+controlled by Shorebird, including systems hosted by third-party providers.
 
 ## Policy Statements: Our Commitments
 
@@ -61,14 +62,14 @@ resolved.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 

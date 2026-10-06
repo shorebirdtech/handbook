@@ -1,21 +1,22 @@
 ---
 title: Password Policy
-description: Code Town Password Policy
+description: Shorebird Password Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 This Password Policy establishes guidelines and requirements for password
-creation, management, and use at Code Town. It aims to enhance the security of
-our information systems and data by promoting strong password practices.
+creation, management, and use at Code Town, Inc. (D/B/A “Shorebird”). It aims to
+enhance the security of our information systems and data by promoting strong
+password practices.
 
 This policy applies to all employees, contractors, and third parties who have
-access to Code Town's systems and data.
+access to Shorebird's systems and data.
 
 ## Policy Statements: Our Commitments
 
-The following policy statements outline how Code Town manages password security
+The following policy statements outline how Shorebird manages password security
 to protect its assets and information.
 
 ### Password Creation and Authentication
@@ -35,7 +36,7 @@ create strong passwords that meet the following criteria:
 - Passwords must be unique and not used for any other account, personal or
   professional
 
-Code Town enforces password complexity requirements through technical controls
+Shorebird enforces password complexity requirements through technical controls
 and passwords are checked against a list of commonly used or compromised
 passwords.
 
@@ -50,7 +51,7 @@ potential security incidents.
 
 MFA is required for:
 
-- All access to Code Town's cloud systems
+- All access to Shorebird's cloud systems
 - Access to sensitive systems or data
 - Access to our password manager, 1Password
 
@@ -73,21 +74,21 @@ review the necessity and access levels of service accounts.
 
 ### Password Managers
 
-Code Town provides and encourages the use of a company-approved password
+Shorebird provides and encourages the use of a company-approved password
 manager, specifically 1Password. Employees should use the password manager to
 generate and store complex, unique passwords for each account.
 
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 

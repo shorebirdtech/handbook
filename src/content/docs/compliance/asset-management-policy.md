@@ -1,20 +1,21 @@
 ---
 title: Asset Management Policy
-description: Code Town Asset Management Policy
+description: Shorebird Asset Management Policy
 template: doc
 ---
 
 ## Purpose and Scope
 
 This Asset Management Policy establishes guidelines for the identification,
-classification, and protection of Code Town's information assets.
+classification, and protection of Code Town, Inc. (D/B/A “Shorebird”)'s
+information assets.
 
 It applies to all employees, contractors, and third-party vendors who manage or
 use company assets.
 
 ## Policy Statements: Our Commitments
 
-Code Town is committed to protecting its assets by ensuring they are properly
+Shorebird is committed to protecting its assets by ensuring they are properly
 classified, secured, and maintained throughout their lifecycle.
 
 ### Asset Inventory
@@ -114,14 +115,14 @@ access, data breaches) must be reported to IT and management immediately.
 ## Compliance and Enforcement
 
 Compliance with this policy is mandatory for all employees, contractors, and
-third parties with access to Code Town's data.
+third parties with access to Shorebird's data.
 
 In rare cases, business needs, local laws, or regulations may require
 exceptions. Management will approve any exceptions and define alternative
 solutions.
 
 Non-compliance may lead to disciplinary action, including termination, as per
-Code Town's policies.
+Shorebird's policies.
 
 ## Policy Review and Maintenance
 
