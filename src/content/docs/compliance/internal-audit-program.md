@@ -79,12 +79,6 @@ maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
 
-## Review Log
-
-| **Review Date** | **Approver** |
-| --------------- | ------------ |
-| March 26, 2025  | Eric Seidel  |
-
 his template is completed once per audit cycle and retained as internal evidence
 for Shorebird's ISO/IEC 27001 certification. Completed reports are not
 published.

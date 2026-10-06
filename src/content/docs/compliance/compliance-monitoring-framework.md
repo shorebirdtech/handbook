@@ -129,9 +129,3 @@ review if still open.
 
 This framework is reviewed annually or when significant changes occur to the
 scope, technology environment, or regulatory requirements.
-
-### Review Log
-
-| **Review Date** | **Approver** |
-| --------------- | ------------ |
-| June 25, 2026   | Eric Seidel  |

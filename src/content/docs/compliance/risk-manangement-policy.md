@@ -106,12 +106,6 @@ maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
 
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| November 25, 2025 | Eric Seidel  |
-
 ## Appendix A: Risk Scoring Methodology
 
 Shorebird scores each risk using a qualitative 3×3 model:

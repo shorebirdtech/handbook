@@ -130,12 +130,6 @@ maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
 
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| November 25, 2025 | Eric Seidel  |
-
 ## Appendix
 
 ### Non-Conformity Report Form

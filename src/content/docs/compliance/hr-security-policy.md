@@ -107,13 +107,6 @@ maintain its continuing suitability, adequacy, and effectiveness.
 
 Reviews must consider changes in the regulatory landscape.
 
-### Review Log
-
-| **Review Date**   | **Approver** |
-| ----------------- | ------------ |
-| July 31, 2026     | Eric Seidel  |
-| November 25, 2025 | Eric Seidel  |
-
 ## Appendix A: Process for Disciplinary Process
 
 In case of non-compliance, the following high-level process is followed:
