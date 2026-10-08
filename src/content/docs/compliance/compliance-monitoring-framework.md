@@ -44,7 +44,7 @@ specific signal we track to assess whether that policy's controls are working.
 | Asset inventory review                 | Quarterly                         | Operations                                                        |
 | Vendor risk assessment                 | Annually (or on contract renewal) | Operations                                                        |
 | BCP/DR test                            | Annually                          | Engineering                                                       |
-| ISMS metrics review                    | Quarterly                         | Leadership Team                                                   |
+| ISMS metrics review                    | Annually                          | Leadership Team                                                   |
 | Internal audit                         | Annually                          | See [Internal Audit Program](/compliance/internal-audit-program/) |
 | Management review                      | Annually                          | Leadership Team                                                   |
 
