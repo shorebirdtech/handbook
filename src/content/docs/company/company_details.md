@@ -288,11 +288,6 @@ learning.
   working on helping the world stop writing everything twice 20 years, including
   major contributions to WebKit, Safari, Blink and Chrome.
 
-- Dawn Parzych ([@dparzych](https://x.com/dparzych)), Head of Marketing -- Dawn
-  is a developer-focused marketing leader with expertise in developer tools and
-  cloud. She has led major events and marketing initiatives at Cloudflare and
-  LaunchDarkly, and has served as a volunteer organizer for DevOpsDays.
-
 - Wesley Peck, Product Manager
 
 - Josh Owens, Sales Lead
