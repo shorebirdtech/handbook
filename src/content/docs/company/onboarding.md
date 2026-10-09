@@ -320,6 +320,18 @@ your manager to determine and get onboarded to the systems you believe you need.
 - Sphere - Tax Platform
 - Ramp - Expense Tool
 
+**Business Operations**
+
+- Rippling - Payroll, benefits, and state registrations (admin access)
+- Plain - Support inbox for billing@ and contact@
+- Stripe - Payment Platform
+- Pilot - Accountant
+- Ramp - Expense Tool
+- Oneleet - ISO compliance
+- 1Password - Shared vaults for vendor logins
+- Shared inboxes (privacy@, operations@, contracts@) - Your manager will add you
+  to these.
+
 #### Marketing Team
 
 This list will change based on the scope of your role. Your manager will work
@@ -426,11 +438,11 @@ We've found a pattern that works well for new team members regardless of role:
    you want us to fix — that's the point.
 
 2. **Close the loop.** Land a patch (even just a typo fix), do a review, or the
-   equivalent for your role — write a slide deck, write a doc, send an email.
-   This helps you feel productive, but more importantly it illuminates the real
-   blockers — did we forget to give you access to something? Is our process
-   confusing somewhere? It's just good at surfacing what's broken about
-   onboarding.
+   equivalent for your role — write a slide deck, write a doc, send an email,
+   file a form, close out a vendor account. This helps you feel productive, but
+   more importantly it illuminates the real blockers — did we forget to give you
+   access to something? Is our process confusing somewhere? It's just good at
+   surfacing what's broken about onboarding.
 
 3. **Focus on one area.** Your scope will grow over time, but finding your feet
    commonly comes from focus. Pick one repository or one area of the product,
@@ -580,7 +592,9 @@ Week of Offer
 
 - Reach out to the team and candidate to congratulate on their joining.
 - Start their personal (private) onboarding materials which should link to these
-  shared ones, but include details specific to their role.
+  shared ones, but include details specific to their role. Keep it short: a
+  welcome, what we are doing for them, and links. This handbook carries the
+  rest.
 - Check if this is a new state or country of operation for Code Town Inc. If so,
   work with the operations team to make sure we're registered to do business in
   that state. Rippling handles new state registrations.
