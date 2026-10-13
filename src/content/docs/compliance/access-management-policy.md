@@ -39,7 +39,7 @@ In addition, the following access control commitments are applicable:
 - Sessions are invalidated after a period of inactivity.
 - Administrative access to production systems is limited to the minimum
   necessary.
-- Access rights are reviewed at least quarterly, and access to networks is based
+- Access rights are reviewed at least annually, and access to networks is based
   on business needs.
 
 ### Authorization and Termination

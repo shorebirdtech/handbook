@@ -82,3 +82,16 @@ h6 {
 .site-title img {
   height: 1.5rem;
 }
+
+/* starlight-theme-nova renders the site header as `position: fixed`, which
+   Chrome repeats at the top of every printed page, covering content. Starlight's
+   own print fix targets `.page > header`, which doesn't match Nova's markup. */
+@media print {
+  header:has(~ .main-frame) {
+    position: static;
+  }
+
+  .main-frame {
+    padding-top: 0;
+  }
+}
