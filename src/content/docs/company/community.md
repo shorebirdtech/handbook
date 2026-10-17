@@ -10,6 +10,13 @@ The Flutter Community is something that we deeply value and aim to help build
 and grow. We do this by not just building products but also being active members
 in the worldwide community via online and in person mediums.
 
+A second community is forming alongside it: people building mobile apps through
+agents, many of whom have never heard of Flutter and aren't shopping for a
+framework. They're not on the Flutter Discords and they won't be at FlutterCon.
+Reaching them looks different and we're still working out how. It doesn't
+replace our work in the Flutter community, which is where our credibility comes
+from and where a lot of it still gets earned.
+
 ## Discord
 
 We use Discord for (almost) all public & private communications. You can join it
