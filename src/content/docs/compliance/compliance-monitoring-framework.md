@@ -118,7 +118,7 @@ review if still open.
    the agenda and pre-read at least five business days before the meeting.
 2. **Conduct** — The Leadership Team reviews each input and agrees decisions and
    actions.
-3. **Record** — Minutes are captured and stored in Google Drive.
+3. **Record** — Minutes are captured and stored in Notion.
 4. **Approve** — The minutes are approved by the review chair.
 5. **Track** — Actions are tracked to completion; open items are carried to the
    next review.
