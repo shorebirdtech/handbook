@@ -65,7 +65,7 @@ time periods and reproducible by different reviewers.
 
 ## Recording Results
 
-Monitoring results are recorded in our compliance platform. Each completed
+Monitoring results are recorded in our compliance platform or in Notion. Each completed
 monitoring activity should capture: the date, method used, person responsible,
 result against target, and any findings or exceptions.
 
