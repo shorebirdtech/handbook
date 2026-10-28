@@ -349,8 +349,8 @@ maturity of the organization.
   handled per the Incident Response Policy.
 
 The methods, frequency, and timing for analyzing and evaluating each measured
-item are defined in the Compliance Monitoring Framework policy; results feed
-the management review.
+item are defined in the Compliance Monitoring Framework policy; results feed the
+management review.
 
 ### Internal Audit
 
