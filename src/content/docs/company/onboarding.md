@@ -305,6 +305,7 @@ your manager to determine and get onboarded to the systems you believe you need.
 
 - Rippling - Payroll, benefits, and state registrations (admin access)
 - Plain - Support inbox for billing@ and contact@
+- Linear - Operations team issues
 - Stripe - Payment Platform
 - Pilot - Accountant
 - Ramp - Expense Tool
