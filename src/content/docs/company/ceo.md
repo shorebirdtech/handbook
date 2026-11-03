@@ -90,11 +90,11 @@ lines of communication and I expect you will want similar. I recognize you may
 not have the same values as I do, but I will start from that assumption.
 
 My autonomy value (and assumption that you share such) means I have historically
-had trouble telling people what to do. I'm getting better at giving direct
-direction, but my preference is still to align on where we’re going and trust
-your autonomy and decision making to get us there. I will respect your time and
-expect you to respect mine. Getting home to family and making space for my own
-health and wellbeing are crucial and I will assume you want similar.
+had trouble telling people what to do. I'm getting better at being direct, but
+my preference is still to align on where we’re going and trust your autonomy and
+decision making to get us there. I will respect your time and expect you to
+respect mine. Getting home to family and making space for my own health and
+wellbeing are crucial and I will assume you want similar.
 
 ## On management
 

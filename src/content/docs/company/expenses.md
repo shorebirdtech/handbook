@@ -47,14 +47,14 @@ be.
 
 ### Mechanics
 
-- Buy what you need on the card you have and expense it.
+- Buy what you need on your Ramp card.
 - Non-company expenses shouldn't go on a company card, but mistakes happen. Ramp
   has tools to pay us back.
 - You may privately use company property, a laptop for example, to check your
   private e-mails or watch a movie as long as it does not violate the law, harm
   the company, or interfere with Intellectual Property.
-- Anything over $1000 USD per item is company property, and we'll ask you to
-  return it if you leave.
+- Anything over $1000 USD per item, other than home office equipment, is company
+  property, and we'll ask you to return it if you leave.
 
 :::note
 
@@ -127,10 +127,10 @@ That's a real cost, and it's why the goal here isn't the cheapest possible trip.
 
 ### Flights
 
-For most trips that means economy, and premium economy on a long overnight when
-you're working the next day. More than that should be easy to explain. If you
-simply want a nicer seat, the economy fare goes on the company card and the
-upgrade on yours.
+Book economy for most trips, and premium economy on a long overnight when you're
+working the next day. More than that should be easy to explain. If you simply
+want a nicer seat, the economy fare goes on the company card and the upgrade on
+yours.
 
 Book what makes sense for the trip: for your health, your sleep, and for being
 able to move the company forward effectively while you're there. If your trip

@@ -69,15 +69,14 @@ machine will read it about as often as a person does.
 ### Testing
 
 We write tests. For code which has found its purpose (i.e. we expect to have it
-still in use in a few months), we expect tests, and most of our Dart code
-enforces 100% coverage in CI. For something experimental or exploratory, tests
-are best at making sure we don't have to fix the same bug twice, and fixing the
-same bug twice is a "problem of success" (something that can only occur when you
-have built something worth breaking twice). So go make something people want,
-we'll worry about keeping it working once we know it's something people want.
-The first test is always the hardest. Senior team members/founders have a
-responsibility to write these first tests and unlock the rest of the team to
-write tests for new areas.
+still in use in a few months), we expect tests (see Coverage below). For
+something experimental or exploratory, tests are best at making sure we don't
+have to fix the same bug twice, and fixing the same bug twice is a "problem of
+success" (something that can only occur when you have built something worth
+breaking twice). So go make something people want, we'll worry about keeping it
+working once we know it's something people want. The first test is always the
+hardest. Senior team members/founders have a responsibility to write these first
+tests and unlock the rest of the team to write tests for new areas.
 
 There's a second reason to care about tests now. A test is how an agent finds
 out whether it succeeded. Code with good tests is code an agent can work in
