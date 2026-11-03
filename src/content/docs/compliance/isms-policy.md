@@ -95,8 +95,7 @@ procedures used to provide that production environment, including:
   confidentiality, integrity, and availability of information.
 
 The ISMS applies to all business functions of Shorebird and is implemented by a
-mostly remote workforce and a small office in Palo Alto. No servers or
-production systems are hosted in the office.
+remote-by-default workforce, with a small office in Palo Alto.
 
 **Exclusions from the Scope**
 

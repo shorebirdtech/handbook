@@ -10,8 +10,7 @@ All access to Code Town, Inc. (D/B/A “Shorebird”)'s physical locations are
 governed by this policy and managed by the leadership team. The policy aims to
 ensure that access to any company office is secured and restricted to authorized
 individuals to protect our employees, data, and assets from unauthorized access
-or potential security breaches. Shorebird has a small office in Palo Alto. No
-servers or production systems are hosted there.
+or potential security breaches. Shorebird has a small office in Palo Alto.
 
 The entirety of the Shorebird application is hosted on Cloud Services such as
 Google Cloud. These cloud providers maintain documentation surrounding their
