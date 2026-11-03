@@ -53,10 +53,7 @@ All code changes must:
 - Address all high and critical security issues identified during review or
   analysis
 
-Branch protection requires an approving review and passing checks before a
-change merges, and any bypass is recorded on the pull request. Reviewing every
-change catches security issues early and keeps a record of why each change was
-made.
+Reviewing every change catches security issues early.
 
 ### Security Testing
 
