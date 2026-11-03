@@ -30,7 +30,7 @@ yearly to ensure it is compliant with Shorebird security requirements.
 4. Employees should be mindful of visitors in their home workspace and take
    steps to prevent over-the-shoulder access to sensitive information.
 5. Employees must follow company procedures for the secure disposal of sensitive
-   documents and data, using shredders or secure deletion tools as appropriate
+   documents and data, using shredders or secure deletion tools as appropriate.
 6. Employees must report any suspicious behavior or security incidents to Senior
    Leadership immediately.
 
