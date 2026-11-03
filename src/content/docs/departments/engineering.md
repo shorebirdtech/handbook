@@ -55,7 +55,8 @@ and unlock the rest of the team to write tests for new areas.
 
 We aim for 100% line coverage on code which has already found its purpose. If
 you're writing something experimental or exploratory, we don't expect coverage.
-Where a package has opted in, CI enforces this with a coverage gate.
+CI enforces this with a coverage gate, which a package can turn off until its
+code is ready.
 
 Almost all of our Dart code is at 100% line coverage. There are likely many
 branches that are not covered, but we've not tried to turn on branch coverage
