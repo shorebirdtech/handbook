@@ -53,10 +53,10 @@ and unlock the rest of the team to write tests for new areas.
 
 ### Coverage
 
-We aspire to 100% coverage for code which has already found its purpose. If
+We aim for 100% line coverage on code which has already found its purpose. If
 you're writing something experimental or exploratory, we don't expect coverage.
-We have a CodeCov license and it's very easy to set up on new code when it's
-ready for coverage.
+CI enforces this with a coverage gate, which a package can turn off until its
+code is ready.
 
 Almost all of our Dart code is at 100% line coverage. There are likely many
 branches that are not covered, but we've not tried to turn on branch coverage
