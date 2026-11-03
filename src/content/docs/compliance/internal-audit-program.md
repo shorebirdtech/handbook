@@ -44,10 +44,10 @@ manual review for controls not covered by automation.
 ## Auditor Independence
 
 Auditors must be independent of the area they are auditing. At the companies
-size, this is achieved through cross-functional assignment or by engaging an external party. Operations staff
-audit Engineering and infrastructure controls, and Engineering staff audit
-business process and HR security controls. Auditor assignments are documented in
-each audit report.
+size, this is achieved through cross-functional assignment or by engaging an
+external party. Operations staff audit Engineering and infrastructure controls,
+and Engineering staff audit business process and HR security controls. Auditor
+assignments are documented in each audit report.
 
 ## Findings and Corrective Actions
 

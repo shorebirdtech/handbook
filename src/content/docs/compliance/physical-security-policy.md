@@ -8,7 +8,10 @@ template: doc
 
 All access to Code Town, Inc. (D/B/A “Shorebird”)'s physical locations are
 governed by this policy and managed by the leadership team. The policy aims to
-ensure that access to any company office is secured and restricted to authorized individuals to protect our employees, data, and assets from unauthorized access or potential security breaches. Shorebird does not currently operate in a permanent office.
+ensure that access to any company office is secured and restricted to authorized
+individuals to protect our employees, data, and assets from unauthorized access
+or potential security breaches. Shorebird does not currently operate in a
+permanent office.
 
 The entirety of the Shorebird application is hosted on Cloud Services such as
 Google Cloud. These cloud providers maintain documentation surrounding their
@@ -28,8 +31,8 @@ yearly to ensure it is compliant with Shorebird security requirements.
    steps to prevent over-the-shoulder access to sensitive information.
 5. Employees must follow company procedures for the secure disposal of sensitive
    documents and data, using shredders or secure deletion tools as appropriate
-6. Employees must report any suspicious behavior or security incidents to
-   Senior Leadership immediately.
+6. Employees must report any suspicious behavior or security incidents to Senior
+   Leadership immediately.
 
 ## Controls and Procedures
 
