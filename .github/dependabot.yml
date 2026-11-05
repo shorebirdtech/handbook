@@ -18,11 +18,8 @@ updates:
     cooldown:
       default-days: 5
     groups:
-      # Actions are referenced by floating major tags (e.g. @v6), which already
-      # track minor/patch silently. We deliberately do NOT request minor/patch
-      # updates here: doing so makes Dependabot pin the ref (@v6 -> @v6.4.0)
-      # instead of leaving the floating tag alone. We only want a PR when a new
-      # major ships.
+      # Actions are pinned to commit SHAs with the version in a comment;
+      # Dependabot bumps both together.
       gha-deps:
         patterns:
           - "*"
