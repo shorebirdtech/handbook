@@ -8,8 +8,6 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 jobs:
   build:
@@ -17,10 +15,30 @@ jobs:
 
     steps:
       - name: 📚 Git Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: 📦 Build Handbook
-        uses: ./.github/actions/astro_site
+      - name: ⚙️ Setup Node
+        uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6.5.0
+        with:
+          node-version: "24"
+
+      - name: ⬇️ Install Dependencies
+        run: npm ci && npx --no allow-scripts
+
+      - name: ✨ Check Format
+        run: npm run format:check
+
+      - name: 🔤 Spell Check
+        run: npx --no cspell --no-progress "**/*.md" "**/*.mdx"
+
+      - name: 📦 Build Site
+        run: npm run build
+
+      - name: ⬆️ Upload Pages Artifact
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: dist
+          include-hidden-files: true
 
   deploy:
     needs: build
@@ -29,6 +47,10 @@ jobs:
 
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
 
+    permissions:
+      pages: write
+      id-token: write
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -36,14 +58,4 @@ jobs:
     steps:
       - name: 🚀 Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
-
-  spell-check:
-    name: 🔤 Spell Check
-    uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/spell_check.yml@v1
-    with:
-      config: .cspell.yaml
-      includes: |
-        **/*.md
-        **/*.mdx
-      modified_files_only: false
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
