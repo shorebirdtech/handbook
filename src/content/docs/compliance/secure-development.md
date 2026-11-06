@@ -46,13 +46,14 @@ overflows. To maintain high standards:
 
 All code changes must:
 
-- Undergo peer review with a specific focus on security
-- Pass static code analysis before being merged
+- Be reviewed before merge, with a specific focus on security, by a reviewer
+  other than its author: our automated code reviewer, or a person
+- Be approved by a person when the change was written by an AI agent
+- Pass static code analysis and automated tests before being merged
 - Address all high and critical security issues identified during review or
   analysis
 
-Regular code reviews help catch security issues early and spread security
-knowledge across the team.
+Reviewing every change catches security issues early.
 
 ### Security Testing
 
