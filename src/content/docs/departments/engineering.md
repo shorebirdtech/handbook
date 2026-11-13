@@ -176,3 +176,26 @@ https://www.howtogeek.com/718731/how-to-exclude-folders-and-files-from-mac-spotl
 
 It's under "Spotlight & Siri", scroll down and click the "Privacy..." button and
 add your source folder.
+
+### CI runner priority
+
+Our Linux CI runs on Namespace, which caps how much runs at once (vCPU and
+RAM). When the pool is full, Namespace starts queued jobs by their
+`job.priority` (appended to the runner label, e.g.
+`nscloud-ubuntu-22.04-amd64-4x8;job.priority=2`): lower numbers start first,
+and any priority starts before none. Priority only decides who waits, so it
+follows one rule in every repo, by who is waiting:
+
+| Tier | What | Today |
+| ---- | ---- | ----- |
+| 1 | The release's critical path | Release engine build (`_build_engine`), release PRs' Engine Unit Tests (`flutter`), dispatched Android e2e (`shorebird_e2e`) |
+| 2 | Short jobs a person or merge queue waits on | `_work` CI, engine test builds (`_build_engine`), PR Engine Unit Tests (`flutter`), e2e on PRs (`shorebird_e2e`) |
+| 3 | Bulk suites | A release's Dart full CI (`dart-sdk`) |
+| none | The rest | Scheduled runs, pushes to main or dev, `dart-sdk`'s own PR CI |
+
+Short jobs go ahead of bulk ones because they cost the bulk suite minutes,
+while a bulk suite ahead of them costs them hours: on 2026-11-13 a release's
+37-job Dart CI held the whole Linux pool for three hours and `_work`'s merge
+queue waited behind it. Mac jobs carry no priority, so that the release
+build's Mac shards aren't jumped. A new job takes the tier this table gives
+it; a job that doesn't fit is a change to this table, not a new number.
