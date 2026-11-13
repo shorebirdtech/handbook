@@ -176,3 +176,26 @@ https://www.howtogeek.com/718731/how-to-exclude-folders-and-files-from-mac-spotl
 
 It's under "Spotlight & Siri", scroll down and click the "Privacy..." button and
 add your source folder.
+
+### CI runner priority
+
+Our CI runs on [Namespace](https://namespace.so), which caps how much runs at
+once. When the pool is full, Namespace starts queued jobs by the `job.priority`
+on their runner label (e.g. `nscloud-ubuntu-22.04-amd64-4x8;job.priority=2`):
+lower numbers start first, and any priority starts before none
+([job ordering](https://namespace.so/docs/solutions/github-actions/runner-controls/job-ordering)).
+
+Every repo uses the same tiers. Short jobs go first, because a short job ahead
+of a long suite delays it by minutes, while a long suite ahead of short jobs
+delays them by hours. Within each, release work goes first.
+
+| Tier | Jobs                           | Examples                                                         |
+| ---- | ------------------------------ | ---------------------------------------------------------------- |
+| 1    | Short jobs a release waits on  | The release's engine build, release PR checks, the release's e2e |
+| 2    | Short jobs anyone waits on     | PR checks, merge queues, engine test builds                      |
+| 3    | Long suites a release waits on | A release's full Dart SDK CI                                     |
+| none | Everything else                | Long PR suites (Dart SDK PR CI), scheduled runs, pushes to main  |
+
+Priority is set on Linux jobs only: Mac and Windows have pools of their own and
+no tiers yet. A new job takes the tier this table gives it; a job that doesn't
+fit is a change to this table, not a new number.
