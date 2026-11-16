@@ -71,6 +71,19 @@ Ensure that sensitive information such as API keys, passwords, and certificates
 are never committed to the repository. Use environment variables or secure
 secret management systems to handle sensitive data.
 
+### Third-Party Build Dependencies
+
+Code we run in CI can read our source and secrets, so we keep it few and fixed:
+
+- Use a third-party GitHub Action only when no first-party action or short
+  script does the job
+- Pin every GitHub Action to a full-length commit SHA, never a tag or branch,
+  which its owner can move. GitHub enforces this across the organization:
+  a workflow that references an action by tag fails to run
+- Update pins through Dependabot, with a cooldown so a new release is not
+  adopted the day it is published, and review each update like any other
+  change
+
 ### Secure Deployment
 
 Security considerations extend to the deployment process:
