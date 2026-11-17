@@ -196,6 +196,11 @@ delays them by hours. Within each, release work goes first.
 | 3    | Long suites a release waits on | A release's full Dart SDK CI                                     |
 | none | Everything else                | Long PR suites (Dart SDK PR CI), scheduled runs, pushes to main  |
 
+Merge queues are tier 2 even when their jobs are long, because a queue blocks
+landing and drops an entry that waits too long. The Dart SDK's queue runs about
+six Linux jobs of 5-32 minutes, so another repo's tier-2 check can wait behind
+one. The same suites stay at none on a PR, where nothing waits on them to land.
+
 Priority is set on Linux jobs only: Mac and Windows have pools of their own and
 no tiers yet. A new job takes the tier this table gives it; a job that doesn't
 fit is a change to this table, not a new number.
