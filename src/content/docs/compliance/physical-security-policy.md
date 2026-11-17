@@ -10,8 +10,7 @@ All access to Code Town, Inc. (D/B/A “Shorebird”)'s physical locations are
 governed by this policy and managed by the leadership team. The policy aims to
 ensure that access to any company office is secured and restricted to authorized
 individuals to protect our employees, data, and assets from unauthorized access
-or potential security breaches. Shorebird does not currently operate in a
-permanent office.
+or potential security breaches. Shorebird has a small office in Palo Alto.
 
 The entirety of the Shorebird application is hosted on Cloud Services such as
 Google Cloud. These cloud providers maintain documentation surrounding their
@@ -40,10 +39,11 @@ yearly to ensure it is compliant with Shorebird security requirements.
 
 In the event of a pandemic, Shorebird will follow the guidance and
 recommendations provided by local, state, and federal health authorities to
-ensure the safety and well-being of our employees. As a fully remote company,
-Shorebird is well-positioned to maintain business continuity during a pandemic.
-However, we recognize that our employees may face additional challenges, such as
-increased family responsibilities or potential health concerns.
+ensure the safety and well-being of our employees. As a remote-by-default
+company, Shorebird is well-positioned to maintain business continuity during a
+pandemic. However, we recognize that our employees may face additional
+challenges, such as increased family responsibilities or potential health
+concerns.
 
 Employees are encouraged to communicate any concerns or challenges they face
 during a pandemic to their manager or the leadership team. We will work with
