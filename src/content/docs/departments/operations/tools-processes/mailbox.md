@@ -10,10 +10,10 @@ mailbox provider.
 
 ## Mailbox Access
 
-Currently only Eric and Tom have access to this account. We can add users as
-needed for a fee. Before attempting to add users talk to the Operations team
-with a reason for it long term. We should be able to forward or extract PDF's
-for content needed to share rather then add more users.
+Currently only Eric has access to this account. We can add users as needed for a
+fee. Before attempting to add users talk to the Operations team with a reason
+for it long term. We should be able to forward or extract PDF's for content
+needed to share rather then add more users.
 
 ## Process
 
@@ -41,7 +41,7 @@ information is dealt with quickly.
 3. Assign/Take Action/Follow up as needed - We keep the item in the mailbox
    until it is fully acted on/completed. Currently we don't have an assignment
    field for a person but may be something we add if the volume goes up. For now
-   Tom is the point person for this.
+   Eric is the point person for this.
 
 ### Archive
 
