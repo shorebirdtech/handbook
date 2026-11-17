@@ -192,7 +192,7 @@ delays them by hours. Within each, release work goes first.
 | Tier | Jobs                           | Examples                                                         |
 | ---- | ------------------------------ | ---------------------------------------------------------------- |
 | 1    | Short jobs a release waits on  | The release's engine build, release PR checks, the release's e2e |
-| 2    | Short jobs anyone waits on     | PR checks, merge queues, engine test builds                      |
+| 2    | Short jobs anyone waits on     | PR checks, merge queues (Dart SDK's too), engine test builds     |
 | 3    | Long suites a release waits on | A release's full Dart SDK CI                                     |
 | none | Everything else                | Long PR suites (Dart SDK PR CI), scheduled runs, pushes to main  |
 
