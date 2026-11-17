@@ -16,7 +16,7 @@
     "@astrojs/starlight": "^0.42.11",
     "@lavamoat/preinstall-always-fail": "^3.0.1",
     "@tailwindcss/vite": "^4.3.5",
-    "astro": "^7.4.11",
+    "astro": "^7.4.12",
     "sharp": "^0.35.5",
     "starlight-auto-sidebar": "^0.4.1",
     "starlight-theme-nova": "^0.12.3",
