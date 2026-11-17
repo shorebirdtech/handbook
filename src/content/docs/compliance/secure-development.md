@@ -71,6 +71,20 @@ Ensure that sensitive information such as API keys, passwords, and certificates
 are never committed to the repository. Use environment variables or secure
 secret management systems to handle sensitive data.
 
+### Third-Party GitHub Actions
+
+Code we run in CI can read our source and secrets, so we keep it few and fixed:
+
+- Prefer GitHub's or our own actions, or a short script, to a third-party action
+- Pin every action to a full-length commit SHA, never a tag or branch, which its
+  owner can move. An organization setting rejects workflows whose actions are
+  not pinned
+- Pin reusable workflows the same way, except where a registry requires a tag
+  ref; each such exception is approved as described under Compliance and
+  Enforcement
+- Update pins through reviewed changes, opened by Dependabot with a cooldown of
+  several days where it is configured (security fixes are not delayed)
+
 ### Secure Deployment
 
 Security considerations extend to the deployment process:
