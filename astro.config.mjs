@@ -9,6 +9,9 @@ const site = "https://handbook.shorebird.dev/";
 // https://astro.build/config
 export default defineConfig({
   site,
+  // Starlight 0.43 stopped setting this. Keep zero-specificity `:where()`
+  // scoping so Starlight and Nova component styles cascade as they did before.
+  scopedStyleStrategy: "where",
   vite: {
     plugins: [tailwindcss()],
   },
